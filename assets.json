@@ -1,5 +1,15 @@
 [
   {
+    "id": "Video_Money_Burning.mp4",
+    "name": "Money",
+    "category": "video",
+    "description": "Burning",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning_thumb.jpg",
+    "source": "harshmore117",
+    "date": "2026-02-05T17:45:19.192Z"
+  },
+  {
     "id": "SFX_Data_1.wav",
     "name": "Data",
     "category": "sfx",
