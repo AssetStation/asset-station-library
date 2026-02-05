@@ -1,5 +1,15 @@
 [
   {
+    "id": "Icons_money_stack.png",
+    "name": "money",
+    "category": "icon",
+    "description": "stack",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icons_money_stack.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icons_money_stack.png",
+    "source": "harshmore117",
+    "date": "2026-02-05T20:23:41.873Z"
+  },
+  {
     "id": "GreenScreen_Money_Falling.mp4",
     "name": "Money",
     "category": "greenscreen",
