@@ -1,5 +1,15 @@
 [
   {
+    "id": "Icons_dollar_Coin.png",
+    "name": "dollar",
+    "category": "icon",
+    "description": "Coin",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icons_dollar_Coin.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icons_dollar_Coin.png",
+    "source": "motionkit.",
+    "date": "2026-02-06T05:05:13.856Z"
+  },
+  {
     "id": "Greenscreen_Like_Share_Subscribe_Button.mp4",
     "name": "Like",
     "category": "greenscreen",
