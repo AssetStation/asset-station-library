@@ -1,5 +1,15 @@
 [
   {
+    "id": "Icons_instagram_logo.png",
+    "name": "instagram",
+    "category": "icon",
+    "description": "logo",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icons_instagram_logo.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icons_instagram_logo.png",
+    "source": "harshmore117",
+    "date": "2026-02-07T11:17:27.546Z"
+  },
+  {
     "id": "Textures_Red_paint.jpeg",
     "name": "Red",
     "category": "texture",
