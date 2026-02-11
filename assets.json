@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_clock_ticking_sound_effect_240503.mp3",
+    "name": "clock",
+    "category": "sfx",
+    "description": "ticking_sound_effect_240503",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_clock_ticking_sound_effect_240503.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:28:05.692Z"
+  },
+  {
     "id": "SFX_bike_wheel_spinning_1613.wav",
     "name": "bike",
     "category": "sfx",
