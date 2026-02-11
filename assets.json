@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_futuristic_bass_hit_2303.wav",
+    "name": "futuristic",
+    "category": "sfx",
+    "description": "bass_hit_2303",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_bass_hit_2303.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:28:29.011Z"
+  },
+  {
     "id": "SFX_fast_whip_strike_1511.wav",
     "name": "fast",
     "category": "sfx",
