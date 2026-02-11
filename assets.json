@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_anime_shine.mp3",
+    "name": "anime",
+    "category": "sfx",
+    "description": "shine",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_anime_shine.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:04:03.573Z"
+  },
+  {
     "id": "Textures_Diamond_Crystal.jpeg",
     "name": "Diamond",
     "category": "texture",
