@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_fast_keyboard_typing_01.wav",
+    "name": "fast",
+    "category": "sfx",
+    "description": "keyboard_typing_01",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_fast_keyboard_typing_01.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:10:38.495Z"
+  },
+  {
     "id": "SFX_anime_shine.mp3",
     "name": "anime",
     "category": "sfx",
