@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_typing_on_a_laptop_keyboard_2531.wav",
+    "name": "typing",
+    "category": "sfx",
+    "description": "on_a_laptop_keyboard_2531",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_typing_on_a_laptop_keyboard_2531.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:34:07.197Z"
+  },
+  {
     "id": "SFX_tv_static_noise_291374.mp3",
     "name": "tv",
     "category": "sfx",
