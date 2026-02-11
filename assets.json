@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_cowbell_sharp_hit.wav",
+    "name": "cowbell",
+    "category": "sfx",
+    "description": "sharp_hit",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_cowbell_sharp_hit.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:10:51.310Z"
+  },
+  {
     "id": "SFX_cinematic_intro.mp3",
     "name": "cinematic",
     "category": "sfx",
