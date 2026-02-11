@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_tick_tock_clock_timer_1045.wav",
+    "name": "tick",
+    "category": "sfx",
+    "description": "tock_clock_timer_1045",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_tick_tock_clock_timer_1045.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:34:22.338Z"
+  },
+  {
     "id": "SFX_text_sound_4_30218.mp3",
     "name": "text",
     "category": "sfx",
