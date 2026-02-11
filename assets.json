@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_mouse_click_290204.mp3",
+    "name": "mouse",
+    "category": "sfx",
+    "description": "click_290204",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_mouse_click_290204.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:32:58.786Z"
+  },
+  {
     "id": "SFX_keyboard_typing_5997.mp3",
     "name": "keyboard",
     "category": "sfx",
