@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_sword_sound_2_36274.mp3",
+    "name": "sword",
+    "category": "sfx",
+    "description": "sound_2_36274",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_sword_sound_2_36274.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:32:49.573Z"
+  },
+  {
     "id": "SFX_horror_body_drop_152091.mp3",
     "name": "horror",
     "category": "sfx",
