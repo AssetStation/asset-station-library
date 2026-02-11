@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_small_electric_glitch_2595.wav",
+    "name": "small",
+    "category": "sfx",
+    "description": "electric_glitch_2595",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_small_electric_glitch_2595.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:33:10.303Z"
+  },
+  {
     "id": "SFX_single_book_paging_1101.wav",
     "name": "single",
     "category": "sfx",
