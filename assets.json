@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_explosion_3_274684.mp3",
+    "name": "explosion",
+    "category": "sfx",
+    "description": "3_274684",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_explosion_3_274684.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:28:18.164Z"
+  },
+  {
     "id": "SFX_ding_101492.mp3",
     "name": "ding",
     "category": "sfx",
