@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_user_interface_zoom_in_2618.wav",
+    "name": "user",
+    "category": "sfx",
+    "description": "interface_zoom_in_2618",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_user_interface_zoom_in_2618.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:34:13.438Z"
+  },
+  {
     "id": "SFX_ui_zoom_out_2619.wav",
     "name": "ui",
     "category": "sfx",
