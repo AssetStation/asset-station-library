@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_futuristic_glitch_robot_1039.wav",
+    "name": "futuristic",
+    "category": "sfx",
+    "description": "glitch_robot_1039",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_glitch_robot_1039.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-11T06:30:43.290Z"
+  },
+  {
     "id": "SFX_impact_sound_effect_308750.mp3",
     "name": "impact",
     "category": "sfx",
