@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_CRISPY_CLICK.mp3",
+    "name": "CRISPY",
+    "category": "sfx",
+    "description": "CLICK",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_CRISPY_CLICK_1771346626848.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-17T16:43:47.666Z"
+  },
+  {
     "id": "SFX_Numbers_Count.wav",
     "name": "Numbers",
     "category": "sfx",
