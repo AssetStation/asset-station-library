@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_Electric_1.mp3",
+    "name": "Electric",
+    "category": "sfx",
+    "description": "1",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Electric_1.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-17T15:55:40.316Z"
+  },
+  {
     "id": "SFX_tick_tock_clock_timer_1045.wav",
     "name": "tick",
     "category": "sfx",
