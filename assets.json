@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_ui_tuping.mp3",
+    "name": "ui",
+    "category": "sfx",
+    "description": "tuping",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_ui_tuping.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-17T16:47:00.954Z"
+  },
+  {
     "id": "Sfx_ui_pop_up_2.mp3",
     "name": "ui",
     "category": "sfx",
