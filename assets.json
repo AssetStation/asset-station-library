@@ -1,5 +1,15 @@
 [
   {
+    "id": "Texture_Rubi.jpeg",
+    "name": "Rubi",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Rubi.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Rubi.jpeg",
+    "source": "motionkit.",
+    "date": "2026-02-18T08:18:12.256Z"
+  },
+  {
     "id": "SFX_Short_Dramatic_Whoosh.wav",
     "name": "Short Dramatic Whoosh",
     "category": "SFX",
