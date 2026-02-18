@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_Whoosh_Soft_Whip_Flapping.wav",
+    "name": "Whoosh Soft Whip Flapping",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Soft_Whip_Flapping.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T09:47:35.090Z"
+  },
+  {
     "id": "SFX_Whoosh_Big_Airy_Metallic_Swish.wav",
     "name": "Whoosh Big Airy Metallic Swish",
     "category": "SFX",
