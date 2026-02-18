@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_Digital_Camera_Shutter_Beeping_Sony_DSC-H300.aac",
+    "name": "Digital",
+    "category": "sfx",
+    "description": "Camera_Shutter_Beeping_Sony_DSC-H300",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_Digital_Camera_Shutter_Beeping_Sony_DSC-H300.aac",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T06:06:16.917Z"
+  },
+  {
     "id": "Sfx_Hacking_-_Updating_System_Software_Data_Transfer.wav",
     "name": "Hacking",
     "category": "sfx",
