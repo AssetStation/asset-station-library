@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_Bright_Chime.wav",
+    "name": "Bright",
+    "category": "sfx",
+    "description": "Chime",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_Bright_Chime.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T05:29:08.059Z"
+  },
+  {
     "id": "Sfx_Anime_Portal_Open.wav",
     "name": "Anime",
     "category": "sfx",
