@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_Bright_UI_-_Select_Swipe.wav",
+    "name": "Bright",
+    "category": "sfx",
+    "description": "UI_-_Select_Swipe",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_Bright_UI_-_Select_Swipe.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T05:29:10.066Z"
+  },
+  {
     "id": "Sfx_Bright_Chime.wav",
     "name": "Bright",
     "category": "sfx",
