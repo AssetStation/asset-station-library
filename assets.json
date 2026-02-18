@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_Anime_Portal_Open.wav",
+    "name": "Anime",
+    "category": "sfx",
+    "description": "Portal_Open",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_Anime_Portal_Open.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T05:29:05.716Z"
+  },
+  {
     "id": "Sfx_Airy_Thump_Whoosh_Right_to_Left.wav",
     "name": "Airy",
     "category": "sfx",
