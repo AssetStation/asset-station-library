@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_UI_Data_Loading_Sound_Effect.mp3",
+    "name": "UI Data Loading Sound Effect",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Data_Loading_Sound_Effect.mp3",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T09:47:49.591Z"
+  },
+  {
     "id": "SFX_The_Carillon_of_Wonders_Bright_UI_Startup.wav",
     "name": "The Carillon of Wonders Bright UI Startup",
     "category": "SFX",
