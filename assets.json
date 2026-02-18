@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_Sweet_UI_-_Bright_Popup.wav",
+    "name": "Sweet UI - Bright Popup",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sweet_UI_-_Bright_Popup.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T09:47:40.365Z"
+  },
+  {
     "id": "SFX_Sweet_UI_-_Bright_Alert.wav",
     "name": "Sweet UI - Bright Alert",
     "category": "SFX",
