@@ -1,5 +1,15 @@
 [
   {
+    "id": "Sfx_Bubble_Squeak_Upwards_Delight.wav",
+    "name": "Bubble",
+    "category": "sfx",
+    "description": "Squeak_Upwards_Delight",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Sfx_Bubble_Squeak_Upwards_Delight.wav",
+    "thumb": "",
+    "source": "motionkit.",
+    "date": "2026-02-18T05:29:12.168Z"
+  },
+  {
     "id": "Sfx_Bright_UI_-_Select_Swipe.wav",
     "name": "Bright",
     "category": "sfx",
