@@ -1,5 +1,15 @@
 [
   {
+    "id": "Video_Money_Burning_AI.mp4",
+    "name": "Money Burning AI",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning_AI.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning_AI_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-02-20T05:28:45.183Z"
+  },
+  {
     "id": "GreenScreen_Money_Explode_.mp4",
     "name": "Money Explode ",
     "category": "GreenScreen",
