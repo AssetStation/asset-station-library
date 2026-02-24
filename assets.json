@@ -1058,15 +1058,5 @@
     "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Textures_Blue_Liquid_Metal.jpeg",
     "source": "motionkit.",
     "date": "2026-02-06T10:48:42.914Z"
-  },
-  {
-    "id": "Video_Money_Burning.mp4",
-    "name": "Money",
-    "category": "video",
-    "description": "Burning",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning_thumb.jpg",
-    "source": "harshmore117",
-    "date": "2026-02-06T07:35:17.680Z"
   }
 ]
