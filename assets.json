@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_popular-riser-metallic.mp3",
+    "name": "popular-riser-metallic",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_popular-riser-metallic.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_popular-riser-metallic_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-03-13T16:40:35.447Z"
+  },
+  {
     "id": "Background_Blue_Grid_Motion_background.mp4",
     "name": "Blue Grid Motion background",
     "category": "Background",
