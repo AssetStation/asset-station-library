@@ -1,5 +1,15 @@
 [
   {
+    "id": "SFX_Riser_1.mp3",
+    "name": "Riser 1",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Riser_1.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Riser_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-03-13T16:44:59.244Z"
+  },
+  {
     "id": "SFX_popular-riser-metallic.mp3",
     "name": "popular-riser-metallic",
     "category": "SFX",
