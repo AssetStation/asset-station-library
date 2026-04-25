@@ -260,6 +260,16 @@
     "date": "2026-04-25T06:40:28.400Z"
   },
   {
+    "id": "SFX_ding.mp3",
+    "name": "ding",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_ding.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_ding_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:40:32.298Z"
+  },
+  {
     "id": "SFX_futuristic_bass_hit_2303.wav",
     "name": "futuristic bass hit 2303",
     "category": "SFX",
