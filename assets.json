@@ -450,6 +450,16 @@
     "date": "2026-04-25T06:45:34.804Z"
   },
   {
+    "id": "SFX_mouse_click_290204.mp3",
+    "name": "mouse click 290204",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_mouse_click_290204.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_mouse_click_290204_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:45:39.408Z"
+  },
+  {
     "id": "Textures_blue_crystal.jpeg",
     "name": "blue",
     "category": "texture",
