@@ -560,6 +560,16 @@
     "date": "2026-04-25T06:47:24.310Z"
   },
   {
+    "id": "SFX_Paper_Ripping.mp3",
+    "name": "Paper Ripping",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Paper_Ripping.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Paper_Ripping_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:47:29.837Z"
+  },
+  {
     "id": "SFX_Reversed_Shriek_Whoosh.wav",
     "name": "Reversed Shriek Whoosh",
     "category": "SFX",
