@@ -550,6 +550,16 @@
     "date": "2026-04-25T06:46:57.690Z"
   },
   {
+    "id": "SFX_Sci_fi_servo_UI_heads_up_display_high_beeps.wav",
+    "name": "Sci fi servo UI heads up display high beeps",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sci_fi_servo_UI_heads_up_display_high_beeps.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sci_fi_servo_UI_heads_up_display_high_beeps_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:47:04.025Z"
+  },
+  {
     "id": "Textures_blue_crystal.jpeg",
     "name": "blue",
     "category": "texture",
