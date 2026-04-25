@@ -240,6 +240,16 @@
     "date": "2026-04-25T06:36:30.808Z"
   },
   {
+    "id": "SFX_futuristic_bass_hit_2303.wav",
+    "name": "futuristic bass hit 2303",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_bass_hit_2303.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_bass_hit_2303_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:40:18.065Z"
+  },
+  {
     "id": "Textures_blue_crystal.jpeg",
     "name": "blue",
     "category": "texture",
