@@ -790,6 +790,16 @@
     "date": "2026-04-25T06:55:59.761Z"
   },
   {
+    "id": "SFX_UI_Data_Loading_Sound_Effect.mp3",
+    "name": "UI Data Loading Sound Effect",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Data_Loading_Sound_Effect.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Data_Loading_Sound_Effect_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:56:04.133Z"
+  },
+  {
     "id": "SFX_ui_pop_up_2.mp3",
     "name": "ui pop up 2",
     "category": "SFX",
