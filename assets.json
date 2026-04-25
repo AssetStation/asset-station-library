@@ -280,6 +280,16 @@
     "date": "2026-04-25T06:40:37.083Z"
   },
   {
+    "id": "SFX_Electric_1.mp3",
+    "name": "Electric 1",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Electric_1.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Electric_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:40:41.358Z"
+  },
+  {
     "id": "SFX_futuristic_bass_hit_2303.wav",
     "name": "futuristic bass hit 2303",
     "category": "SFX",
