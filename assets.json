@@ -220,6 +220,16 @@
     "date": "2026-04-25T06:37:05.645Z"
   },
   {
+    "id": "SFX_CRISPY_CLICK.mp3",
+    "name": "CRISPY CLICK",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_CRISPY_CLICK.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_CRISPY_CLICK_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:37:11.083Z"
+  },
+  {
     "id": "SFX_Crow_Sound_Effect.mp3",
     "name": "Crow Sound Effect",
     "category": "SFX",
