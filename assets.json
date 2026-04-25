@@ -150,6 +150,16 @@
     "date": "2026-04-25T06:36:35.647Z"
   },
   {
+    "id": "SFX_Bubble_Squeak_Upwards_Delight.wav",
+    "name": "Bubble Squeak Upwards Delight",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Bubble_Squeak_Upwards_Delight.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Bubble_Squeak_Upwards_Delight_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:36:39.993Z"
+  },
+  {
     "id": "SFX_Crow_Sound_Effect.mp3",
     "name": "Crow Sound Effect",
     "category": "SFX",
