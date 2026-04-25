@@ -750,6 +750,16 @@
     "date": "2026-04-25T06:55:13.144Z"
   },
   {
+    "id": "SFX_ui_tuping.mp3",
+    "name": "ui tuping",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_ui_tuping.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_ui_tuping_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-04-25T06:55:18.507Z"
+  },
+  {
     "id": "Textures_blue_crystal.jpeg",
     "name": "blue",
     "category": "texture",
