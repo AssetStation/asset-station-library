@@ -40,6 +40,17 @@
     "date": "2026-03-08T14:59:08.495Z"
   },
   {
+    "id": "FFX-Text_Fade_UP.ffx",
+    "name": "Fade UP",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Fade_UP.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Fade_UP.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Fade_UP_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-05-03T10:17:06.798Z"
+  },
+  {
     "id": "GreenScreen_Kid_Watching_TV.jpg",
     "name": "Kid Watching TV",
     "category": "GreenScreen",
