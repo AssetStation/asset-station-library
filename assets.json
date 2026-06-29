@@ -981,6 +981,16 @@
     "date": "2026-02-19T05:40:53.094Z"
   },
   {
+    "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
+    "name": "Orange white Blue Paint abstract",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Orange_white_Blue_Paint_abstract.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Orange_white_Blue_Paint_abstract.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:22:23.284Z"
+  },
+  {
     "id": "Textures_Red_paint.jpeg",
     "name": "Red",
     "category": "texture",
