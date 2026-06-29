@@ -921,6 +921,16 @@
     "date": "2026-04-25T07:07:35.681Z"
   },
   {
+    "id": "StockPhotos_Aesthetic_color_graded_leaves.jpg",
+    "name": "Aesthetic color graded leaves",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Aesthetic_color_graded_leaves.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Aesthetic_color_graded_leaves.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:22:14.124Z"
+  },
+  {
     "id": "Textures_blue_crystal.jpeg",
     "name": "blue",
     "category": "texture",
