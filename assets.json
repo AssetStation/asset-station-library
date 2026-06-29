@@ -961,6 +961,16 @@
     "date": "2026-06-29T14:22:46.182Z"
   },
   {
+    "id": "StockPhotos_Naruto_Wallpaper.jpg",
+    "name": "Naruto Wallpaper",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Naruto_Wallpaper.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Naruto_Wallpaper.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:22:55.515Z"
+  },
+  {
     "id": "StockPhotos_Open_sky_and_Ground_Anime.jpg",
     "name": "Open sky and Ground Anime",
     "category": "StockPhotos",
