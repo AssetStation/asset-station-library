@@ -961,6 +961,16 @@
     "date": "2026-06-29T14:22:28.149Z"
   },
   {
+    "id": "StockPhotos_Jeanswest_Poster.jpg",
+    "name": "Jeanswest Poster",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Jeanswest_Poster.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Jeanswest_Poster.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:23:58.786Z"
+  },
+  {
     "id": "StockPhotos_Joker_Purple_Theme.jpg",
     "name": "Joker Purple Theme",
     "category": "StockPhotos",
