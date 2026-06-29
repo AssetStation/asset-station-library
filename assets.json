@@ -991,6 +991,16 @@
     "date": "2026-06-29T14:22:32.699Z"
   },
   {
+    "id": "StockPhotos_SPIDER-GWEN.jpg",
+    "name": "SPIDER-GWEN",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_SPIDER-GWEN.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_SPIDER-GWEN.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:23:49.711Z"
+  },
+  {
     "id": "StockPhotos_Spiderman_Gwen_Wallpaper.jpg",
     "name": "Spiderman Gwen Wallpaper",
     "category": "StockPhotos",
