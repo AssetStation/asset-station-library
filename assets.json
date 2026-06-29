@@ -991,6 +991,16 @@
     "date": "2026-06-29T14:22:50.241Z"
   },
   {
+    "id": "StockPhotos_Spiderman_Wallpaper.jpg",
+    "name": "Spiderman Wallpaper",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Spiderman_Wallpaper.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Spiderman_Wallpaper.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:23:40.485Z"
+  },
+  {
     "id": "StockPhotos_Trasnformer_Prime_cinematic.jpg",
     "name": "Trasnformer Prime cinematic",
     "category": "StockPhotos",
