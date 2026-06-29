@@ -941,6 +941,16 @@
     "date": "2026-06-29T14:22:28.149Z"
   },
   {
+    "id": "StockPhotos_Open_sky_and_Ground_Anime.jpg",
+    "name": "Open sky and Ground Anime",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Open_sky_and_Ground_Anime.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Open_sky_and_Ground_Anime.jpg",
+    "source": "motionkit.",
+    "date": "2026-06-29T14:22:32.699Z"
+  },
+  {
     "id": "Textures_blue_crystal.jpeg",
     "name": "blue",
     "category": "texture",
