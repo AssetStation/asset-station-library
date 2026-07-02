@@ -111,6 +111,16 @@
     "date": "2026-07-02T16:48:08.085Z"
   },
   {
+    "id": "Music_Modern-classical-instrumental-piano-522790.mp3",
+    "name": "Modern-classical-instrumental-piano-522790",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Modern-classical-instrumental-piano-522790.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Modern-classical-instrumental-piano-522790_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-02T17:04:36.293Z"
+  },
+  {
     "id": "Script_Proximity_Animation.jsxbin",
     "name": "Proximity Animation",
     "category": "Script",
