@@ -101,6 +101,16 @@
     "date": "2026-02-07T11:17:27.546Z"
   },
   {
+    "id": "Music_Blue_Skies_-_Silent_Partner.mp3",
+    "name": "Blue Skies - Silent Partner",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Blue_Skies_-_Silent_Partner.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Blue_Skies_-_Silent_Partner_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-02T16:48:08.085Z"
+  },
+  {
     "id": "Script_Proximity_Animation.jsxbin",
     "name": "Proximity Animation",
     "category": "Script",
