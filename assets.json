@@ -1,5 +1,15 @@
 [
   {
+    "id": "3D_Hammer.glb",
+    "name": "Hammer",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Hammer.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Hammer_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-02T08:23:38.563Z"
+  },
+  {
     "id": "Background_Blue_Grid_Motion_background.mp4",
     "name": "Blue Grid Motion background",
     "category": "Background",
