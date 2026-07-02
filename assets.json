@@ -1,34 +1,4 @@
-[
-  {
-    "id": "3D_pixellabs-bomb-3627.glb",
-    "name": "pixellabs-bomb-3627",
-    "category": "3D",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_pixellabs-bomb-3627.glb",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_pixellabs-bomb-3627_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-02-24T08:36:53.904Z"
-  },
-  {
-    "id": "3D_Popcorn.glb",
-    "name": "Popcorn",
-    "category": "3D",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Popcorn.glb",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Popcorn_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-03-08T14:41:59.512Z"
-  },
-  {
-    "id": "3D_warhammer-3626.glb",
-    "name": "warhammer-3626",
-    "category": "3D",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_warhammer-3626.glb",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_warhammer-3626_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-02-24T10:03:25.070Z"
-  },
+[ 
   {
     "id": "Background_Blue_Grid_Motion_background.mp4",
     "name": "Blue Grid Motion background",
