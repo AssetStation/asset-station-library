@@ -813,6 +813,16 @@
     "date": "2026-04-25T06:53:28.470Z"
   },
   {
+    "id": "SFX_Swish_Riser.mp3",
+    "name": "Swish Riser",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Swish_Riser.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Swish_Riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-18T10:32:08.462Z"
+  },
+  {
     "id": "SFX_swish_sound_94707.mp3",
     "name": "swish sound 94707",
     "category": "SFX",
