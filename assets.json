@@ -433,16 +433,6 @@
     "date": "2026-07-18T10:31:54.811Z"
   },
   {
-    "id": "SFX_Fast_Riser_2.mp3",
-    "name": "Fast Riser 2",
-    "category": "SFX",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Fast_Riser_2.mp3",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Fast_Riser_2_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-07-18T10:31:58.924Z"
-  },
-  {
     "id": "SFX_fast_whip_strike_1511.wav",
     "name": "fast whip strike 1511",
     "category": "SFX",
@@ -733,12 +723,12 @@
     "date": "2026-04-25T06:47:43.517Z"
   },
   {
-    "id": "SFX_Quick_Riser.mp3",
-    "name": "Quick Riser",
+    "id": "SFX_Slow_Riser.mp3",
+    "name": "Slow Riser",
     "category": "SFX",
     "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Quick_Riser.mp3",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Quick_Riser_thumb.jpg",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Slow_Riser.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Slow_Riser_thumb.jpg",
     "source": "motionkit.",
     "date": "2026-07-18T10:32:12.391Z"
   },
