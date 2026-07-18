@@ -1163,6 +1163,16 @@
     "date": "2026-02-18T08:18:12.256Z"
   },
   {
+    "id": "Video_Growth_Trading_Chart.mp4",
+    "name": "Growth Trading Chart",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Growth_Trading_Chart.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Growth_Trading_Chart_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-18T10:15:20.986Z"
+  },
+  {
     "id": "Video_Money_Burning_AI.mp4",
     "name": "Money Burning AI",
     "category": "Video",
