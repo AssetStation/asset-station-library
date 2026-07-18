@@ -41,6 +41,16 @@
     "date": "2026-05-03T10:17:06.798Z"
   },
   {
+    "id": "GIF_Head_Burst.gif",
+    "name": "Head Burst",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GIF_Head_Burst.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GIF_Head_Burst.gif",
+    "source": "motionkit.",
+    "date": "2026-07-18T10:18:04.630Z"
+  },
+  {
     "id": "GIF_Mobile_Scrolling.gif",
     "name": "Mobile Scrolling",
     "category": "GIF",
