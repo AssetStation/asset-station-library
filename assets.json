@@ -403,6 +403,16 @@
     "date": "2026-04-25T06:41:00.078Z"
   },
   {
+    "id": "SFX_Fast_Riser_1.mp3",
+    "name": "Fast Riser 1",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Fast_Riser_1.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Fast_Riser_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-18T10:31:54.811Z"
+  },
+  {
     "id": "SFX_fast_whip_strike_1511.wav",
     "name": "fast whip strike 1511",
     "category": "SFX",
