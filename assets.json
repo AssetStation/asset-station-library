@@ -833,6 +833,16 @@
     "date": "2026-04-25T06:52:41.854Z"
   },
   {
+    "id": "SFX_Tension_Riser.wav",
+    "name": "Tension Riser",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Tension_Riser.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Tension_Riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-18T10:32:03.824Z"
+  },
+  {
     "id": "SFX_text_sound_4_30218.mp3",
     "name": "text sound 4 30218",
     "category": "SFX",
