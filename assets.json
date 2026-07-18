@@ -663,6 +663,16 @@
     "date": "2026-04-25T06:47:34.272Z"
   },
   {
+    "id": "SFX_popular-riser-metallic.mp3",
+    "name": "popular-riser-metallic",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_popular-riser-metallic.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_popular-riser-metallic_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-07-18T10:31:50.597Z"
+  },
+  {
     "id": "SFX_PopUp_Message_1.wav",
     "name": "PopUp Message 1",
     "category": "SFX",
