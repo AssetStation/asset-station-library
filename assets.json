@@ -10,16 +10,6 @@
     "date": "2026-07-02T08:23:38.563Z"
   },
   {
-    "id": "3D_Mini_Robot.glb",
-    "name": "Mini Robot",
-    "category": "3D",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Mini_Robot.glb",
-    "thumb": "https://cdn-icons-png.flaticon.com/128/2901/2901131.png",
-    "source": "motionkit.",
-    "date": "2026-07-18T10:57:58.370Z"
-  },
-  {
     "id": "Background_Blue_Grid_Motion_background.mp4",
     "name": "Blue Grid Motion background",
     "category": "Background",
