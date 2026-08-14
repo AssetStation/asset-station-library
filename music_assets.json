@@ -12,5 +12,19 @@
       514448260,
       514448272
     ]
+  },
+  {
+    "id": "Music_Modern_classical_instrumental_piano.mp3",
+    "name": "Modern classical instrumental piano",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Modern_classical_instrumental_piano.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Modern_classical_instrumental_piano_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:26:57.086Z",
+    "github_asset_ids": [
+      514448422,
+      514448447
+    ]
   }
 ]
