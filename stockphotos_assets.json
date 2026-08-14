@@ -52,6 +52,19 @@
     ]
   },
   {
+    "id": "StockPhotos_Joker_Purple_Theme.jpg",
+    "name": "Joker Purple Theme",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Joker_Purple_Theme.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Joker_Purple_Theme.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:35:54.610Z",
+    "github_asset_ids": [
+      514457483
+    ]
+  },
+  {
     "id": "StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
     "name": "Spitzer Space Telescope Illustration",
     "category": "StockPhotos",
