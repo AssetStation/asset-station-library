@@ -24,5 +24,18 @@
     "github_asset_ids": [
       514452301
     ]
+  },
+  {
+    "id": "GIF_Seabird_on_tube.gif",
+    "name": "Seabird on tube",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GIF_Seabird_on_tube.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GIF_Seabird_on_tube.gif",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:31:02.568Z",
+    "github_asset_ids": [
+      514452375
+    ]
   }
 ]
