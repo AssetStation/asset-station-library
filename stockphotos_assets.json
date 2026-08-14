@@ -91,6 +91,19 @@
     ]
   },
   {
+    "id": "StockPhotos_SPIDER_GWEN.jpg",
+    "name": "SPIDER GWEN",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_SPIDER_GWEN.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_SPIDER_GWEN.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:36:02.334Z",
+    "github_asset_ids": [
+      514457616
+    ]
+  },
+  {
     "id": "StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
     "name": "Spitzer Space Telescope Illustration",
     "category": "StockPhotos",
