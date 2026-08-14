@@ -1,5 +1,19 @@
 [
   {
+    "id": "Illustration_Eye_in_Hand.mp4",
+    "name": "Eye in Hand",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Eye_in_Hand.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Eye_in_Hand_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:20:56.507Z",
+    "github_asset_ids": [
+      514442620,
+      514442626
+    ]
+  },
+  {
     "id": "Illustration_Old_Days_Nostalgia.mp4",
     "name": "Old Days Nostalgia",
     "category": "Illustration",
