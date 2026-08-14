@@ -11,5 +11,18 @@
     "github_asset_ids": [
       514459054
     ]
+  },
+  {
+    "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
+    "name": "Orange white Blue Paint abstract",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Orange_white_Blue_Paint_abstract.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Orange_white_Blue_Paint_abstract.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:37:37.586Z",
+    "github_asset_ids": [
+      514459127
+    ]
   }
 ]
