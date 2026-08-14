@@ -154,5 +154,18 @@
     "github_asset_ids": [
       514458160
     ]
+  },
+  {
+    "id": "StockPhotos_WOBBLE_DUBAI_FLYER.jpg",
+    "name": "WOBBLE DUBAI FLYER",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_WOBBLE_DUBAI_FLYER.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_WOBBLE_DUBAI_FLYER.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:36:42.070Z",
+    "github_asset_ids": [
+      514458197
+    ]
   }
 ]
