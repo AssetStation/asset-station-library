@@ -1,5 +1,18 @@
 [
   {
+    "id": "StockPhotos_Aesthetic_color_graded_leaves.jpg",
+    "name": "Aesthetic color graded leaves",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Aesthetic_color_graded_leaves.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Aesthetic_color_graded_leaves.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:35:46.328Z",
+    "github_asset_ids": [
+      514457350
+    ]
+  },
+  {
     "id": "StockPhotos_Blue_Samurai_Gate_Anime.jpg",
     "name": "Blue Samurai Gate Anime",
     "category": "StockPhotos",
