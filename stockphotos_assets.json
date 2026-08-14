@@ -117,6 +117,19 @@
     ]
   },
   {
+    "id": "StockPhotos_Spiderman_Wallpaper.jpg",
+    "name": "Spiderman Wallpaper",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Spiderman_Wallpaper.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Spiderman_Wallpaper.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:36:10.086Z",
+    "github_asset_ids": [
+      514457769
+    ]
+  },
+  {
     "id": "StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
     "name": "Spitzer Space Telescope Illustration",
     "category": "StockPhotos",
