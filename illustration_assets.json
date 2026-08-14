@@ -12,5 +12,19 @@
       514442418,
       514442425
     ]
+  },
+  {
+    "id": "Illustration_People_Crowd_Hypnosis.mp4",
+    "name": "People Crowd Hypnosis",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_People_Crowd_Hypnosis.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_People_Crowd_Hypnosis_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:20:51.553Z",
+    "github_asset_ids": [
+      514442556,
+      514442570
+    ]
   }
 ]
