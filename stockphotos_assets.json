@@ -11,5 +11,18 @@
     "github_asset_ids": [
       514451240
     ]
+  },
+  {
+    "id": "StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
+    "name": "Spitzer Space Telescope Illustration",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:35:43.451Z",
+    "github_asset_ids": [
+      514457301
+    ]
   }
 ]
