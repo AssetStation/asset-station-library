@@ -39,6 +39,19 @@
     ]
   },
   {
+    "id": "StockPhotos_Jeanswest_Poster.jpg",
+    "name": "Jeanswest Poster",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Jeanswest_Poster.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Jeanswest_Poster.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:35:52.017Z",
+    "github_asset_ids": [
+      514457455
+    ]
+  },
+  {
     "id": "StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
     "name": "Spitzer Space Telescope Illustration",
     "category": "StockPhotos",
