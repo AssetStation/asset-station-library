@@ -26,5 +26,19 @@
       514445443,
       514445460
     ]
+  },
+  {
+    "id": "3D_Hammer.glb",
+    "name": "Hammer",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Hammer.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Hammer_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:24:35.655Z",
+    "github_asset_ids": [
+      514446377,
+      514446384
+    ]
   }
 ]
