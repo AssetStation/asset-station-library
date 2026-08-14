@@ -78,6 +78,19 @@
     ]
   },
   {
+    "id": "StockPhotos_Open_sky_and_Ground_Anime.jpg",
+    "name": "Open sky and Ground Anime",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Open_sky_and_Ground_Anime.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Open_sky_and_Ground_Anime.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-14T13:35:59.762Z",
+    "github_asset_ids": [
+      514457572
+    ]
+  },
+  {
     "id": "StockPhotos_Spitzer_Space_Telescope_Illustration.jpg",
     "name": "Spitzer Space Telescope Illustration",
     "category": "StockPhotos",
