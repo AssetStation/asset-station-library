@@ -26,5 +26,19 @@
       517704650,
       517704663
     ]
+  },
+  {
+    "id": "3D_Warrior_Game_Model.glb",
+    "name": "Warrior Game Model",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Warrior_Game_Model.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Warrior_Game_Model_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-17T06:10:28.827Z",
+    "github_asset_ids": [
+      517706947,
+      517706970
+    ]
   }
 ]
