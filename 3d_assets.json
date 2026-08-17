@@ -14,6 +14,20 @@
     ]
   },
   {
+    "id": "3D_Chest.glb",
+    "name": "Chest",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Chest.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Chest_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-17T06:11:39.750Z",
+    "github_asset_ids": [
+      517707938,
+      517707945
+    ]
+  },
+  {
     "id": "3D_Mini_Robot.glb",
     "name": "Mini Robot",
     "category": "3D",
