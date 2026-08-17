@@ -1,5 +1,19 @@
 [
   {
+    "id": "3D_Camera.glb",
+    "name": "Camera",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Camera.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Camera_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-08-17T06:09:35.439Z",
+    "github_asset_ids": [
+      517705896,
+      517705918
+    ]
+  },
+  {
     "id": "3D_Mini_Robot.glb",
     "name": "Mini Robot",
     "category": "3D",
