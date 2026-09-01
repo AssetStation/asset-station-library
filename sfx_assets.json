@@ -1274,6 +1274,20 @@
     ]
   },
   {
+    "id": "SFX_Quick_swoosh_2.mp3",
+    "name": "Quick swoosh 2",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Quick_swoosh_2.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Quick_swoosh_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:59:38.370Z",
+    "github_asset_ids": [
+      539627969,
+      539628006
+    ]
+  },
+  {
     "id": "SFX_Reversed_Shriek_Whoosh.wav",
     "name": "Reversed Shriek Whoosh",
     "category": "SFX",
