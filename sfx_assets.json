@@ -418,5 +418,19 @@
       539579023,
       539579029
     ]
+  },
+  {
+    "id": "SFX_explosion_sound.mp3",
+    "name": "explosion sound",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_explosion_sound.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_explosion_sound_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:05.020Z",
+    "github_asset_ids": [
+      539584806,
+      539584840
+    ]
   }
 ]
