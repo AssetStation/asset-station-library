@@ -588,6 +588,20 @@
     ]
   },
   {
+    "id": "SFX_glass_cinematic_hit_161212.mp3",
+    "name": "glass cinematic hit 161212",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_glass_cinematic_hit_161212.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_glass_cinematic_hit_161212_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:30:12.908Z",
+    "github_asset_ids": [
+      539592886,
+      539592893
+    ]
+  },
+  {
     "id": "SFX_interface_digital_text_generate.mp3",
     "name": "interface digital text generate",
     "category": "SFX",
