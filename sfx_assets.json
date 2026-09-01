@@ -826,6 +826,20 @@
     ]
   },
   {
+    "id": "SFX_Happy_pop.mp3",
+    "name": "Happy pop",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Happy_pop.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Happy_pop_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:57:19.513Z",
+    "github_asset_ids": [
+      539625312,
+      539625318
+    ]
+  },
+  {
     "id": "SFX_Head_Adjust_Click_01.mp3",
     "name": "Head Adjust Click 01",
     "category": "SFX",
