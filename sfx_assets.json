@@ -838,5 +838,19 @@
       539595496,
       539595525
     ]
+  },
+  {
+    "id": "SFX_Sci_Fi_Games_UI_Menu_Very_Short_Open_04.mp3",
+    "name": "Sci Fi Games UI Menu Very Short Open 04",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sci_Fi_Games_UI_Menu_Very_Short_Open_04.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sci_Fi_Games_UI_Menu_Very_Short_Open_04_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:34:49.961Z",
+    "github_asset_ids": [
+      539598480,
+      539598487
+    ]
   }
 ]
