@@ -1470,6 +1470,20 @@
     ]
   },
   {
+    "id": "SFX_simple_whoosh.mp3",
+    "name": "simple whoosh",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_simple_whoosh.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_simple_whoosh_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T14:01:07.031Z",
+    "github_asset_ids": [
+      539629851,
+      539629868
+    ]
+  },
+  {
     "id": "SFX_single_book_paging_1101.wav",
     "name": "single book paging 1101",
     "category": "SFX",
