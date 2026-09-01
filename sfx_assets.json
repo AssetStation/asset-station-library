@@ -1244,5 +1244,19 @@
       539606592,
       539606605
     ]
+  },
+  {
+    "id": "SFX_Whoosh_Big_Airy_Metallic_Swish.wav",
+    "name": "Whoosh Big Airy Metallic Swish",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Big_Airy_Metallic_Swish.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Big_Airy_Metallic_Swish_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:43:35.269Z",
+    "github_asset_ids": [
+      539608444,
+      539608468
+    ]
   }
 ]
