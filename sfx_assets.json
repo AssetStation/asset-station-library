@@ -42,6 +42,20 @@
     ]
   },
   {
+    "id": "SFX_awkward-cricket.mp3",
+    "name": "awkward-cricket",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_awkward-cricket.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_awkward-cricket_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:11:24.050Z",
+    "github_asset_ids": [
+      539568868,
+      539568873
+    ]
+  },
+  {
     "id": "SFX_Bubble_Rise.mp3",
     "name": "Bubble Rise",
     "category": "SFX",
