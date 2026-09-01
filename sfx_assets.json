@@ -194,5 +194,19 @@
       539577244,
       539577253
     ]
+  },
+  {
+    "id": "SFX_clock_ticking_sound_effect_240503.mp3",
+    "name": "clock ticking sound effect 240503",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_clock_ticking_sound_effect_240503.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_clock_ticking_sound_effect_240503_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:17:49.877Z",
+    "github_asset_ids": [
+      539577336,
+      539577351
+    ]
   }
 ]
