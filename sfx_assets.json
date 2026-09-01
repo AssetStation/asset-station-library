@@ -84,6 +84,20 @@
     ]
   },
   {
+    "id": "SFX_bike_wheel_spinning_1613.wav",
+    "name": "bike wheel spinning 1613",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_bike_wheel_spinning_1613.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_bike_wheel_spinning_1613_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:11:41.583Z",
+    "github_asset_ids": [
+      539569162,
+      539569220
+    ]
+  },
+  {
     "id": "SFX_Bubble_Rise.mp3",
     "name": "Bubble Rise",
     "category": "SFX",
