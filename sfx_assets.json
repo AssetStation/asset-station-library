@@ -392,6 +392,20 @@
     ]
   },
   {
+    "id": "SFX_Electric_1.mp3",
+    "name": "Electric 1",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Electric_1.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Electric_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:20:21.472Z",
+    "github_asset_ids": [
+      539580198,
+      539580210
+    ]
+  },
+  {
     "id": "SFX_Enter_Click.mp3",
     "name": "Enter Click",
     "category": "SFX",
