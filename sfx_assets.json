@@ -308,6 +308,20 @@
     ]
   },
   {
+    "id": "SFX_CRISPY_CLICK.mp3",
+    "name": "CRISPY CLICK",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_CRISPY_CLICK.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_CRISPY_CLICK_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:19:39.484Z",
+    "github_asset_ids": [
+      539579347,
+      539579355
+    ]
+  },
+  {
     "id": "SFX_Enter_Click.mp3",
     "name": "Enter Click",
     "category": "SFX",
