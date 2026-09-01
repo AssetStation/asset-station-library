@@ -278,5 +278,19 @@
       539577911,
       539577920
     ]
+  },
+  {
+    "id": "SFX_Enter_Click.mp3",
+    "name": "Enter Click",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Enter_Click.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Enter_Click_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:19:22.253Z",
+    "github_asset_ids": [
+      539579023,
+      539579029
+    ]
   }
 ]
