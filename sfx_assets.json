@@ -502,5 +502,19 @@
       539585696,
       539585720
     ]
+  },
+  {
+    "id": "SFX_futuristic_glitch_robot_1039.wav",
+    "name": "futuristic glitch robot 1039",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_glitch_robot_1039.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_glitch_robot_1039_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:49.221Z",
+    "github_asset_ids": [
+      539585856,
+      539585866
+    ]
   }
 ]
