@@ -560,6 +560,20 @@
     ]
   },
   {
+    "id": "SFX_futuristic_sci_fi_computer_ambience_2507.wav",
+    "name": "futuristic sci fi computer ambience 2507",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_sci_fi_computer_ambience_2507.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_sci_fi_computer_ambience_2507_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:29:59.353Z",
+    "github_asset_ids": [
+      539592613,
+      539592644
+    ]
+  },
+  {
     "id": "SFX_interface_digital_text_generate.mp3",
     "name": "interface digital text generate",
     "category": "SFX",
