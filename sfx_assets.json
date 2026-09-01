@@ -152,5 +152,19 @@
       539576784,
       539576827
     ]
+  },
+  {
+    "id": "SFX_Button_Pressed.mp3",
+    "name": "Button Pressed",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Button_Pressed.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Button_Pressed_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:17:33.100Z",
+    "github_asset_ids": [
+      539576976,
+      539576987
+    ]
   }
 ]
