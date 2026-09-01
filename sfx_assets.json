@@ -516,5 +516,19 @@
       539585856,
       539585866
     ]
+  },
+  {
+    "id": "SFX_futuristic_radar_ping_1583.wav",
+    "name": "futuristic radar ping 1583",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_radar_ping_1583.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_radar_ping_1583_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:55.116Z",
+    "github_asset_ids": [
+      539585985,
+      539586003
+    ]
   }
 ]
