@@ -1554,6 +1554,20 @@
     ]
   },
   {
+    "id": "SFX_Ui_pop_up.mp3",
+    "name": "Ui pop up",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_pop_up.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_pop_up_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:57:44.528Z",
+    "github_asset_ids": [
+      539625733,
+      539625747
+    ]
+  },
+  {
     "id": "SFX_ui_pop_up_2.mp3",
     "name": "ui pop up 2",
     "category": "SFX",
