@@ -432,5 +432,19 @@
       539584806,
       539584840
     ]
+  },
+  {
+    "id": "SFX_fast_keyboard_typing_1387.wav",
+    "name": "fast keyboard typing 1387",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_fast_keyboard_typing_1387.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_fast_keyboard_typing_1387_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:14.783Z",
+    "github_asset_ids": [
+      539584987,
+      539585050
+    ]
   }
 ]
