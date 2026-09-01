@@ -1274,6 +1274,20 @@
     ]
   },
   {
+    "id": "SFX_Suitcase_Close.wav",
+    "name": "Suitcase Close",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Suitcase_Close.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Suitcase_Close_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:57:00.829Z",
+    "github_asset_ids": [
+      539624959,
+      539624980
+    ]
+  },
+  {
     "id": "SFX_Sweet_UI_-_Bright_Alert.wav",
     "name": "Sweet UI - Bright Alert",
     "category": "SFX",
