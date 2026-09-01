@@ -56,6 +56,20 @@
     ]
   },
   {
+    "id": "SFX_arrow_whoosh.wav",
+    "name": "arrow whoosh",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_arrow_whoosh.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_arrow_whoosh_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T14:00:26.660Z",
+    "github_asset_ids": [
+      539628958,
+      539628977
+    ]
+  },
+  {
     "id": "SFX_awkward-cricket.mp3",
     "name": "awkward-cricket",
     "category": "SFX",
