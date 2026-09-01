@@ -1372,6 +1372,20 @@
     ]
   },
   {
+    "id": "SFX_Trash_Dump.wav",
+    "name": "Trash Dump",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Trash_Dump.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Trash_Dump_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:56:40.325Z",
+    "github_asset_ids": [
+      539624544,
+      539624563
+    ]
+  },
+  {
     "id": "SFX_tv_static_noise_291374.mp3",
     "name": "tv static noise 291374",
     "category": "SFX",
