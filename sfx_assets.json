@@ -1090,5 +1090,19 @@
       539602260,
       539602269
     ]
+  },
+  {
+    "id": "SFX_swish_sound_94707.mp3",
+    "name": "swish sound 94707",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_swish_sound_94707.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_swish_sound_94707_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:38:20.190Z",
+    "github_asset_ids": [
+      539602337,
+      539602341
+    ]
   }
 ]
