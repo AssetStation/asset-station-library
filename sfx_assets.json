@@ -462,6 +462,20 @@
     ]
   },
   {
+    "id": "SFX_Data_3.wav",
+    "name": "Data 3",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Data_3.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Data_3_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:56:10.644Z",
+    "github_asset_ids": [
+      539623869,
+      539623884
+    ]
+  },
+  {
     "id": "SFX_Data_Processing_Loading_Into_Shutting.wav",
     "name": "Data Processing Loading Into Shutting",
     "category": "SFX",
