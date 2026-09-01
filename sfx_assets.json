@@ -1246,6 +1246,20 @@
     ]
   },
   {
+    "id": "SFX_UI_Sound.mp3",
+    "name": "UI Sound",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Sound.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Sound_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:44:08.817Z",
+    "github_asset_ids": [
+      539609126,
+      539609139
+    ]
+  },
+  {
     "id": "SFX_Whoosh_Big_Airy_Metallic_Swish.wav",
     "name": "Whoosh Big Airy Metallic Swish",
     "category": "SFX",
