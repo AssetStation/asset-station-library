@@ -1216,5 +1216,19 @@
       539606352,
       539606361
     ]
+  },
+  {
+    "id": "SFX_UI_Data_Loading_Sound_Effect.mp3",
+    "name": "UI Data Loading Sound Effect",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Data_Loading_Sound_Effect.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Data_Loading_Sound_Effect_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:41:50.602Z",
+    "github_asset_ids": [
+      539606450,
+      539606464
+    ]
   }
 ]
