@@ -1260,6 +1260,20 @@
     ]
   },
   {
+    "id": "SFX_UI_tuping.mp3",
+    "name": "UI tuping",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_tuping.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_tuping_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:44:16.009Z",
+    "github_asset_ids": [
+      539609302,
+      539609313
+    ]
+  },
+  {
     "id": "SFX_Whoosh_Big_Airy_Metallic_Swish.wav",
     "name": "Whoosh Big Airy Metallic Swish",
     "category": "SFX",
