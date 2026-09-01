@@ -574,6 +574,20 @@
     ]
   },
   {
+    "id": "SFX_Door_open_noise.wav",
+    "name": "Door open noise",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Door_open_noise.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Door_open_noise_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:56:54.136Z",
+    "github_asset_ids": [
+      539624828,
+      539624857
+    ]
+  },
+  {
     "id": "SFX_Electric_1.mp3",
     "name": "Electric 1",
     "category": "SFX",
