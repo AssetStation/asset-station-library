@@ -1134,6 +1134,20 @@
     ]
   },
   {
+    "id": "SFX_pop_clean.mp3",
+    "name": "pop clean",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_pop_clean.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_pop_clean_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:57:32.216Z",
+    "github_asset_ids": [
+      539625526,
+      539625559
+    ]
+  },
+  {
     "id": "SFX_PopUp_Message_1.wav",
     "name": "PopUp Message 1",
     "category": "SFX",
