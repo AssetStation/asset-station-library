@@ -250,5 +250,19 @@
       539577545,
       539577565
     ]
+  },
+  {
+    "id": "SFX_Computer_Beeps_-_Negative_Bleep.wav",
+    "name": "Computer Beeps - Negative Bleep",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Computer_Beeps_-_Negative_Bleep.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Computer_Beeps_-_Negative_Bleep_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:18:10.231Z",
+    "github_asset_ids": [
+      539577782,
+      539577796
+    ]
   }
 ]
