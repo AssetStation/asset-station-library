@@ -1132,5 +1132,19 @@
       539605261,
       539605287
     ]
+  },
+  {
+    "id": "SFX_texto-iphone.mp3",
+    "name": "texto-iphone",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_texto-iphone.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_texto-iphone_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:41:05.828Z",
+    "github_asset_ids": [
+      539605438,
+      539605456
+    ]
   }
 ]
