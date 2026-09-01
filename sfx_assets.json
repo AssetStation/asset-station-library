@@ -1300,5 +1300,19 @@
       539608838,
       539608851
     ]
+  },
+  {
+    "id": "SFX_Winding_Action_Mechanical_UI.wav",
+    "name": "Winding Action Mechanical UI",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Winding_Action_Mechanical_UI.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Winding_Action_Mechanical_UI_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:44:03.086Z",
+    "github_asset_ids": [
+      539609001,
+      539609030
+    ]
   }
 ]
