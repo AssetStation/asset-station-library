@@ -474,5 +474,19 @@
       539585351,
       539585374
     ]
+  },
+  {
+    "id": "SFX_futuristic_bass_hit_2303.wav",
+    "name": "futuristic bass hit 2303",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_bass_hit_2303.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_bass_hit_2303_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:36.244Z",
+    "github_asset_ids": [
+      539585507,
+      539585561
+    ]
   }
 ]
