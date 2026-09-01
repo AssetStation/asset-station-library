@@ -28,6 +28,20 @@
     ]
   },
   {
+    "id": "SFX_Anime_Shine.mp3",
+    "name": "Anime Shine",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Anime_Shine.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Anime_Shine_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:11:18.528Z",
+    "github_asset_ids": [
+      539568745,
+      539568761
+    ]
+  },
+  {
     "id": "SFX_Bubble_Rise.mp3",
     "name": "Bubble Rise",
     "category": "SFX",
