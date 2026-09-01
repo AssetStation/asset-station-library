@@ -1258,5 +1258,19 @@
       539608444,
       539608468
     ]
+  },
+  {
+    "id": "SFX_Whoosh_Simple_Airy_Motion_Soft_Transition.aac",
+    "name": "Whoosh Simple Airy Motion Soft Transition",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Simple_Airy_Motion_Soft_Transition.aac",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Simple_Airy_Motion_Soft_Transition_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:43:41.871Z",
+    "github_asset_ids": [
+      539608575,
+      539608589
+    ]
   }
 ]
