@@ -42,6 +42,20 @@
     ]
   },
   {
+    "id": "3D_Gold_Key.glb",
+    "name": "Gold Key",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Gold_Key.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Gold_Key_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:10:18.671Z",
+    "github_asset_ids": [
+      539567279,
+      539567299
+    ]
+  },
+  {
     "id": "3D_Mini_Robot.glb",
     "name": "Mini Robot",
     "category": "3D",
