@@ -224,6 +224,20 @@
     ]
   },
   {
+    "id": "SFX_Coin.wav",
+    "name": "Coin",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Coin.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Coin_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:18:05.255Z",
+    "github_asset_ids": [
+      539577662,
+      539577678
+    ]
+  },
+  {
     "id": "SFX_coin_flip_37787.mp3",
     "name": "coin flip 37787",
     "category": "SFX",
