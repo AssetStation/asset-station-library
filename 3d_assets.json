@@ -1,5 +1,19 @@
 [
   {
+    "id": "3D_Ancient_Warrior.glb",
+    "name": "Ancient Warrior",
+    "category": "3D",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Ancient_Warrior.glb",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/3D_Ancient_Warrior_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:10:11.197Z",
+    "github_asset_ids": [
+      539567126,
+      539567165
+    ]
+  },
+  {
     "id": "3D_Camera.glb",
     "name": "Camera",
     "category": "3D",
