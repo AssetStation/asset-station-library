@@ -1146,5 +1146,19 @@
       539605438,
       539605456
     ]
+  },
+  {
+    "id": "SFX_The_Carillon_of_Wonders_Bright_UI_Startup.wav",
+    "name": "The Carillon of Wonders Bright UI Startup",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_The_Carillon_of_Wonders_Bright_UI_Startup.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_The_Carillon_of_Wonders_Bright_UI_Startup_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:41:14.288Z",
+    "github_asset_ids": [
+      539605629,
+      539605674
+    ]
   }
 ]
