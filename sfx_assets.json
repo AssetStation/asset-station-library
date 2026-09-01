@@ -488,5 +488,19 @@
       539585507,
       539585561
     ]
+  },
+  {
+    "id": "SFX_futuristic_door_open_183.mp3",
+    "name": "futuristic door open 183",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_door_open_183.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_door_open_183_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:42.275Z",
+    "github_asset_ids": [
+      539585696,
+      539585720
+    ]
   }
 ]
