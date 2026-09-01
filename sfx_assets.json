@@ -1006,5 +1006,19 @@
       539601500,
       539601519
     ]
+  },
+  {
+    "id": "SFX_single_book_paging_1101.wav",
+    "name": "single book paging 1101",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_single_book_paging_1101.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_single_book_paging_1101_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:37:45.137Z",
+    "github_asset_ids": [
+      539601626,
+      539601635
+    ]
   }
 ]
