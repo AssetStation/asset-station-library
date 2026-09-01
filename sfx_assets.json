@@ -1106,6 +1106,20 @@
     ]
   },
   {
+    "id": "SFX_pop.mp3",
+    "name": "pop",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_pop.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_pop_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:57:38.380Z",
+    "github_asset_ids": [
+      539625632,
+      539625639
+    ]
+  },
+  {
     "id": "SFX_pop_1.mp3",
     "name": "pop 1",
     "category": "SFX",
