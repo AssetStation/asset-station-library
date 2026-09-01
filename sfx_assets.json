@@ -1076,5 +1076,19 @@
       539602138,
       539602165
     ]
+  },
+  {
+    "id": "SFX_swipe_236674.mp3",
+    "name": "swipe 236674",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_swipe_236674.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_swipe_236674_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:38:15.413Z",
+    "github_asset_ids": [
+      539602260,
+      539602269
+    ]
   }
 ]
