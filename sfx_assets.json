@@ -112,6 +112,20 @@
     ]
   },
   {
+    "id": "SFX_Bright_UI_-_Select_Swipe.wav",
+    "name": "Bright UI - Select Swipe",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Bright_UI_-_Select_Swipe.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Bright_UI_-_Select_Swipe_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:11:52.188Z",
+    "github_asset_ids": [
+      539569380,
+      539569391
+    ]
+  },
+  {
     "id": "SFX_Bubble_Rise.mp3",
     "name": "Bubble Rise",
     "category": "SFX",
