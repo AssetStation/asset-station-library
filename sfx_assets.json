@@ -770,6 +770,20 @@
     ]
   },
   {
+    "id": "SFX_mouse_click_290204.mp3",
+    "name": "mouse click 290204",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_mouse_click_290204.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_mouse_click_290204_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:32:56.773Z",
+    "github_asset_ids": [
+      539596184,
+      539596212
+    ]
+  },
+  {
     "id": "SFX_paper_flutter_5933.mp3",
     "name": "paper flutter 5933",
     "category": "SFX",
