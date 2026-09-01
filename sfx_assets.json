@@ -1,5 +1,19 @@
 [
   {
+    "id": "SFX_Air_zoom_vacuum.wav",
+    "name": "Air zoom vacuum",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Air_zoom_vacuum.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Air_zoom_vacuum_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:59:23.619Z",
+    "github_asset_ids": [
+      539627742,
+      539627760
+    ]
+  },
+  {
     "id": "SFX_Airy_Thump_Whoosh_Right_to_Left.wav",
     "name": "Airy Thump Whoosh Right to Left",
     "category": "SFX",
