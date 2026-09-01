@@ -1160,5 +1160,19 @@
       539605629,
       539605674
     ]
+  },
+  {
+    "id": "SFX_tick_tock_clock_timer_1045.wav",
+    "name": "tick tock clock timer 1045",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_tick_tock_clock_timer_1045.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_tick_tock_clock_timer_1045_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:41:23.011Z",
+    "github_asset_ids": [
+      539605847,
+      539605902
+    ]
   }
 ]
