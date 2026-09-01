@@ -798,6 +798,20 @@
     ]
   },
   {
+    "id": "SFX_Opening-a-coke-bottle.mp3",
+    "name": "Opening-a-coke-bottle",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Opening-a-coke-bottle.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Opening-a-coke-bottle_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:33:11.144Z",
+    "github_asset_ids": [
+      539596516,
+      539596539
+    ]
+  },
+  {
     "id": "SFX_paper_flutter_5933.mp3",
     "name": "paper flutter 5933",
     "category": "SFX",
