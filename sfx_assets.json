@@ -1736,6 +1736,20 @@
     ]
   },
   {
+    "id": "SFX_vacuum_swoosh_transition.wav",
+    "name": "vacuum swoosh transition",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_vacuum_swoosh_transition.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_vacuum_swoosh_transition_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:59:17.604Z",
+    "github_asset_ids": [
+      539627672,
+      539627681
+    ]
+  },
+  {
     "id": "SFX_Whoosh_Airy_Motion_Soft_Transition_2.aac",
     "name": "Whoosh Airy Motion Soft Transition 2",
     "category": "SFX",
