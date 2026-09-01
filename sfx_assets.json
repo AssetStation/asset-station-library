@@ -1274,6 +1274,20 @@
     ]
   },
   {
+    "id": "SFX_UI_zoom_out_2619.wav",
+    "name": "UI zoom out 2619",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_zoom_out_2619.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_zoom_out_2619_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:44:22.267Z",
+    "github_asset_ids": [
+      539609467,
+      539609474
+    ]
+  },
+  {
     "id": "SFX_Whoosh_Big_Airy_Metallic_Swish.wav",
     "name": "Whoosh Big Airy Metallic Swish",
     "category": "SFX",
