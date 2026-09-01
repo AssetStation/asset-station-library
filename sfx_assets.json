@@ -1358,6 +1358,20 @@
     ]
   },
   {
+    "id": "SFX_rapid_wind.mp3",
+    "name": "rapid wind",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_rapid_wind.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_rapid_wind_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T14:01:00.977Z",
+    "github_asset_ids": [
+      539629712,
+      539629727
+    ]
+  },
+  {
     "id": "SFX_Reversed_Shriek_Whoosh.wav",
     "name": "Reversed Shriek Whoosh",
     "category": "SFX",
