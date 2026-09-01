@@ -264,5 +264,19 @@
       539577782,
       539577796
     ]
+  },
+  {
+    "id": "SFX_correct_answer_tone_2870.wav",
+    "name": "correct answer tone 2870",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_correct_answer_tone_2870.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_correct_answer_tone_2870_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:18:15.963Z",
+    "github_asset_ids": [
+      539577911,
+      539577920
+    ]
   }
 ]
