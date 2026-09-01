@@ -700,6 +700,20 @@
     ]
   },
   {
+    "id": "SFX_iPhone_Ding_Notification.mp3",
+    "name": "iPhone Ding Notification",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_iPhone_Ding_Notification.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_iPhone_Ding_Notification_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:32:27.248Z",
+    "github_asset_ids": [
+      539595630,
+      539595647
+    ]
+  },
+  {
     "id": "SFX_paper_flutter_5933.mp3",
     "name": "paper flutter 5933",
     "category": "SFX",
