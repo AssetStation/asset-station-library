@@ -742,6 +742,20 @@
     ]
   },
   {
+    "id": "SFX_Kiss.mp3",
+    "name": "Kiss",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Kiss.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Kiss_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:32:44.831Z",
+    "github_asset_ids": [
+      539595974,
+      539595990
+    ]
+  },
+  {
     "id": "SFX_paper_flutter_5933.mp3",
     "name": "paper flutter 5933",
     "category": "SFX",
