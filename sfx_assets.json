@@ -1120,6 +1120,20 @@
     ]
   },
   {
+    "id": "SFX_pop_atmos.mp3",
+    "name": "pop atmos",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_pop_atmos.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_pop_atmos_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:57:25.941Z",
+    "github_asset_ids": [
+      539625412,
+      539625424
+    ]
+  },
+  {
     "id": "SFX_PopUp_Message_1.wav",
     "name": "PopUp Message 1",
     "category": "SFX",
