@@ -574,6 +574,20 @@
     ]
   },
   {
+    "id": "SFX_futuristic_slide_1533.wav",
+    "name": "futuristic slide 1533",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_slide_1533.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_slide_1533_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:30:06.990Z",
+    "github_asset_ids": [
+      539592744,
+      539592763
+    ]
+  },
+  {
     "id": "SFX_interface_digital_text_generate.mp3",
     "name": "interface digital text generate",
     "category": "SFX",
