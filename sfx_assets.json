@@ -168,6 +168,20 @@
     ]
   },
   {
+    "id": "SFX_Camera_1.mp3",
+    "name": "Camera 1",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Camera_1.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Camera_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:50:33.220Z",
+    "github_asset_ids": [
+      539616532,
+      539616552
+    ]
+  },
+  {
     "id": "SFX_Car_Door_Shut.mp3",
     "name": "Car Door Shut",
     "category": "SFX",
