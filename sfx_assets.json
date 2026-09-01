@@ -252,6 +252,20 @@
     ]
   },
   {
+    "id": "SFX_Camera_Click.wav",
+    "name": "Camera Click",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Camera_Click.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Camera_Click_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:56:46.483Z",
+    "github_asset_ids": [
+      539624665,
+      539624676
+    ]
+  },
+  {
     "id": "SFX_camera-flash-204151.mp3",
     "name": "camera-flash-204151",
     "category": "SFX",
