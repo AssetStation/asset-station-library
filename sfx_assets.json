@@ -560,6 +560,20 @@
     ]
   },
   {
+    "id": "SFX_descent_whoosh_long_cinematic.mp3",
+    "name": "descent whoosh long cinematic",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_descent_whoosh_long_cinematic.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_descent_whoosh_long_cinematic_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T14:00:33.892Z",
+    "github_asset_ids": [
+      539629136,
+      539629159
+    ]
+  },
+  {
     "id": "SFX_Digital_Camera_Shutter_Beeping_Sony_DSC-H300.aac",
     "name": "Digital Camera Shutter Beeping Sony DSC-H300",
     "category": "SFX",
