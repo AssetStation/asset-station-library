@@ -350,6 +350,20 @@
     ]
   },
   {
+    "id": "SFX_Digital_Camera_Shutter_Beeping_Sony_DSC-H300.aac",
+    "name": "Digital Camera Shutter Beeping Sony DSC-H300",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Digital_Camera_Shutter_Beeping_Sony_DSC-H300.aac",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Digital_Camera_Shutter_Beeping_Sony_DSC-H300_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:20:04.147Z",
+    "github_asset_ids": [
+      539579837,
+      539579844
+    ]
+  },
+  {
     "id": "SFX_Enter_Click.mp3",
     "name": "Enter Click",
     "category": "SFX",
