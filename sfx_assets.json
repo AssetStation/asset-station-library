@@ -530,5 +530,19 @@
       539585985,
       539586003
     ]
+  },
+  {
+    "id": "SFX_futuristic_robotic_fast_sweep_171.wav",
+    "name": "futuristic robotic fast sweep 171",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_robotic_fast_sweep_171.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_futuristic_robotic_fast_sweep_171_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:25:00.594Z",
+    "github_asset_ids": [
+      539586139,
+      539586184
+    ]
   }
 ]
