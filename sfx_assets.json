@@ -460,5 +460,19 @@
       539585163,
       539585178
     ]
+  },
+  {
+    "id": "SFX_Fizzy-drink-pour.mp3",
+    "name": "Fizzy-drink-pour",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Fizzy-drink-pour.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Fizzy-drink-pour_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:24:30.015Z",
+    "github_asset_ids": [
+      539585351,
+      539585374
+    ]
   }
 ]
