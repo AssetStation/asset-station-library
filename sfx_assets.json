@@ -966,6 +966,20 @@
     ]
   },
   {
+    "id": "SFX_Phone_charging.mp3",
+    "name": "Phone charging",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Phone_charging.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Phone_charging_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:54:43.725Z",
+    "github_asset_ids": [
+      539621944,
+      539621955
+    ]
+  },
+  {
     "id": "SFX_Piece_of_Wood_on_Glass.mp3",
     "name": "Piece of Wood on Glass",
     "category": "SFX",
