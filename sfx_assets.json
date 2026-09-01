@@ -180,5 +180,19 @@
       539577103,
       539577116
     ]
+  },
+  {
+    "id": "SFX_Cinematic_Intro.mp3",
+    "name": "Cinematic Intro",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Cinematic_Intro.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Cinematic_Intro_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:17:44.213Z",
+    "github_asset_ids": [
+      539577244,
+      539577253
+    ]
   }
 ]
