@@ -84,6 +84,20 @@
     ]
   },
   {
+    "id": "SFX_bell_hit_1.wav",
+    "name": "bell hit 1",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_bell_hit_1.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_bell_hit_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:54:37.723Z",
+    "github_asset_ids": [
+      539621758,
+      539621767
+    ]
+  },
+  {
     "id": "SFX_bike_wheel_spinning_1613.wav",
     "name": "bike wheel spinning 1613",
     "category": "SFX",
