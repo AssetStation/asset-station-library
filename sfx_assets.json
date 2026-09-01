@@ -672,6 +672,20 @@
     ]
   },
   {
+    "id": "SFX_Interface_App_2.wav",
+    "name": "Interface App 2",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Interface_App_2.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Interface_App_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:30:50.653Z",
+    "github_asset_ids": [
+      539593708,
+      539593731
+    ]
+  },
+  {
     "id": "SFX_interface_digital_text_generate.mp3",
     "name": "interface digital text generate",
     "category": "SFX",
