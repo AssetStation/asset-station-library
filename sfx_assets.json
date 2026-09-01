@@ -1118,5 +1118,19 @@
       539605114,
       539605132
     ]
+  },
+  {
+    "id": "SFX_Text_Typing_linear.mp3",
+    "name": "Text Typing linear",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Text_Typing_linear.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Text_Typing_linear_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:40:58.712Z",
+    "github_asset_ids": [
+      539605261,
+      539605287
+    ]
   }
 ]
