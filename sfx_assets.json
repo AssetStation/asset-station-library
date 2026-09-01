@@ -1498,6 +1498,20 @@
     ]
   },
   {
+    "id": "SFX_Tension_Riser.wav",
+    "name": "Tension Riser",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Tension_Riser.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Tension_Riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:58:55.690Z",
+    "github_asset_ids": [
+      539627188,
+      539627314
+    ]
+  },
+  {
     "id": "SFX_Text_Typing_linear.mp3",
     "name": "Text Typing linear",
     "category": "SFX",
