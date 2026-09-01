@@ -84,20 +84,6 @@
     ]
   },
   {
-    "id": "SFX_Bass-drop.mp3",
-    "name": "Bass-drop",
-    "category": "SFX",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Bass-drop.mp3",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Bass-drop_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-09-01T13:11:28.954Z",
-    "github_asset_ids": [
-      539568942,
-      539568958
-    ]
-  },
-  {
     "id": "SFX_Bass-drop-2.mp3",
     "name": "Bass-drop-2",
     "category": "SFX",
