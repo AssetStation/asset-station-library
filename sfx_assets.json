@@ -1372,6 +1372,20 @@
     ]
   },
   {
+    "id": "SFX_ui_riser.mp3",
+    "name": "ui riser",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_ui_riser.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_ui_riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:54:57.317Z",
+    "github_asset_ids": [
+      539622251,
+      539622262
+    ]
+  },
+  {
     "id": "SFX_UI_Sound.mp3",
     "name": "UI Sound",
     "category": "SFX",
