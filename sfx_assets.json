@@ -1272,5 +1272,19 @@
       539608575,
       539608589
     ]
+  },
+  {
+    "id": "SFX_Whoosh_Soft_Whip_Flapping.wav",
+    "name": "Whoosh Soft Whip Flapping",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Soft_Whip_Flapping.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Whoosh_Soft_Whip_Flapping_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:43:48.490Z",
+    "github_asset_ids": [
+      539608701,
+      539608738
+    ]
   }
 ]
