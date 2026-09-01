@@ -1202,5 +1202,19 @@
       539606172,
       539606222
     ]
+  },
+  {
+    "id": "SFX_UI_Clicks_-_Small_Gadget_Mech.aac",
+    "name": "UI Clicks - Small Gadget Mech",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Clicks_-_Small_Gadget_Mech.aac",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Clicks_-_Small_Gadget_Mech_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-01T13:41:44.619Z",
+    "github_asset_ids": [
+      539606352,
+      539606361
+    ]
   }
 ]
