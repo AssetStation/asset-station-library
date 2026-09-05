@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "Comp_Text_Animation_Test.zip",
+    "name": "Text Animation Test",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Text_Animation_Test.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Text_Animation_Test.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Text_Animation_Test_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-05T11:04:40.373Z",
+    "github_asset_ids": [
+      545726304,
+      545726309,
+      545726312
+    ]
+  }
+]
