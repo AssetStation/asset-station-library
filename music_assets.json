@@ -26,21 +26,5 @@
       514448422,
       514448447
     ]
-  },
-  {
-    "id": "Music_Test_Music.mp3",
-    "name": "Test Music",
-    "category": "Music",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Test_Music.mp3",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Test_Music_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-09-07T10:21:26.106Z",
-    "github_asset_ids": [
-      548600481,
-      548600575,
-      548600604
-    ],
-    "licenseUrl": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Test_Music_License.txt"
   }
 ]
