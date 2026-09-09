@@ -8,6 +8,9 @@
     "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Fade_UP.mp4",
     "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Fade_UP_thumb.jpg",
     "source": "motionkit.",
-    "date": "2026-08-13T11:05:46.841Z"
+    "date": "2026-08-13T11:05:46.841Z",
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
