@@ -10,7 +10,10 @@
     "date": "2026-08-14T13:30:54.383Z",
     "github_asset_ids": [
       514452230
-    ]
+    ],
+    "width": 500,
+    "height": 281,
+    "resolution": "500x281"
   },
   {
     "id": "GIF_Mobile_Scrolling.gif",
@@ -23,7 +26,10 @@
     "date": "2026-08-14T13:30:59.551Z",
     "github_asset_ids": [
       514452301
-    ]
+    ],
+    "width": 1400,
+    "height": 1050,
+    "resolution": "1400x1050"
   },
   {
     "id": "GIF_Seabird_on_tube.gif",
@@ -36,6 +42,9 @@
     "date": "2026-08-14T13:31:02.568Z",
     "github_asset_ids": [
       514452375
-    ]
+    ],
+    "width": 512,
+    "height": 479,
+    "resolution": "512x479"
   }
 ]
