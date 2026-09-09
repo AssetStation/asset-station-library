@@ -11,7 +11,10 @@
     "github_asset_ids": [
       514442620,
       514442626
-    ]
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
   },
   {
     "id": "Illustration_Old_Days_Nostalgia.mp4",
@@ -25,7 +28,10 @@
     "github_asset_ids": [
       514442418,
       514442425
-    ]
+    ],
+    "width": 540,
+    "height": 960,
+    "resolution": "540x960"
   },
   {
     "id": "Illustration_People_Crowd_Hypnosis.mp4",
@@ -39,6 +45,9 @@
     "github_asset_ids": [
       514442556,
       514442570
-    ]
+    ],
+    "width": 720,
+    "height": 1000,
+    "resolution": "720x1000"
   }
 ]
