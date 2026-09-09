@@ -10,7 +10,10 @@
     "date": "2026-08-14T13:37:40.186Z",
     "github_asset_ids": [
       514459189
-    ]
+    ],
+    "width": 736,
+    "height": 1438,
+    "resolution": "736x1438"
   },
   {
     "id": "Texture_Cool_Blue_abstract.jpg",
@@ -23,7 +26,10 @@
     "date": "2026-08-14T13:37:34.595Z",
     "github_asset_ids": [
       514459054
-    ]
+    ],
+    "width": 564,
+    "height": 1253,
+    "resolution": "564x1253"
   },
   {
     "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
@@ -36,6 +42,9 @@
     "date": "2026-08-14T13:37:37.586Z",
     "github_asset_ids": [
       514459127
-    ]
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
   }
 ]
