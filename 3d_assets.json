@@ -11,7 +11,10 @@
     "github_asset_ids": [
       517705896,
       517705918
-    ]
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
   },
   {
     "id": "3D_Chest.glb",
@@ -25,7 +28,10 @@
     "github_asset_ids": [
       517707938,
       517707945
-    ]
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
   },
   {
     "id": "3D_Gold_Key.glb",
@@ -39,7 +45,10 @@
     "github_asset_ids": [
       539567279,
       539567299
-    ]
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
   },
   {
     "id": "3D_Hammer.glb",
@@ -53,7 +62,10 @@
     "github_asset_ids": [
       539567458,
       539567472
-    ]
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
   },
   {
     "id": "3D_Mini_Robot.glb",
@@ -67,7 +79,10 @@
     "github_asset_ids": [
       517704650,
       517704663
-    ]
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
   },
   {
     "id": "3D_Warrior_Game_Model.glb",
@@ -81,6 +96,9 @@
     "github_asset_ids": [
       517706947,
       517706970
-    ]
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
   }
 ]
