@@ -221,5 +221,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "FFX-Text_Flicker_IN.ffx",
+    "name": "Flicker IN",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Flicker_IN.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Flicker_IN.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Flicker_IN_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:38:48.805Z",
+    "github_asset_ids": [
+      554991453,
+      554991466,
+      554991479
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
