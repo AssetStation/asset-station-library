@@ -1,5 +1,24 @@
 [
   {
+    "id": "FFX-Text_Bounce_IN_Character.ffx",
+    "name": "Bounce IN Character",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_IN_Character.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_IN_Character.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_IN_Character_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:32:31.413Z",
+    "github_asset_ids": [
+      554979417,
+      554979447,
+      554979465
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "FFX-Text",
