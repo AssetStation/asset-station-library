@@ -240,5 +240,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "FFX-Text_Right_Bounce_IN.ffx",
+    "name": "Right Bounce IN",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Right_Bounce_IN.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Right_Bounce_IN.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Right_Bounce_IN_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:39:06.350Z",
+    "github_asset_ids": [
+      554991950,
+      554991968,
+      554992008
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
