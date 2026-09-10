@@ -171,6 +171,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Chracter_Attract_Cinematic.ffx",
+    "name": "Chracter Attract Cinematic",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Chracter_Attract_Cinematic.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Chracter_Attract_Cinematic.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Chracter_Attract_Cinematic_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:38:14.704Z",
+    "github_asset_ids": [
+      554990315,
+      554990344,
+      554990365
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "FFX-Text",
