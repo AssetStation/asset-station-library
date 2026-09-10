@@ -259,5 +259,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "FFX-Text_Slide_Left.ffx",
+    "name": "Slide Left",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Slide_Left.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Slide_Left.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Slide_Left_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:39:14.022Z",
+    "github_asset_ids": [
+      554992221,
+      554992251,
+      554992281
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
