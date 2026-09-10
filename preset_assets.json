@@ -95,6 +95,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Character_Bounce_Down.ffx",
+    "name": "Character Bounce Down",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Bounce_Down.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Bounce_Down.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Bounce_Down_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:34:31.982Z",
+    "github_asset_ids": [
+      554983393,
+      554983420,
+      554983474
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "FFX-Text",
