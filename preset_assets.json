@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Bounce_IN_Left_Bottom_Corner.ffx",
+    "name": "Bounce IN Left Bottom Corner",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_IN_Left_Bottom_Corner.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_IN_Left_Bottom_Corner.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_IN_Left_Bottom_Corner_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:32:53.831Z",
+    "github_asset_ids": [
+      554980107,
+      554980128,
+      554980148
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "FFX-Text",
