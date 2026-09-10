@@ -38,6 +38,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Bounce_Scale_IN_Right.ffx",
+    "name": "Bounce Scale IN Right",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_Scale_IN_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_Scale_IN_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_Scale_IN_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:33:17.251Z",
+    "github_asset_ids": [
+      554980863,
+      554980912,
+      554980938
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "FFX-Text",
