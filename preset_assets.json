@@ -278,5 +278,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "FFX-Text_Type_IN_Right.ffx",
+    "name": "Type IN Right",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Type_IN_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Type_IN_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Type_IN_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:39:35.886Z",
+    "github_asset_ids": [
+      554992891,
+      554992916,
+      554992938
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
