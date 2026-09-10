@@ -297,5 +297,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "FFX-Text_Wave_IN_Left_to_Right.ffx",
+    "name": "Wave IN Left to Right",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Wave_IN_Left_to_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Wave_IN_Left_to_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Wave_IN_Left_to_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:39:42.597Z",
+    "github_asset_ids": [
+      554993072,
+      554993098,
+      554993125
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
