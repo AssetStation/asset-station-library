@@ -57,6 +57,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Bounce_UP.ffx",
+    "name": "Bounce UP",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_UP.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_UP.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Bounce_UP_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:33:48.468Z",
+    "github_asset_ids": [
+      554981951,
+      554981974,
+      554981994
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "FFX-Text",
