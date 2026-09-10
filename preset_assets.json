@@ -133,6 +133,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Character_Build_Up.ffx",
+    "name": "Character Build Up",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Build_Up.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Build_Up.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Build_Up_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-10T12:37:47.814Z",
+    "github_asset_ids": [
+      554989577,
+      554989607,
+      554989634
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Character_Build_Up_Down.ffx",
     "name": "Character Build Up Down",
     "category": "FFX-Text",
