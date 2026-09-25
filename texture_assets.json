@@ -816,6 +816,22 @@
     "resolution": "736x1144"
   },
   {
+    "id": "Texture_Premium_Mockup_Cloth.jpeg",
+    "name": "Premium Mockup Cloth",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Premium_Mockup_Cloth.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Premium_Mockup_Cloth.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:03:32.572Z",
+    "github_asset_ids": [
+      587964290
+    ],
+    "width": 736,
+    "height": 1472,
+    "resolution": "736x1472"
+  },
+  {
     "id": "Texture_Purple_Fractal_noise.jpeg",
     "name": "Purple Fractal noise",
     "category": "Texture",
