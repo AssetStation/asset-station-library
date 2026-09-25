@@ -1438,5 +1438,21 @@
     "width": 736,
     "height": 1308,
     "resolution": "736x1308"
+  },
+  {
+    "id": "Texture_Yellow_Crystal_Wallpaper.jpeg",
+    "name": "Yellow Crystal Wallpaper",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Yellow_Crystal_Wallpaper.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Yellow_Crystal_Wallpaper.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:51.091Z",
+    "github_asset_ids": [
+      587976092
+    ],
+    "width": 736,
+    "height": 1309,
+    "resolution": "736x1309"
   }
 ]
