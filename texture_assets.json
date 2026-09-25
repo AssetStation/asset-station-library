@@ -16,6 +16,22 @@
     "resolution": "736x1438"
   },
   {
+    "id": "Texture_Blue_Metallic_abstract.jpeg",
+    "name": "Blue Metallic abstract",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Metallic_abstract.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Metallic_abstract.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:45:54.528Z",
+    "github_asset_ids": [
+      587827397
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Cool_Blue_abstract.jpg",
     "name": "Cool Blue abstract",
     "category": "Texture",
