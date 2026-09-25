@@ -288,6 +288,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Purple_Fractal_noise.jpeg",
+    "name": "Purple Fractal noise",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Fractal_noise.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Fractal_noise.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:03:03.649Z",
+    "github_asset_ids": [
+      587858850
+    ],
+    "width": 500,
+    "height": 1000,
+    "resolution": "500x1000"
+  },
+  {
     "id": "Texture_Purple_Glassy_band.jpeg",
     "name": "Purple Glassy band",
     "category": "Texture",
