@@ -110,5 +110,21 @@
     "width": 512,
     "height": 512,
     "resolution": "512x512"
+  },
+  {
+    "id": "Icon_YT_Studio_Head_Person.png",
+    "name": "YT Studio Head Person",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_YT_Studio_Head_Person.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_YT_Studio_Head_Person.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:36:12.745Z",
+    "github_asset_ids": [
+      588132730
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
   }
 ]
