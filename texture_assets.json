@@ -592,6 +592,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Shattered_Crystal.jpeg",
+    "name": "Shattered Crystal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shattered_Crystal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shattered_Crystal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:45:07.043Z",
+    "github_asset_ids": [
+      587932046
+    ],
+    "width": 645,
+    "height": 1200,
+    "resolution": "645x1200"
+  },
+  {
     "id": "Texture_shiny_blue_abstract.jpg",
     "name": "shiny blue abstract",
     "category": "Texture",
