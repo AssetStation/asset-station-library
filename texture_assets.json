@@ -1216,6 +1216,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Standard_Background_Digital_Inspirational.jpeg",
+    "name": "Standard Background Digital Inspirational",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Standard_Background_Digital_Inspirational.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Standard_Background_Digital_Inspirational.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:08:55.695Z",
+    "github_asset_ids": [
+      587974270
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Teared_Glass_1.jpeg",
     "name": "Teared Glass 1",
     "category": "Texture",
