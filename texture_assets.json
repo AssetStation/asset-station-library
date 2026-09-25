@@ -240,6 +240,22 @@
     "resolution": "414x736"
   },
   {
+    "id": "Texture_Cyber_fluid_metal.jpeg",
+    "name": "Cyber fluid metal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Cyber_fluid_metal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Cyber_fluid_metal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:44:42.710Z",
+    "github_asset_ids": [
+      587931187
+    ],
+    "width": 735,
+    "height": 490,
+    "resolution": "735x490"
+  },
+  {
     "id": "Texture_dc_mafia_barbie.jpeg",
     "name": "dc mafia barbie",
     "category": "Texture",
