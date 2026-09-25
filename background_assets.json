@@ -16,6 +16,22 @@
     "resolution": "600x900"
   },
   {
+    "id": "Background_Abstract_bubble_Background_2.jpeg",
+    "name": "Abstract bubble Background 2",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Abstract_bubble_Background_2.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Abstract_bubble_Background_2.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:44.819Z",
+    "github_asset_ids": [
+      587843313
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Background_Aesthetic_Green_Glassmorphism_Motion_BG.mp4",
     "name": "Aesthetic Green Glassmorphism Motion BG",
     "category": "Background",
