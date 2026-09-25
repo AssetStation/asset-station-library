@@ -16,6 +16,22 @@
     "resolution": "736x1438"
   },
   {
+    "id": "Texture_Blue_Liquid_Metal_Texture_by_souanaca.jpeg",
+    "name": "Blue Liquid Metal Texture by souanaca",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Liquid_Metal_Texture_by_souanaca.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Liquid_Metal_Texture_by_souanaca.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:45:58.982Z",
+    "github_asset_ids": [
+      587827542
+    ],
+    "width": 736,
+    "height": 1104,
+    "resolution": "736x1104"
+  },
+  {
     "id": "Texture_Blue_Metallic_abstract.jpeg",
     "name": "Blue Metallic abstract",
     "category": "Texture",
