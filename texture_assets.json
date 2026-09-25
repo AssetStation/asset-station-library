@@ -240,6 +240,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Diamond_abstract_Texture.jpeg",
+    "name": "Diamond abstract Texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Diamond_abstract_Texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Diamond_abstract_Texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:37:11.530Z",
+    "github_asset_ids": [
+      587919163
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Texture_Fine_Grained_Plan_Texture.jpeg",
     "name": "Fine Grained Plan Texture",
     "category": "Texture",
