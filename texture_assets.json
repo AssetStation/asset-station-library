@@ -256,6 +256,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Frosted_colorful_Glass.jpeg",
+    "name": "Frosted colorful Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Frosted_colorful_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Frosted_colorful_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:37:06.578Z",
+    "github_asset_ids": [
+      587918993
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Frosted_Glass.jpeg",
     "name": "Frosted Glass",
     "category": "Texture",
