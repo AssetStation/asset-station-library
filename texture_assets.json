@@ -288,6 +288,22 @@
     "resolution": "564x1128"
   },
   {
+    "id": "Texture_Iron_Anisotropic_2.jpeg",
+    "name": "Iron Anisotropic 2",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Iron_Anisotropic_2.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Iron_Anisotropic_2.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:03:22.584Z",
+    "github_asset_ids": [
+      587859404
+    ],
+    "width": 736,
+    "height": 1472,
+    "resolution": "736x1472"
+  },
+  {
     "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
     "name": "Orange white Blue Paint abstract",
     "category": "Texture",
