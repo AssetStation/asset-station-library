@@ -496,6 +496,22 @@
     "resolution": "640x1136"
   },
   {
+    "id": "Texture_Silver_scrap_metal.jpeg",
+    "name": "Silver scrap metal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Silver_scrap_metal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Silver_scrap_metal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:44.794Z",
+    "github_asset_ids": [
+      587918333
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_smeary_wavy_texture.jpeg",
     "name": "smeary wavy texture",
     "category": "Texture",
