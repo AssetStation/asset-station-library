@@ -366,5 +366,21 @@
     "width": 675,
     "height": 1200,
     "resolution": "675x1200"
+  },
+  {
+    "id": "Texture_Teared_Glass_1.jpeg",
+    "name": "Teared Glass 1",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Teared_Glass_1.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Teared_Glass_1.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:02:57.873Z",
+    "github_asset_ids": [
+      587858678
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
   }
 ]
