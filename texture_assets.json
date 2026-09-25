@@ -560,6 +560,22 @@
     "resolution": "576x1020"
   },
   {
+    "id": "Texture_Glossy_Premium_Texture.jpeg",
+    "name": "Glossy Premium Texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Glossy_Premium_Texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Glossy_Premium_Texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:03:28.139Z",
+    "github_asset_ids": [
+      587964130
+    ],
+    "width": 564,
+    "height": 1128,
+    "resolution": "564x1128"
+  },
+  {
     "id": "Texture_Gold-Silver_Liquid.jpeg",
     "name": "Gold-Silver Liquid",
     "category": "Texture",
