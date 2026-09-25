@@ -1,5 +1,21 @@
 [
   {
+    "id": "Texture_Abstract_Geometric.jpeg",
+    "name": "Abstract Geometric",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Abstract_Geometric.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Abstract_Geometric.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:46:13.935Z",
+    "github_asset_ids": [
+      587827971
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Blue_Ice.jpg",
     "name": "Blue Ice",
     "category": "Texture",
