@@ -640,6 +640,22 @@
     "resolution": "675x1200"
   },
   {
+    "id": "Texture_Spike_Crystal_Texture.jpeg",
+    "name": "Spike Crystal Texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Spike_Crystal_Texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Spike_Crystal_Texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:44:52.629Z",
+    "github_asset_ids": [
+      587931506
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Teared_Glass_1.jpeg",
     "name": "Teared Glass 1",
     "category": "Texture",
