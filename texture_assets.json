@@ -16,6 +16,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Abstract_silver_background_with_triangular_shapes.jpeg",
+    "name": "Abstract silver background with triangular shapes",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Abstract_silver_background_with_triangular_shapes.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Abstract_silver_background_with_triangular_shapes.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:46:18.394Z",
+    "github_asset_ids": [
+      587828149
+    ],
+    "width": 673,
+    "height": 1200,
+    "resolution": "673x1200"
+  },
+  {
     "id": "Texture_Blue_Ice.jpg",
     "name": "Blue Ice",
     "category": "Texture",
