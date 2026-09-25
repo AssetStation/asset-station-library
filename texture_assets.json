@@ -96,6 +96,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Blue_Metallic_Liquid.jpeg",
+    "name": "Blue Metallic Liquid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Metallic_Liquid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Metallic_Liquid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:16.499Z",
+    "github_asset_ids": [
+      587842389
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Blue-Silver_Abstract_Digital_Background.jpeg",
     "name": "Blue-Silver Abstract Digital Background",
     "category": "Texture",
