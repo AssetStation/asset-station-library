@@ -928,6 +928,22 @@
     "resolution": "564x1128"
   },
   {
+    "id": "Texture_Rainy_Glass.jpeg",
+    "name": "Rainy Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Rainy_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Rainy_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:05:53.598Z",
+    "github_asset_ids": [
+      587969199
+    ],
+    "width": 411,
+    "height": 750,
+    "resolution": "411x750"
+  },
+  {
     "id": "Texture_Red_shiny_Paint.jpeg",
     "name": "Red shiny Paint",
     "category": "Texture",
