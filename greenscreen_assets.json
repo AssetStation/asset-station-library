@@ -816,6 +816,23 @@
     "resolution": "3840x2160"
   },
   {
+    "id": "GreenScreen_Money_Explosion_2.mp4",
+    "name": "Money Explosion 2",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Money_Explosion_2.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Money_Explosion_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T11:02:06.198Z",
+    "github_asset_ids": [
+      588175919,
+      588175971
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "GreenScreen_Money_Falling.mp4",
     "name": "Money Falling",
     "category": "GreenScreen",
