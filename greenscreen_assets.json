@@ -782,6 +782,23 @@
     "resolution": "854x480"
   },
   {
+    "id": "GreenScreen_Money_Falling.mp4",
+    "name": "Money Falling",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Money_Falling.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Money_Falling_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T11:00:59.476Z",
+    "github_asset_ids": [
+      588174362,
+      588174392
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
+  },
+  {
     "id": "GreenScreen_Paper_Transition.mp4",
     "name": "Paper Transition",
     "category": "GreenScreen",
