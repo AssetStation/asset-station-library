@@ -1312,6 +1312,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Twisted_Fabric.jpeg",
+    "name": "Twisted Fabric",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Twisted_Fabric.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Twisted_Fabric.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:19.310Z",
+    "github_asset_ids": [
+      587975012
+    ],
+    "width": 736,
+    "height": 1288,
+    "resolution": "736x1288"
+  },
+  {
     "id": "Texture_Water_Texture.jpeg",
     "name": "Water Texture",
     "category": "Texture",
