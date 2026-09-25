@@ -112,6 +112,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Blue_Wavy_Paint.jpeg",
+    "name": "Blue Wavy Paint",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Wavy_Paint.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Wavy_Paint.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:21.173Z",
+    "github_asset_ids": [
+      587842519
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "Texture_Blue-Silver_Abstract_Digital_Background.jpeg",
     "name": "Blue-Silver Abstract Digital Background",
     "category": "Texture",
