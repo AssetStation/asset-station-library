@@ -256,6 +256,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Purple_shiny_molten_metal.jpeg",
+    "name": "Purple shiny molten metal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_shiny_molten_metal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_shiny_molten_metal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:49.738Z",
+    "github_asset_ids": [
+      587843448
+    ],
+    "width": 564,
+    "height": 1128,
+    "resolution": "564x1128"
+  },
+  {
     "id": "Texture_Red_shiny_Paint.jpeg",
     "name": "Red shiny Paint",
     "category": "Texture",
