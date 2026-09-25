@@ -144,6 +144,22 @@
     "resolution": "736x1632"
   },
   {
+    "id": "Texture_Blue_Vibrant_Smoke.jpeg",
+    "name": "Blue Vibrant Smoke",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Vibrant_Smoke.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Vibrant_Smoke.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:35.384Z",
+    "github_asset_ids": [
+      587918014
+    ],
+    "width": 736,
+    "height": 1313,
+    "resolution": "736x1313"
+  },
+  {
     "id": "Texture_Blue_Wavy_Paint.jpeg",
     "name": "Blue Wavy Paint",
     "category": "Texture",
