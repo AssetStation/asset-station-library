@@ -176,6 +176,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Purple_Glassy_band.jpeg",
+    "name": "Purple Glassy band",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Glassy_band.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Glassy_band.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:12.074Z",
+    "github_asset_ids": [
+      587842268
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_shiny_blue_abstract.jpg",
     "name": "shiny blue abstract",
     "category": "Texture",
