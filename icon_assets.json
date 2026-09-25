@@ -32,6 +32,22 @@
     "resolution": "400x400"
   },
   {
+    "id": "Icon_Confused_Man.png",
+    "name": "Confused Man",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Confused_Man.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Confused_Man.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:36:03.552Z",
+    "github_asset_ids": [
+      588132403
+    ],
+    "width": 1080,
+    "height": 1080,
+    "resolution": "1080x1080"
+  },
+  {
     "id": "Icon_Innovation.png",
     "name": "Innovation",
     "category": "Icon",
