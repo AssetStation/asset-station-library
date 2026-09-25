@@ -64,6 +64,22 @@
     "resolution": "720x1280"
   },
   {
+    "id": "Texture_Blue_Crystal_1.jpeg",
+    "name": "Blue Crystal 1",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Crystal_1.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Crystal_1.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:51:21.540Z",
+    "github_asset_ids": [
+      587942375
+    ],
+    "width": 736,
+    "height": 1307,
+    "resolution": "736x1307"
+  },
+  {
     "id": "Texture_Blue_crystal_Background.jpeg",
     "name": "Blue crystal Background",
     "category": "Texture",
