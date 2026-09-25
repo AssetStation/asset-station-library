@@ -912,6 +912,22 @@
     "resolution": "564x1002"
   },
   {
+    "id": "Texture_Water_Texture.jpeg",
+    "name": "Water Texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Water_Texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Water_Texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:52:00.571Z",
+    "github_asset_ids": [
+      587943404
+    ],
+    "width": 610,
+    "height": 1200,
+    "resolution": "610x1200"
+  },
+  {
     "id": "Texture_Wet_Foamed_Glass.jpeg",
     "name": "Wet Foamed Glass",
     "category": "Texture",
