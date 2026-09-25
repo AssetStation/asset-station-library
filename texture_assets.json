@@ -16,6 +16,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Abstract_Metal_Artwork.jpeg",
+    "name": "Abstract Metal Artwork",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Abstract_Metal_Artwork.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Abstract_Metal_Artwork.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:44:37.620Z",
+    "github_asset_ids": [
+      587930991
+    ],
+    "width": 564,
+    "height": 1128,
+    "resolution": "564x1128"
+  },
+  {
     "id": "Texture_Abstract_silver_background_with_triangular_shapes.jpeg",
     "name": "Abstract silver background with triangular shapes",
     "category": "Texture",
