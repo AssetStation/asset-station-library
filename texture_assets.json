@@ -384,6 +384,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Dreamy_Waves.jpeg",
+    "name": "Dreamy Waves",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Dreamy_Waves.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Dreamy_Waves.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:45.756Z",
+    "github_asset_ids": [
+      587975920
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Ember_Liquid.jpeg",
     "name": "Ember Liquid",
     "category": "Texture",
