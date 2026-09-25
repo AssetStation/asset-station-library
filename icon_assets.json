@@ -96,6 +96,22 @@
     "resolution": "1303x3394"
   },
   {
+    "id": "Icon_Finder.png",
+    "name": "Finder",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Finder.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Finder.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:27.480Z",
+    "github_asset_ids": [
+      588146613
+    ],
+    "width": 4439,
+    "height": 2439,
+    "resolution": "4439x2439"
+  },
+  {
     "id": "Icon_Innovation.png",
     "name": "Innovation",
     "category": "Icon",
