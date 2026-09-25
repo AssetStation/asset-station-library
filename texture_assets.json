@@ -574,5 +574,21 @@
     "width": 640,
     "height": 1136,
     "resolution": "640x1136"
+  },
+  {
+    "id": "Texture_white_shine_spike.jpeg",
+    "name": "white shine spike",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_white_shine_spike.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_white_shine_spike.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:54.965Z",
+    "github_asset_ids": [
+      587918710
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
   }
 ]
