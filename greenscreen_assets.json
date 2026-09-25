@@ -17,6 +17,23 @@
     "resolution": "2160x3840"
   },
   {
+    "id": "GreenScreen_Flare_2.mp4",
+    "name": "Flare 2",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Flare_2.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Flare_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:47:33.097Z",
+    "github_asset_ids": [
+      588045996,
+      588046076
+    ],
+    "width": 2160,
+    "height": 3840,
+    "resolution": "2160x3840"
+  },
+  {
     "id": "GreenScreen_Ink_Transition_1.mov",
     "name": "Ink Transition 1",
     "category": "GreenScreen",
