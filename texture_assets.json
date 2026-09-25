@@ -256,6 +256,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Red_shiny_Paint.jpeg",
+    "name": "Red shiny Paint",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Red_shiny_Paint.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Red_shiny_Paint.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:35.015Z",
+    "github_asset_ids": [
+      587842974
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_shiny_blue_abstract.jpg",
     "name": "shiny blue abstract",
     "category": "Texture",
