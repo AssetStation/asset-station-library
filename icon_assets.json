@@ -16,6 +16,22 @@
     "resolution": "1280x960"
   },
   {
+    "id": "Icon_5_USD.jpg",
+    "name": "5 USD",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_5_USD.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_5_USD.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T11:01:28.315Z",
+    "github_asset_ids": [
+      588175083
+    ],
+    "width": 1280,
+    "height": 1280,
+    "resolution": "1280x1280"
+  },
+  {
     "id": "Icon_Airplane_Illustration.png",
     "name": "Airplane Illustration",
     "category": "Icon",
