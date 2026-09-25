@@ -160,6 +160,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Money_in_hands.png",
+    "name": "Money in hands",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Money_in_hands.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Money_in_hands.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:58.350Z",
+    "github_asset_ids": [
+      588147334
+    ],
+    "width": 727,
+    "height": 990,
+    "resolution": "727x990"
+  },
+  {
     "id": "Icon_Money_Weight.png",
     "name": "Money Weight",
     "category": "Icon",
