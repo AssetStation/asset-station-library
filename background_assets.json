@@ -80,5 +80,21 @@
     "width": 1080,
     "height": 1920,
     "resolution": "1080x1920"
+  },
+  {
+    "id": "Background_Soft_morning_City_Scene_AI.jpg",
+    "name": "Soft morning City Scene AI",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Soft_morning_City_Scene_AI.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Soft_morning_City_Scene_AI.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:40:28.134Z",
+    "github_asset_ids": [
+      588140669
+    ],
+    "width": 1024,
+    "height": 1024,
+    "resolution": "1024x1024"
   }
 ]
