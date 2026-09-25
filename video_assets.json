@@ -28,5 +28,22 @@
     "width": 736,
     "height": 414,
     "resolution": "736x414"
+  },
+  {
+    "id": "Video_Money_Burning.mp4",
+    "name": "Money Burning",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Money_Burning_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T11:01:58.427Z",
+    "github_asset_ids": [
+      588175727,
+      588175773
+    ],
+    "width": 1280,
+    "height": 768,
+    "resolution": "1280x768"
   }
 ]
