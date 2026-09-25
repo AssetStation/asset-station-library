@@ -48,6 +48,22 @@
     "resolution": "736x1304"
   },
   {
+    "id": "StockPhotos_Fraustrated_Trader.jpg",
+    "name": "Fraustrated Trader",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Fraustrated_Trader.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Fraustrated_Trader.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:36:08.244Z",
+    "github_asset_ids": [
+      588132538
+    ],
+    "width": 1280,
+    "height": 745,
+    "resolution": "1280x745"
+  },
+  {
     "id": "StockPhotos_Jeanswest_Poster.jpg",
     "name": "Jeanswest Poster",
     "category": "StockPhotos",
