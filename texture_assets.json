@@ -784,6 +784,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Metal_Morphism.jpeg",
+    "name": "Metal Morphism",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Metal_Morphism.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Metal_Morphism.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:03:38.073Z",
+    "github_asset_ids": [
+      587964495
+    ],
+    "width": 564,
+    "height": 1003,
+    "resolution": "564x1003"
+  },
+  {
     "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
     "name": "Orange white Blue Paint abstract",
     "category": "Texture",
