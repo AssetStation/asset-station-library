@@ -464,6 +464,22 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_Mercury_Liquid.jpeg",
+    "name": "Mercury Liquid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Mercury_Liquid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Mercury_Liquid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:44:57.839Z",
+    "github_asset_ids": [
+      587931704
+    ],
+    "width": 512,
+    "height": 913,
+    "resolution": "512x913"
+  },
+  {
     "id": "Texture_Metal_Chain_Grid.jpeg",
     "name": "Metal Chain Grid",
     "category": "Texture",
