@@ -94,5 +94,21 @@
     "width": 736,
     "height": 1308,
     "resolution": "736x1308"
+  },
+  {
+    "id": "Texture_shiny_blue_abstract.jpg",
+    "name": "shiny blue abstract",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_shiny_blue_abstract.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_shiny_blue_abstract.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:46:09.379Z",
+    "github_asset_ids": [
+      587827820
+    ],
+    "width": 3600,
+    "height": 2100,
+    "resolution": "3600x2100"
   }
 ]
