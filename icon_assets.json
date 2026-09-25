@@ -352,6 +352,22 @@
     "resolution": "1024x768"
   },
   {
+    "id": "Icon_Rejected.png",
+    "name": "Rejected",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Rejected.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Rejected.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:46:53.628Z",
+    "github_asset_ids": [
+      588150551
+    ],
+    "width": 9643,
+    "height": 6406,
+    "resolution": "9643x6406"
+  },
+  {
     "id": "Icon_Rich_Person.png",
     "name": "Rich Person",
     "category": "Icon",
