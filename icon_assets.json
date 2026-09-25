@@ -96,6 +96,22 @@
     "resolution": "1303x3394"
   },
   {
+    "id": "Icon_Exhausted_Person.png",
+    "name": "Exhausted Person",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Exhausted_Person.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Exhausted_Person.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:46.952Z",
+    "github_asset_ids": [
+      588147067
+    ],
+    "width": 830,
+    "height": 1024,
+    "resolution": "830x1024"
+  },
+  {
     "id": "Icon_Finder.png",
     "name": "Finder",
     "category": "Icon",
