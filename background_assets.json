@@ -49,6 +49,22 @@
     "resolution": "720x1280"
   },
   {
+    "id": "Background_Mythical_Nature_AI_Wallpaper.jpg",
+    "name": "Mythical Nature AI Wallpaper",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Mythical_Nature_AI_Wallpaper.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Mythical_Nature_AI_Wallpaper.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:36:16.896Z",
+    "github_asset_ids": [
+      588132803
+    ],
+    "width": 1024,
+    "height": 1024,
+    "resolution": "1024x1024"
+  },
+  {
     "id": "Background_Purple_Gradient_01.mp4",
     "name": "Purple Gradient 01",
     "category": "Background",
