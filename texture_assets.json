@@ -640,6 +640,22 @@
     "resolution": "645x1200"
   },
   {
+    "id": "Texture_Shattered_Gradient_Glass.jpeg",
+    "name": "Shattered Gradient Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shattered_Gradient_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shattered_Gradient_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:45:22.492Z",
+    "github_asset_ids": [
+      587932518
+    ],
+    "width": 564,
+    "height": 1002,
+    "resolution": "564x1002"
+  },
+  {
     "id": "Texture_shiny_blue_abstract.jpg",
     "name": "shiny blue abstract",
     "category": "Texture",
