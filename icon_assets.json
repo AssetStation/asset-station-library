@@ -96,6 +96,22 @@
     "resolution": "1080x1080"
   },
   {
+    "id": "Icon_Double_mask.png",
+    "name": "Double mask",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Double_mask.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Double_mask.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:46:27.581Z",
+    "github_asset_ids": [
+      588149725
+    ],
+    "width": 5197,
+    "height": 7134,
+    "resolution": "5197x7134"
+  },
+  {
     "id": "Icon_Drinking_Person.png",
     "name": "Drinking Person",
     "category": "Icon",
