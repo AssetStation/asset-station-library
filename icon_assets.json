@@ -32,6 +32,22 @@
     "resolution": "400x400"
   },
   {
+    "id": "Icon_Innovation.png",
+    "name": "Innovation",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Innovation.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Innovation.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:35:54.605Z",
+    "github_asset_ids": [
+      588132083
+    ],
+    "width": 512,
+    "height": 512,
+    "resolution": "512x512"
+  },
+  {
     "id": "Icon_Instagram_logo.png",
     "name": "Instagram logo",
     "category": "Icon",
