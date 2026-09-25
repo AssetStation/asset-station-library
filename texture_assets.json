@@ -368,6 +368,22 @@
     "resolution": "3600x2100"
   },
   {
+    "id": "Texture_Shiny_metal_reflection.jpeg",
+    "name": "Shiny metal reflection",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shiny_metal_reflection.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shiny_metal_reflection.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:03:13.474Z",
+    "github_asset_ids": [
+      587859164
+    ],
+    "width": 640,
+    "height": 1136,
+    "resolution": "640x1136"
+  },
+  {
     "id": "Texture_smeary_wavy_texture.jpeg",
     "name": "smeary wavy texture",
     "category": "Texture",
