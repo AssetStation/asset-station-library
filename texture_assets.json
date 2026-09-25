@@ -208,6 +208,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Frosted_Glass.jpeg",
+    "name": "Frosted Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Frosted_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Frosted_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:03:18.138Z",
+    "github_asset_ids": [
+      587859261
+    ],
+    "width": 600,
+    "height": 1200,
+    "resolution": "600x1200"
+  },
+  {
     "id": "Texture_Galaxy_soft.jpeg",
     "name": "Galaxy soft",
     "category": "Texture",
