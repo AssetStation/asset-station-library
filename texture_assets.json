@@ -544,6 +544,22 @@
     "resolution": "500x500"
   },
   {
+    "id": "Texture_Gradient_Turbulance_Displace.jpeg",
+    "name": "Gradient Turbulance Displace",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Gradient_Turbulance_Displace.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Gradient_Turbulance_Displace.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:51:46.032Z",
+    "github_asset_ids": [
+      587943036
+    ],
+    "width": 736,
+    "height": 1472,
+    "resolution": "736x1472"
+  },
+  {
     "id": "Texture_Iron_Anisotropic_1.jpeg",
     "name": "Iron Anisotropic 1",
     "category": "Texture",
