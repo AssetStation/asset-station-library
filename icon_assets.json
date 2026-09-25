@@ -30,5 +30,21 @@
     "width": 512,
     "height": 512,
     "resolution": "512x512"
+  },
+  {
+    "id": "Icon_Thumbs_UP.png",
+    "name": "Thumbs UP",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Thumbs_UP.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Thumbs_UP.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:35:45.330Z",
+    "github_asset_ids": [
+      588131824
+    ],
+    "width": 512,
+    "height": 512,
+    "resolution": "512x512"
   }
 ]
