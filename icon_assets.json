@@ -160,6 +160,22 @@
     "resolution": "1975x2948"
   },
   {
+    "id": "Icon_Mountain.png",
+    "name": "Mountain",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Mountain.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Mountain.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:41.190Z",
+    "github_asset_ids": [
+      588146932
+    ],
+    "width": 4962,
+    "height": 2718,
+    "resolution": "4962x2718"
+  },
+  {
     "id": "Icon_Multitasker_empty.png",
     "name": "Multitasker empty",
     "category": "Icon",
