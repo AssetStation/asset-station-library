@@ -288,6 +288,22 @@
     "resolution": "736x1104"
   },
   {
+    "id": "Texture_Glass_bands.jpeg",
+    "name": "Glass bands",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Glass_bands.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Glass_bands.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:40.312Z",
+    "github_asset_ids": [
+      587918194
+    ],
+    "width": 736,
+    "height": 1309,
+    "resolution": "736x1309"
+  },
+  {
     "id": "Texture_Golden_Metal_Scrap.jpeg",
     "name": "Golden Metal Scrap",
     "category": "Texture",
