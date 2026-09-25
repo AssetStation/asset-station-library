@@ -336,6 +336,22 @@
     "resolution": "736x1309"
   },
   {
+    "id": "Texture_Glassy_Grid.jpeg",
+    "name": "Glassy Grid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Glassy_Grid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Glassy_Grid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:37:16.084Z",
+    "github_asset_ids": [
+      587919280
+    ],
+    "width": 576,
+    "height": 1020,
+    "resolution": "576x1020"
+  },
+  {
     "id": "Texture_Golden_Metal_Scrap.jpeg",
     "name": "Golden Metal Scrap",
     "category": "Texture",
