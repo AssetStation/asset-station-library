@@ -672,6 +672,22 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_holographic_bright_white_panel_blurry_ultra_realistic.jpeg",
+    "name": "holographic bright white panel blurry ultra realistic",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_holographic_bright_white_panel_blurry_ultra_realistic.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_holographic_bright_white_panel_blurry_ultra_realistic.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:03:22.157Z",
+    "github_asset_ids": [
+      587963852
+    ],
+    "width": 673,
+    "height": 1200,
+    "resolution": "673x1200"
+  },
+  {
     "id": "Texture_Iron_Anisotropic_1.jpeg",
     "name": "Iron Anisotropic 1",
     "category": "Texture",
