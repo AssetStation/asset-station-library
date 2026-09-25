@@ -1,5 +1,21 @@
 [
   {
+    "id": "Icon_Airplane_Illustration.png",
+    "name": "Airplane Illustration",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Airplane_Illustration.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Airplane_Illustration.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:35:49.659Z",
+    "github_asset_ids": [
+      588131932
+    ],
+    "width": 512,
+    "height": 512,
+    "resolution": "512x512"
+  },
+  {
     "id": "Icon_Character.png",
     "name": "Character",
     "category": "Icon",
