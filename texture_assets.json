@@ -1376,6 +1376,22 @@
     "resolution": "640x1136"
   },
   {
+    "id": "Texture_White_shimmering_glass.jpeg",
+    "name": "White shimmering glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_White_shimmering_glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_White_shimmering_glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:32.454Z",
+    "github_asset_ids": [
+      587975448
+    ],
+    "width": 562,
+    "height": 1000,
+    "resolution": "562x1000"
+  },
+  {
     "id": "Texture_white_shine_spike.jpeg",
     "name": "white shine spike",
     "category": "Texture",
