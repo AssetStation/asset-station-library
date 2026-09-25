@@ -34,6 +34,23 @@
     "resolution": "854x480"
   },
   {
+    "id": "GreenScreen_Fire_Particle.mp4",
+    "name": "Fire Particle",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Fire_Particle.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Fire_Particle_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:24:33.084Z",
+    "github_asset_ids": [
+      588113699,
+      588113728
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
+  },
+  {
     "id": "GreenScreen_Fire_sparks_embers_particles_overlay.mp4",
     "name": "Fire sparks embers particles overlay",
     "category": "GreenScreen",
