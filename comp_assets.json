@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "Comp_Glowing_Blocky_Wave_Animation.zip",
+    "name": "Glowing Blocky Wave Animation",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Glowing_Blocky_Wave_Animation.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Glowing_Blocky_Wave_Animation.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Glowing_Blocky_Wave_Animation_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T13:08:06.603Z",
+    "github_asset_ids": [
+      588384078,
+      588384101,
+      588384114
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
+  }
+]
