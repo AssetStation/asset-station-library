@@ -432,6 +432,22 @@
     "resolution": "906x1280"
   },
   {
+    "id": "Icon_Surrender.png",
+    "name": "Surrender",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Surrender.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Surrender.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:47:08.738Z",
+    "github_asset_ids": [
+      588150937
+    ],
+    "width": 2504,
+    "height": 1668,
+    "resolution": "2504x1668"
+  },
+  {
     "id": "Icon_Table.png",
     "name": "Table",
     "category": "Icon",
