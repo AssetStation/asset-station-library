@@ -96,6 +96,22 @@
     "resolution": "448x832"
   },
   {
+    "id": "Texture_Blue_Glassy_Lines.jpeg",
+    "name": "Blue Glassy Lines",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Glassy_Lines.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Glassy_Lines.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:10:41.022Z",
+    "github_asset_ids": [
+      587977519
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Blue_Ice.jpg",
     "name": "Blue Ice",
     "category": "Texture",
