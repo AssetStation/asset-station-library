@@ -17,6 +17,23 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "GreenScreen_Blinking_particle_overlay.mp4",
+    "name": "Blinking particle overlay",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Blinking_particle_overlay.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Blinking_particle_overlay_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:24:52.093Z",
+    "github_asset_ids": [
+      588114207,
+      588114222
+    ],
+    "width": 288,
+    "height": 352,
+    "resolution": "288x352"
+  },
+  {
     "id": "GreenScreen_Creeper_Explosion.mp4",
     "name": "Creeper Explosion",
     "category": "GreenScreen",
