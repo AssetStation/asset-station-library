@@ -448,6 +448,22 @@
     "resolution": "576x1020"
   },
   {
+    "id": "Texture_Golden_abstract_1.jpeg",
+    "name": "Golden abstract 1",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Golden_abstract_1.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Golden_abstract_1.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:51:30.873Z",
+    "github_asset_ids": [
+      587942650
+    ],
+    "width": 564,
+    "height": 1002,
+    "resolution": "564x1002"
+  },
+  {
     "id": "Texture_Golden_Metal_Scrap.jpeg",
     "name": "Golden Metal Scrap",
     "category": "Texture",
