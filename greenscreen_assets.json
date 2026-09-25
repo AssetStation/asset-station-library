@@ -17,6 +17,23 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "GreenScreen_Creeper_Explosion.mp4",
+    "name": "Creeper Explosion",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Creeper_Explosion.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Creeper_Explosion_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:24:25.727Z",
+    "github_asset_ids": [
+      588113543,
+      588113557
+    ],
+    "width": 854,
+    "height": 480,
+    "resolution": "854x480"
+  },
+  {
     "id": "GreenScreen_Fire_sparks_embers_particles_overlay.mp4",
     "name": "Fire sparks embers particles overlay",
     "category": "GreenScreen",
