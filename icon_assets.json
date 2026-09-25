@@ -32,6 +32,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Amazed_Person.png",
+    "name": "Amazed Person",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Amazed_Person.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Amazed_Person.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:40:46.670Z",
+    "github_asset_ids": [
+      588141061
+    ],
+    "width": 886,
+    "height": 1024,
+    "resolution": "886x1024"
+  },
+  {
     "id": "Icon_Character.png",
     "name": "Character",
     "category": "Icon",
