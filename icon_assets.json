@@ -144,6 +144,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Money_Weight.png",
+    "name": "Money Weight",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Money_Weight.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Money_Weight.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:36.854Z",
+    "github_asset_ids": [
+      588146814
+    ],
+    "width": 1975,
+    "height": 2948,
+    "resolution": "1975x2948"
+  },
+  {
     "id": "Icon_Multitasker_empty.png",
     "name": "Multitasker empty",
     "category": "Icon",
