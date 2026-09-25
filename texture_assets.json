@@ -768,6 +768,22 @@
     "resolution": "480x700"
   },
   {
+    "id": "Texture_LEATHER_LOOKING_FABRIC.jpeg",
+    "name": "LEATHER LOOKING FABRIC",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_LEATHER_LOOKING_FABRIC.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_LEATHER_LOOKING_FABRIC.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:06:10.426Z",
+    "github_asset_ids": [
+      587969669
+    ],
+    "width": 736,
+    "height": 1472,
+    "resolution": "736x1472"
+  },
+  {
     "id": "Texture_Liquid_Gold.jpeg",
     "name": "Liquid Gold",
     "category": "Texture",
