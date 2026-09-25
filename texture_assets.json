@@ -896,6 +896,22 @@
     "resolution": "659x1201"
   },
   {
+    "id": "Texture_Prata.jpeg",
+    "name": "Prata",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Prata.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Prata.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:06:21.207Z",
+    "github_asset_ids": [
+      587969992
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Premium_Liquid_Snapshot.jpeg",
     "name": "Premium Liquid Snapshot",
     "category": "Texture",
