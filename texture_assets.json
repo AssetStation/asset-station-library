@@ -1232,6 +1232,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Stunning_high-resolution_wallpapers.jpeg",
+    "name": "Stunning high-resolution wallpapers",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Stunning_high-resolution_wallpapers.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Stunning_high-resolution_wallpapers.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:00.714Z",
+    "github_asset_ids": [
+      587974421
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Teared_Glass_1.jpeg",
     "name": "Teared Glass 1",
     "category": "Texture",
