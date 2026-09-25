@@ -496,6 +496,22 @@
     "resolution": "640x1136"
   },
   {
+    "id": "Texture_Silve_paper_scrap.jpeg",
+    "name": "Silve paper scrap",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Silve_paper_scrap.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Silve_paper_scrap.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:59.765Z",
+    "github_asset_ids": [
+      587918798
+    ],
+    "width": 676,
+    "height": 1201,
+    "resolution": "676x1201"
+  },
+  {
     "id": "Texture_Silver_scrap_metal.jpeg",
     "name": "Silver scrap metal",
     "category": "Texture",
