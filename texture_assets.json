@@ -752,6 +752,22 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_Jennah_Ward.jpeg",
+    "name": "Jennah Ward",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Jennah_Ward.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Jennah_Ward.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:06:05.137Z",
+    "github_asset_ids": [
+      587969567
+    ],
+    "width": 480,
+    "height": 700,
+    "resolution": "480x700"
+  },
+  {
     "id": "Texture_Liquid_Gold.jpeg",
     "name": "Liquid Gold",
     "category": "Texture",
