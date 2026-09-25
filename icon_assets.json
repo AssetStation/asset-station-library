@@ -48,6 +48,22 @@
     "resolution": "886x1024"
   },
   {
+    "id": "Icon_Arms_Cross.png",
+    "name": "Arms Cross",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Arms_Cross.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Arms_Cross.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:46:41.365Z",
+    "github_asset_ids": [
+      588150166
+    ],
+    "width": 3565,
+    "height": 6780,
+    "resolution": "3565x6780"
+  },
+  {
     "id": "Icon_Audience_1.png",
     "name": "Audience 1",
     "category": "Icon",
