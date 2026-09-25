@@ -112,6 +112,22 @@
     "resolution": "884x1024"
   },
   {
+    "id": "Icon_Person_Using_Phone_Front_angle.png",
+    "name": "Person Using Phone Front angle",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Person_Using_Phone_Front_angle.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Person_Using_Phone_Front_angle.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:40:42.223Z",
+    "github_asset_ids": [
+      588140935
+    ],
+    "width": 758,
+    "height": 1024,
+    "resolution": "758x1024"
+  },
+  {
     "id": "Icon_standing_man.jpg",
     "name": "standing man",
     "category": "Icon",
