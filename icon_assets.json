@@ -160,6 +160,22 @@
     "resolution": "758x1024"
   },
   {
+    "id": "Icon_Person_working_on_PC.png",
+    "name": "Person working on PC",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Person_working_on_PC.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Person_working_on_PC.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:22.544Z",
+    "github_asset_ids": [
+      588146465
+    ],
+    "width": 1024,
+    "height": 768,
+    "resolution": "1024x768"
+  },
+  {
     "id": "Icon_Rich_Person.png",
     "name": "Rich Person",
     "category": "Icon",
