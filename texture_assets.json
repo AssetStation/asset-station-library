@@ -464,6 +464,22 @@
     "resolution": "600x1200"
   },
   {
+    "id": "Texture_Galaxy_Noise.jpeg",
+    "name": "Galaxy Noise",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Galaxy_Noise.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Galaxy_Noise.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:24.572Z",
+    "github_asset_ids": [
+      587954850
+    ],
+    "width": 676,
+    "height": 1200,
+    "resolution": "676x1200"
+  },
+  {
     "id": "Texture_Galaxy_soft.jpeg",
     "name": "Galaxy soft",
     "category": "Texture",
