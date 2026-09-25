@@ -160,6 +160,22 @@
     "resolution": "882x1024"
   },
   {
+    "id": "Icon_Runner_front.png",
+    "name": "Runner front",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Runner_front.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Runner_front.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:40:55.504Z",
+    "github_asset_ids": [
+      588141282
+    ],
+    "width": 1644,
+    "height": 3588,
+    "resolution": "1644x3588"
+  },
+  {
     "id": "Icon_standing_man.jpg",
     "name": "standing man",
     "category": "Icon",
