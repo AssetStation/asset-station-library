@@ -224,6 +224,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Two_roads.png",
+    "name": "Two roads",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Two_roads.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Two_roads.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:41:09.342Z",
+    "github_asset_ids": [
+      588141639
+    ],
+    "width": 3509,
+    "height": 3295,
+    "resolution": "3509x3295"
+  },
+  {
     "id": "Icon_Working_person.png",
     "name": "Working person",
     "category": "Icon",
