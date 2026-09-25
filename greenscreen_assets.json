@@ -34,6 +34,23 @@
     "resolution": "2160x3840"
   },
   {
+    "id": "GreenScreen_Floating_Fire_Particles_Overlay.mp4",
+    "name": "Floating Fire Particles Overlay",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Floating_Fire_Particles_Overlay.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Floating_Fire_Particles_Overlay_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:16:51.192Z",
+    "github_asset_ids": [
+      588100550,
+      588100583
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
+  },
+  {
     "id": "GreenScreen_Glitch_Transition_1.mp4",
     "name": "Glitch Transition 1",
     "category": "GreenScreen",
