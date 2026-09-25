@@ -480,6 +480,22 @@
     "resolution": "576x1020"
   },
   {
+    "id": "Texture_Gold-Silver_Liquid.jpeg",
+    "name": "Gold-Silver Liquid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Gold-Silver_Liquid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Gold-Silver_Liquid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:51:55.716Z",
+    "github_asset_ids": [
+      587943249
+    ],
+    "width": 675,
+    "height": 1200,
+    "resolution": "675x1200"
+  },
+  {
     "id": "Texture_Golden_abstract_1.jpeg",
     "name": "Golden abstract 1",
     "category": "Texture",
