@@ -208,6 +208,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Chromatic_Crystal_Reflect.jpeg",
+    "name": "Chromatic Crystal Reflect",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Chromatic_Crystal_Reflect.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Chromatic_Crystal_Reflect.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:45:02.627Z",
+    "github_asset_ids": [
+      587931896
+    ],
+    "width": 736,
+    "height": 1143,
+    "resolution": "736x1143"
+  },
+  {
     "id": "Texture_Cool_Blue_abstract.jpg",
     "name": "Cool Blue abstract",
     "category": "Texture",
