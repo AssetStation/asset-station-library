@@ -224,6 +224,22 @@
     "resolution": "736x1104"
   },
   {
+    "id": "Texture_Golden_Metal_Texture.jpeg",
+    "name": "Golden Metal Texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Golden_Metal_Texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Golden_Metal_Texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:54.625Z",
+    "github_asset_ids": [
+      587843624
+    ],
+    "width": 675,
+    "height": 1200,
+    "resolution": "675x1200"
+  },
+  {
     "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
     "name": "Orange white Blue Paint abstract",
     "category": "Texture",
