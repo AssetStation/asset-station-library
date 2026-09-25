@@ -48,6 +48,22 @@
     "resolution": "886x1024"
   },
   {
+    "id": "Icon_Audience_1.png",
+    "name": "Audience 1",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Audience_1.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Audience_1.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:45:02.977Z",
+    "github_asset_ids": [
+      588147410
+    ],
+    "width": 8328,
+    "height": 11776,
+    "resolution": "8328x11776"
+  },
+  {
     "id": "Icon_Character.png",
     "name": "Character",
     "category": "Icon",
