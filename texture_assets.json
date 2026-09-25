@@ -368,6 +368,22 @@
     "resolution": "736x736"
   },
   {
+    "id": "Texture_Dreamy_Wave.jpeg",
+    "name": "Dreamy Wave",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Dreamy_Wave.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Dreamy_Wave.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:14.509Z",
+    "github_asset_ids": [
+      587954615
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Fictional_Shine.jpeg",
     "name": "Fictional Shine",
     "category": "Texture",
