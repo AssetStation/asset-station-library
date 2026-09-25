@@ -112,6 +112,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Blue_molten_metal.jpeg",
+    "name": "Blue molten metal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_molten_metal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_molten_metal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:30.172Z",
+    "github_asset_ids": [
+      587842810
+    ],
+    "width": 736,
+    "height": 1632,
+    "resolution": "736x1632"
+  },
+  {
     "id": "Texture_Blue_Wavy_Paint.jpeg",
     "name": "Blue Wavy Paint",
     "category": "Texture",
