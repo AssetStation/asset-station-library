@@ -32,6 +32,22 @@
     "resolution": "1280x1280"
   },
   {
+    "id": "Icon_500_INR.jpg",
+    "name": "500 INR",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_500_INR.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_500_INR.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T11:01:34.347Z",
+    "github_asset_ids": [
+      588175226
+    ],
+    "width": 1080,
+    "height": 1081,
+    "resolution": "1080x1081"
+  },
+  {
     "id": "Icon_Airplane_Illustration.png",
     "name": "Airplane Illustration",
     "category": "Icon",
