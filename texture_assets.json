@@ -720,6 +720,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Purple_Liquid.jpeg",
+    "name": "Purple Liquid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Liquid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Liquid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:02.241Z",
+    "github_asset_ids": [
+      587954256
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Purple_shiny_molten_metal.jpeg",
     "name": "Purple shiny molten metal",
     "category": "Texture",
