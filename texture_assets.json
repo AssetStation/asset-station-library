@@ -158,5 +158,21 @@
     "width": 3600,
     "height": 2100,
     "resolution": "3600x2100"
+  },
+  {
+    "id": "Texture_smeary_wavy_texture.jpeg",
+    "name": "smeary wavy texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_smeary_wavy_texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_smeary_wavy_texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:46:28.705Z",
+    "github_asset_ids": [
+      587828416
+    ],
+    "width": 675,
+    "height": 1200,
+    "resolution": "675x1200"
   }
 ]
