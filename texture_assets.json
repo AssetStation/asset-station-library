@@ -32,6 +32,22 @@
     "resolution": "673x1200"
   },
   {
+    "id": "Texture_Blue_Blocky_Glass.jpeg",
+    "name": "Blue Blocky Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Blocky_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue_Blocky_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:30.388Z",
+    "github_asset_ids": [
+      587917859
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "Texture_Blue_crystal_Background.jpeg",
     "name": "Blue crystal Background",
     "category": "Texture",
