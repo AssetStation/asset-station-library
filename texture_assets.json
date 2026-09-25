@@ -224,6 +224,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Brown_Dessert_peaks.jpeg",
+    "name": "Brown Dessert peaks",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Brown_Dessert_peaks.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Brown_Dessert_peaks.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:08.664Z",
+    "github_asset_ids": [
+      587954450
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Chromatic_Crystal_Reflect.jpeg",
     "name": "Chromatic Crystal Reflect",
     "category": "Texture",
