@@ -384,6 +384,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Ember_Liquid.jpeg",
+    "name": "Ember Liquid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Ember_Liquid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Ember_Liquid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:29.225Z",
+    "github_asset_ids": [
+      587954963
+    ],
+    "width": 736,
+    "height": 1309,
+    "resolution": "736x1309"
+  },
+  {
     "id": "Texture_Fictional_Shine.jpeg",
     "name": "Fictional Shine",
     "category": "Texture",
