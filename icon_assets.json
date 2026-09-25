@@ -80,6 +80,22 @@
     "resolution": "1080x1080"
   },
   {
+    "id": "Icon_Drinking_Person.png",
+    "name": "Drinking Person",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Drinking_Person.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Drinking_Person.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:41:00.149Z",
+    "github_asset_ids": [
+      588141388
+    ],
+    "width": 1303,
+    "height": 3394,
+    "resolution": "1303x3394"
+  },
+  {
     "id": "Icon_Innovation.png",
     "name": "Innovation",
     "category": "Icon",
