@@ -224,6 +224,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Mirror_reflection.png",
+    "name": "Mirror reflection",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Mirror_reflection.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Mirror_reflection.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:46:47.654Z",
+    "github_asset_ids": [
+      588150352
+    ],
+    "width": 7865,
+    "height": 6210,
+    "resolution": "7865x6210"
+  },
+  {
     "id": "Icon_Money_in_hands.png",
     "name": "Money in hands",
     "category": "Icon",
