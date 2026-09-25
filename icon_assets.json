@@ -224,6 +224,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Working_person.png",
+    "name": "Working person",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Working_person.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Working_person.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:41:04.849Z",
+    "github_asset_ids": [
+      588141532
+    ],
+    "width": 1024,
+    "height": 864,
+    "resolution": "1024x864"
+  },
+  {
     "id": "Icon_YT_Studio_Head_Person.png",
     "name": "YT Studio Head Person",
     "category": "Icon",
