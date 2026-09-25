@@ -560,6 +560,22 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_Liquid_Gold.jpeg",
+    "name": "Liquid Gold",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Liquid_Gold.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Liquid_Gold.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:51:36.265Z",
+    "github_asset_ids": [
+      587942803
+    ],
+    "width": 736,
+    "height": 1087,
+    "resolution": "736x1087"
+  },
+  {
     "id": "Texture_Mercury_Liquid.jpeg",
     "name": "Mercury Liquid",
     "category": "Texture",
