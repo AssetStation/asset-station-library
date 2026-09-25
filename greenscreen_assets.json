@@ -51,6 +51,23 @@
     "resolution": "2160x3840"
   },
   {
+    "id": "GreenScreen_Glitch_Transition_2.mp4",
+    "name": "Glitch Transition 2",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glitch_Transition_2.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glitch_Transition_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:59:03.426Z",
+    "github_asset_ids": [
+      588068149,
+      588068201
+    ],
+    "width": 2560,
+    "height": 1440,
+    "resolution": "2560x1440"
+  },
+  {
     "id": "GreenScreen_Glitch_Transition_3.mp4",
     "name": "Glitch Transition 3",
     "category": "GreenScreen",
