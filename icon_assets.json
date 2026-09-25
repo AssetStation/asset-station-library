@@ -96,6 +96,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Person_Using_Phone.png",
+    "name": "Person Using Phone",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Person_Using_Phone.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Person_Using_Phone.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:40:32.498Z",
+    "github_asset_ids": [
+      588140727
+    ],
+    "width": 884,
+    "height": 1024,
+    "resolution": "884x1024"
+  },
+  {
     "id": "Icon_standing_man.jpg",
     "name": "standing man",
     "category": "Icon",
