@@ -558,5 +558,21 @@
     "width": 564,
     "height": 1002,
     "resolution": "564x1002"
+  },
+  {
+    "id": "Texture_Wet_Foamed_Glass.jpeg",
+    "name": "Wet Foamed Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Wet_Foamed_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Wet_Foamed_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:36:50.026Z",
+    "github_asset_ids": [
+      587918511
+    ],
+    "width": 640,
+    "height": 1136,
+    "resolution": "640x1136"
   }
 ]
