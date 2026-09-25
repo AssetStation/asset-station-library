@@ -240,6 +240,22 @@
     "resolution": "675x1200"
   },
   {
+    "id": "Texture_Golden_molten_metal.jpeg",
+    "name": "Golden molten metal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Golden_molten_metal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Golden_molten_metal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:02:51.958Z",
+    "github_asset_ids": [
+      587858466
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Iron_Anisotropic_1.jpeg",
     "name": "Iron Anisotropic 1",
     "category": "Texture",
