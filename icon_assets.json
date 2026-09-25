@@ -144,6 +144,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Multitasker_empty.png",
+    "name": "Multitasker empty",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Multitasker_empty.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Multitasker_empty.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:44:32.341Z",
+    "github_asset_ids": [
+      588146713
+    ],
+    "width": 2926,
+    "height": 3477,
+    "resolution": "2926x3477"
+  },
+  {
     "id": "Icon_Person_Using_Phone.png",
     "name": "Person Using Phone",
     "category": "Icon",
