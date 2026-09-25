@@ -1328,6 +1328,22 @@
     "resolution": "736x1288"
   },
   {
+    "id": "Texture_Violet_Crystal.jpeg",
+    "name": "Violet Crystal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Violet_Crystal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Violet_Crystal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:26.468Z",
+    "github_asset_ids": [
+      587975255
+    ],
+    "width": 675,
+    "height": 1200,
+    "resolution": "675x1200"
+  },
+  {
     "id": "Texture_Water_Texture.jpeg",
     "name": "Water Texture",
     "category": "Texture",
