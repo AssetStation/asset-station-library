@@ -128,6 +128,22 @@
     "resolution": "564x1253"
   },
   {
+    "id": "Texture_dc_mafia_barbie.jpeg",
+    "name": "dc mafia barbie",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_dc_mafia_barbie.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_dc_mafia_barbie.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:46:37.850Z",
+    "github_asset_ids": [
+      587828656
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Galaxy_soft.jpeg",
     "name": "Galaxy soft",
     "category": "Texture",
