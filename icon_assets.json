@@ -1,5 +1,21 @@
 [
   {
+    "id": "Icon_Character.png",
+    "name": "Character",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Character.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Character.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:35:40.942Z",
+    "github_asset_ids": [
+      588131728
+    ],
+    "width": 400,
+    "height": 400,
+    "resolution": "400x400"
+  },
+  {
     "id": "Icon_Instagram_logo.png",
     "name": "Instagram logo",
     "category": "Icon",
