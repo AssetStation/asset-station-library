@@ -464,6 +464,22 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_Metal_Chain_Grid.jpeg",
+    "name": "Metal Chain Grid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Metal_Chain_Grid.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Metal_Chain_Grid.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:44:47.329Z",
+    "github_asset_ids": [
+      587931323
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Orange_white_Blue_Paint_abstract.jpg",
     "name": "Orange white Blue Paint abstract",
     "category": "Texture",
