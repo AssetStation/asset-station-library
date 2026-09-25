@@ -96,6 +96,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Blue-Silver_Abstract_Digital_Background.jpeg",
+    "name": "Blue-Silver Abstract Digital Background",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue-Silver_Abstract_Digital_Background.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Blue-Silver_Abstract_Digital_Background.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:46:33.172Z",
+    "github_asset_ids": [
+      587828527
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Cool_Blue_abstract.jpg",
     "name": "Cool Blue abstract",
     "category": "Texture",
