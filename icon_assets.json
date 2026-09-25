@@ -144,6 +144,22 @@
     "resolution": "1080x1080"
   },
   {
+    "id": "Icon_dollar_Coin.png",
+    "name": "dollar Coin",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_dollar_Coin.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_dollar_Coin.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T11:01:39.398Z",
+    "github_asset_ids": [
+      588175348
+    ],
+    "width": 512,
+    "height": 512,
+    "resolution": "512x512"
+  },
+  {
     "id": "Icon_Double_mask.png",
     "name": "Double mask",
     "category": "Icon",
