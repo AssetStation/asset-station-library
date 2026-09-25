@@ -1360,6 +1360,22 @@
     "resolution": "564x1002"
   },
   {
+    "id": "Texture_Therapy-Chromotherapy.jpeg",
+    "name": "Therapy-Chromotherapy",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Therapy-Chromotherapy.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Therapy-Chromotherapy.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:10:46.254Z",
+    "github_asset_ids": [
+      587977707
+    ],
+    "width": 675,
+    "height": 1200,
+    "resolution": "675x1200"
+  },
+  {
     "id": "Texture_Trippy_Moving_Wallpaper.jpeg",
     "name": "Trippy Moving Wallpaper",
     "category": "Texture",
