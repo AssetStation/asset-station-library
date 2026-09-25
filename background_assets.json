@@ -65,6 +65,22 @@
     "resolution": "1024x1024"
   },
   {
+    "id": "Background_Mythical_Samurai_House_AI.jpg",
+    "name": "Mythical Samurai House AI",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Mythical_Samurai_House_AI.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Mythical_Samurai_House_AI.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:40:37.411Z",
+    "github_asset_ids": [
+      588140841
+    ],
+    "width": 1024,
+    "height": 1024,
+    "resolution": "1024x1024"
+  },
+  {
     "id": "Background_Purple_Gradient_01.mp4",
     "name": "Purple Gradient 01",
     "category": "Background",
