@@ -912,6 +912,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Premium_Blue_Soul_Spikes.jpeg",
+    "name": "Premium Blue Soul Spikes",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Premium_Blue_Soul_Spikes.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Premium_Blue_Soul_Spikes.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:38.444Z",
+    "github_asset_ids": [
+      587975697
+    ],
+    "width": 736,
+    "height": 1313,
+    "resolution": "736x1313"
+  },
+  {
     "id": "Texture_Premium_Liquid_Snapshot.jpeg",
     "name": "Premium Liquid Snapshot",
     "category": "Texture",
