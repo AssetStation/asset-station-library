@@ -352,6 +352,22 @@
     "resolution": "736x736"
   },
   {
+    "id": "Texture_Fictional_Shine.jpeg",
+    "name": "Fictional Shine",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Fictional_Shine.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Fictional_Shine.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:51:40.824Z",
+    "github_asset_ids": [
+      587942906
+    ],
+    "width": 736,
+    "height": 1307,
+    "resolution": "736x1307"
+  },
+  {
     "id": "Texture_Fine_Grained_Plan_Texture.jpeg",
     "name": "Fine Grained Plan Texture",
     "category": "Texture",
