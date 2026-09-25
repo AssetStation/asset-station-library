@@ -102,6 +102,23 @@
     "resolution": "638x360"
   },
   {
+    "id": "GreenScreen_Ink_Transition_7.mov",
+    "name": "Ink Transition 7",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Ink_Transition_7.mov",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Ink_Transition_7_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:47:17.894Z",
+    "github_asset_ids": [
+      588045174,
+      588045187
+    ],
+    "width": 480,
+    "height": 270,
+    "resolution": "480x270"
+  },
+  {
     "id": "GreenScreen_Like_Share_Subscribe_Button.mp4",
     "name": "Like Share Subscribe Button",
     "category": "GreenScreen",
