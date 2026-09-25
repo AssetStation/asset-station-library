@@ -933,5 +933,22 @@
     "width": 1080,
     "height": 1920,
     "resolution": "1080x1920"
+  },
+  {
+    "id": "GreenScreen_Subscribe_Animation.mp4",
+    "name": "Subscribe Animation",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Subscribe_Animation.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Subscribe_Animation_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:24:39.555Z",
+    "github_asset_ids": [
+      588113865,
+      588113907
+    ],
+    "width": 854,
+    "height": 480,
+    "resolution": "854x480"
   }
 ]
