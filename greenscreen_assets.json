@@ -153,6 +153,23 @@
     "resolution": "2560x1440"
   },
   {
+    "id": "GreenScreen_Glowing_Particles_Overlay_1.mp4",
+    "name": "Glowing Particles Overlay 1",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glowing_Particles_Overlay_1.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glowing_Particles_Overlay_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:23:51.048Z",
+    "github_asset_ids": [
+      588112560,
+      588112590
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "GreenScreen_Ink_Transition_1.mov",
     "name": "Ink Transition 1",
     "category": "GreenScreen",
