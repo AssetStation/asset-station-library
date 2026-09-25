@@ -1008,6 +1008,22 @@
     "resolution": "564x1128"
   },
   {
+    "id": "Texture_Purple_Swirls.jpeg",
+    "name": "Purple Swirls",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Swirls.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Purple_Swirls.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:06:27.609Z",
+    "github_asset_ids": [
+      587970196
+    ],
+    "width": 736,
+    "height": 1161,
+    "resolution": "736x1161"
+  },
+  {
     "id": "Texture_Rainy_Glass.jpeg",
     "name": "Rainy Glass",
     "category": "Texture",
