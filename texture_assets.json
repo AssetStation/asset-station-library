@@ -224,6 +224,22 @@
     "resolution": "736x1143"
   },
   {
+    "id": "Texture_Chromatic_Shattered_Crystal.jpeg",
+    "name": "Chromatic Shattered Crystal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Chromatic_Shattered_Crystal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Chromatic_Shattered_Crystal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:45:12.190Z",
+    "github_asset_ids": [
+      587932211
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "Texture_Cool_Blue_abstract.jpg",
     "name": "Cool Blue abstract",
     "category": "Texture",
