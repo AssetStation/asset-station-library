@@ -272,6 +272,22 @@
     "resolution": "414x736"
   },
   {
+    "id": "Texture_Crystal_Scrapper.jpeg",
+    "name": "Crystal Scrapper",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Crystal_Scrapper.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Crystal_Scrapper.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:45:17.587Z",
+    "github_asset_ids": [
+      587932376
+    ],
+    "width": 564,
+    "height": 1128,
+    "resolution": "564x1128"
+  },
+  {
     "id": "Texture_Cyber_fluid_metal.jpeg",
     "name": "Cyber fluid metal",
     "category": "Texture",
