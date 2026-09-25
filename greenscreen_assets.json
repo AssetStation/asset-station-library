@@ -221,6 +221,23 @@
     "resolution": "2560x1440"
   },
   {
+    "id": "GreenScreen_Glowing_particle_Overlay_2.mp4",
+    "name": "Glowing particle Overlay 2",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glowing_particle_Overlay_2.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glowing_particle_Overlay_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:24:45.450Z",
+    "github_asset_ids": [
+      588114053,
+      588114069
+    ],
+    "width": 848,
+    "height": 784,
+    "resolution": "848x784"
+  },
+  {
     "id": "GreenScreen_Glowing_Particles_Overlay_1.mp4",
     "name": "Glowing Particles Overlay 1",
     "category": "GreenScreen",
