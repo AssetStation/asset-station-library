@@ -144,6 +144,22 @@
     "resolution": "4439x2439"
   },
   {
+    "id": "Icon_Inner_strenght.png",
+    "name": "Inner strenght",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Inner_strenght.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Inner_strenght.png",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:45:08.105Z",
+    "github_asset_ids": [
+      588147527
+    ],
+    "width": 5050,
+    "height": 7100,
+    "resolution": "5050x7100"
+  },
+  {
     "id": "Icon_Innovation.png",
     "name": "Innovation",
     "category": "Icon",
