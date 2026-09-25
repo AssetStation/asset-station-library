@@ -400,6 +400,22 @@
     "resolution": "736x1309"
   },
   {
+    "id": "Texture_Emerald_dreamy_abstract.jpeg",
+    "name": "Emerald dreamy abstract",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Emerald_dreamy_abstract.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Emerald_dreamy_abstract.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:34.437Z",
+    "github_asset_ids": [
+      587955129
+    ],
+    "width": 564,
+    "height": 1128,
+    "resolution": "564x1128"
+  },
+  {
     "id": "Texture_Fictional_Shine.jpeg",
     "name": "Fictional Shine",
     "category": "Texture",
