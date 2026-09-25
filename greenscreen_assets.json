@@ -782,6 +782,23 @@
     "resolution": "854x480"
   },
   {
+    "id": "GreenScreen_Paper_Transition.mp4",
+    "name": "Paper Transition",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Paper_Transition.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Paper_Transition_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-25T10:24:58.647Z",
+    "github_asset_ids": [
+      588114323,
+      588114364
+    ],
+    "width": 1080,
+    "height": 1920,
+    "resolution": "1080x1920"
+  },
+  {
     "id": "GreenScreen_REEL_TRAN_1.mp4",
     "name": "REEL TRAN 1",
     "category": "GreenScreen",
