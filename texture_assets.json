@@ -1056,6 +1056,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Rubi.jpeg",
+    "name": "Rubi",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Rubi.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Rubi.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:07.013Z",
+    "github_asset_ids": [
+      587974608
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Saas_Premium_background.jpeg",
     "name": "Saas Premium background",
     "category": "Texture",
