@@ -1296,6 +1296,22 @@
     "resolution": "564x1002"
   },
   {
+    "id": "Texture_Trippy_Moving_Wallpaper.jpeg",
+    "name": "Trippy Moving Wallpaper",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Trippy_Moving_Wallpaper.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Trippy_Moving_Wallpaper.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T09:09:12.641Z",
+    "github_asset_ids": [
+      587974836
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Water_Texture.jpeg",
     "name": "Water Texture",
     "category": "Texture",
