@@ -896,6 +896,22 @@
     "resolution": "564x1002"
   },
   {
+    "id": "Texture_Shattered_Purple_Glass.jpeg",
+    "name": "Shattered Purple Glass",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shattered_Purple_Glass.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Shattered_Purple_Glass.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:58:39.667Z",
+    "github_asset_ids": [
+      587955273
+    ],
+    "width": 675,
+    "height": 1200,
+    "resolution": "675x1200"
+  },
+  {
     "id": "Texture_shiny_blue_abstract.jpg",
     "name": "shiny blue abstract",
     "category": "Texture",
