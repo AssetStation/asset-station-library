@@ -208,6 +208,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Fine_Grained_Plan_Texture.jpeg",
+    "name": "Fine Grained Plan Texture",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Fine_Grained_Plan_Texture.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Fine_Grained_Plan_Texture.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T08:03:32.128Z",
+    "github_asset_ids": [
+      587859665
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Texture_Frosted_Glass.jpeg",
     "name": "Frosted Glass",
     "category": "Texture",
