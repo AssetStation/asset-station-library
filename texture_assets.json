@@ -160,6 +160,22 @@
     "resolution": "564x1253"
   },
   {
+    "id": "Texture_Crystal_Blue_metal.jpeg",
+    "name": "Crystal Blue metal",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Crystal_Blue_metal.jpeg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Crystal_Blue_metal.jpeg",
+    "source": "motionkit.",
+    "date": "2026-09-25T07:54:25.412Z",
+    "github_asset_ids": [
+      587842682
+    ],
+    "width": 414,
+    "height": 736,
+    "resolution": "414x736"
+  },
+  {
     "id": "Texture_dc_mafia_barbie.jpeg",
     "name": "dc mafia barbie",
     "category": "Texture",
