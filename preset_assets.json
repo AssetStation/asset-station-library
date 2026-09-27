@@ -356,6 +356,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Warp_Bounce_1.ffx",
+    "name": "Warp Bounce 1",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Warp_Bounce_1.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Warp_Bounce_1.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Warp_Bounce_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:15:51.404Z",
+    "github_asset_ids": [
+      593485475,
+      593485501,
+      593485550
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Wave_IN_Left_to_Right.ffx",
     "name": "Wave IN Left to Right",
     "category": "FFX-Text",
