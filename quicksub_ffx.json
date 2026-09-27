@@ -17,5 +17,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "QuickSub-FFX_Character_Up.ffx",
+    "name": "Character Up",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Character_Up.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Character_Up.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Character_Up_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T13:15:47.499Z",
+    "github_asset_ids": [
+      592963236,
+      592963260,
+      592963286
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
