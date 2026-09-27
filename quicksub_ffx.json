@@ -93,5 +93,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "QuickSub-FFX_Word_Slide_Right.ffx",
+    "name": "Word Slide Right",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Word_Slide_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Word_Slide_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Word_Slide_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:38:59.074Z",
+    "github_asset_ids": [
+      593525139,
+      593525164,
+      593525180
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
