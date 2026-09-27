@@ -1,5 +1,24 @@
 [
   {
+    "id": "QuickSub-Mogrt_Mrbeast_Style_Subtitles.mogrt",
+    "name": "Mrbeast Style Subtitles",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Mrbeast_Style_Subtitles.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Mrbeast_Style_Subtitles.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Mrbeast_Style_Subtitles_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T20:00:24.546Z",
+    "github_asset_ids": [
+      593667487,
+      593667543,
+      593667559
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
+  },
+  {
     "id": "QuickSub-Mogrt_Typewriter_Subtitles.mogrt",
     "name": "Typewriter Subtitles",
     "category": "QuickSub-Mogrt",
