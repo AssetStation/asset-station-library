@@ -1,5 +1,24 @@
 [
   {
+    "id": "QuickSub-FFX_Apple_Position_Bounce.ffx",
+    "name": "Apple Position Bounce",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Position_Bounce.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Position_Bounce.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Position_Bounce_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:17:29.533Z",
+    "github_asset_ids": [
+      593488394,
+      593488415,
+      593488428
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Character_Reveal_Left_to_Right.ffx",
     "name": "Character Reveal Left to Right",
     "category": "QuickSub-FFX",
