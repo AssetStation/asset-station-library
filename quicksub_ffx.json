@@ -95,6 +95,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-FFX_Fade_UP.ffx",
+    "name": "Fade UP",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Fade_UP.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Fade_UP.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Fade_UP_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:56:47.898Z",
+    "github_asset_ids": [
+      593556024,
+      593556043,
+      593556073
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Word_Slide_Right.ffx",
     "name": "Word Slide Right",
     "category": "QuickSub-FFX",
