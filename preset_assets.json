@@ -171,6 +171,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Character_Bounce_Right.ffx",
+    "name": "Character Bounce Right",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Bounce_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Bounce_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Bounce_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:16:55.726Z",
+    "github_asset_ids": [
+      593487157,
+      593487172,
+      593487216
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Character_Build_Down.ffx",
     "name": "Character Build Down",
     "category": "FFX-Text",
