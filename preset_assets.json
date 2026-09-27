@@ -247,6 +247,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Character_Right.ffx",
+    "name": "Character Right",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Character_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:41:54.893Z",
+    "github_asset_ids": [
+      593530357,
+      593530378,
+      593530413
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Chracter_Attract_Cinematic.ffx",
     "name": "Chracter Attract Cinematic",
     "category": "FFX-Text",
