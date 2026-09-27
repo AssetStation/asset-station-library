@@ -1,0 +1,21 @@
+[
+  {
+    "id": "QuickSub-FFX_Character_Reveal_Left_to_Right.ffx",
+    "name": "Character Reveal Left to Right",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Character_Reveal_Left_to_Right.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Character_Reveal_Left_to_Right.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Character_Reveal_Left_to_Right_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T12:23:59.182Z",
+    "github_asset_ids": [
+      592877430,
+      592877469,
+      592877484
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  }
+]
