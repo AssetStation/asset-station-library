@@ -432,6 +432,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Word_by_Word.ffx",
+    "name": "Word by Word",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Word_by_Word.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Word_by_Word.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Word_by_Word_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T18:44:07.433Z",
+    "github_asset_ids": [
+      593533790,
+      593533804,
+      593533815
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Word_Slide_Right.ffx",
     "name": "Word Slide Right",
     "category": "FFX-Text",
