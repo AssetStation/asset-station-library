@@ -1,0 +1,21 @@
+[
+  {
+    "id": "QuickSub-Mogrt_Typewriter_Subtitles.mogrt",
+    "name": "Typewriter Subtitles",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Typewriter_Subtitles.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Typewriter_Subtitles.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Typewriter_Subtitles_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T12:23:19.990Z",
+    "github_asset_ids": [
+      592876220,
+      592876268,
+      592876275
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
+  }
+]
