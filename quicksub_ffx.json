@@ -95,6 +95,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-FFX_Fade_IN_and_OUT.ffx",
+    "name": "Fade IN and OUT",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Fade_IN_and_OUT.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Fade_IN_and_OUT.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Fade_IN_and_OUT_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-27T19:00:22.604Z",
+    "github_asset_ids": [
+      593562062,
+      593562097,
+      593562110
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Fade_UP.ffx",
     "name": "Fade UP",
     "category": "QuickSub-FFX",
