@@ -38,25 +38,6 @@
     "resolution": "1920x1080"
   },
   {
-    "id": "FFX-Text_Apple_Word_Bounce.ffx",
-    "name": "Apple Word Bounce",
-    "category": "FFX-Text",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Apple_Word_Bounce.ffx",
-    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Apple_Word_Bounce.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Apple_Word_Bounce_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-09-27T18:13:49.475Z",
-    "github_asset_ids": [
-      593482199,
-      593482216,
-      593482221
-    ],
-    "width": 1920,
-    "height": 1080,
-    "resolution": "1920x1080"
-  },
-  {
     "id": "FFX-Text_Bounce_IN_Character.ffx",
     "name": "Bounce IN Character",
     "category": "FFX-Text",
