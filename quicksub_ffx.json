@@ -38,25 +38,6 @@
     "resolution": "1920x1080"
   },
   {
-    "id": "QuickSub-FFX_Apple_Word_Bounce_1.ffx",
-    "name": "Apple Word Bounce 1",
-    "category": "QuickSub-FFX",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Word_Bounce_1.ffx",
-    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Word_Bounce_1.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Word_Bounce_1_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-09-27T18:19:10.891Z",
-    "github_asset_ids": [
-      593490896,
-      593490918,
-      593490939
-    ],
-    "width": 1920,
-    "height": 1080,
-    "resolution": "1920x1080"
-  },
-  {
     "id": "QuickSub-FFX_Character_Reveal_Left_to_Right.ffx",
     "name": "Character Reveal Left to Right",
     "category": "QuickSub-FFX",
