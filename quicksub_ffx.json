@@ -1,5 +1,24 @@
 [
   {
+    "id": "QuickSub-FFX_Apple_Fade_Bounce_UP.ffx",
+    "name": "Apple Fade Bounce UP",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Fade_Bounce_UP.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Fade_Bounce_UP.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Apple_Fade_Bounce_UP_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-09-29T06:12:27.433Z",
+    "github_asset_ids": [
+      597436155,
+      597436161,
+      597436187
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Apple_Position_Bounce.ffx",
     "name": "Apple Position Bounce",
     "category": "QuickSub-FFX",
