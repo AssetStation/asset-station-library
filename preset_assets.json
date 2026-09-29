@@ -1,24 +1,5 @@
 [
   {
-    "id": "FFX-Text_Apple_Fade_Bounce_UP.ffx",
-    "name": "Apple Fade Bounce UP",
-    "category": "FFX-Text",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Apple_Fade_Bounce_UP.ffx",
-    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Apple_Fade_Bounce_UP.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Apple_Fade_Bounce_UP_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-09-27T18:11:24.759Z",
-    "github_asset_ids": [
-      593478437,
-      593478449,
-      593478462
-    ],
-    "width": 1920,
-    "height": 1080,
-    "resolution": "1920x1080"
-  },
-  {
     "id": "FFX-Text_Apple_Position_Bounce.ffx",
     "name": "Apple Position Bounce",
     "category": "FFX-Text",
