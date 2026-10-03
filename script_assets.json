@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": "Script_Proximity_Animation.jsxbin",
+    "name": "Proximity Animation",
+    "category": "Script",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Proximity_Animation.jsxbin",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Proximity_Animation.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Proximity_Animation_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-03T06:29:08.555Z",
+    "github_asset_ids": [
+      607289911,
+      607289922,
+      607289939
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  }
+]
