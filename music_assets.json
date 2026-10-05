@@ -49,5 +49,22 @@
     "width": 320,
     "height": 180,
     "resolution": "320x180"
+  },
+  {
+    "id": "Music_Stupid_thief_Sneaky.mp3",
+    "name": "Stupid thief Sneaky",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Stupid_thief_Sneaky.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Stupid_thief_Sneaky_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T11:00:35.726Z",
+    "github_asset_ids": [
+      612307374,
+      612309782
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
   }
 ]
