@@ -70,6 +70,23 @@
     "licenseUrl": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Scheming_Weasel_faster_Version_by_Kevin_MacLeod_-_Chosic_License.txt"
   },
   {
+    "id": "Music_Shimmer_Shine_Riser.wav",
+    "name": "Shimmer Shine Riser",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Shimmer_Shine_Riser.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Music_Shimmer_Shine_Riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T11:16:34.466Z",
+    "github_asset_ids": [
+      612348077,
+      612348304
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "Music_Stupid_thief_Sneaky.mp3",
     "name": "Stupid thief Sneaky",
     "category": "Music",
