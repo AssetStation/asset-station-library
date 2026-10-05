@@ -35,5 +35,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "Script_Text_Highlighter.jsxbin",
+    "name": "Text Highlighter",
+    "category": "Script",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Text_Highlighter.jsxbin",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Text_Highlighter.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Text_Highlighter_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T15:23:56.176Z",
+    "github_asset_ids": [
+      612932818,
+      612932862,
+      612932896
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
