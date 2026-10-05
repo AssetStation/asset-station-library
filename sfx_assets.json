@@ -2346,6 +2346,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_UI_Motion_2.wav",
+    "name": "UI Motion 2",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Motion_2.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_UI_Motion_2_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T11:39:31.136Z",
+    "github_asset_ids": [
+      612398731,
+      612399179
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Ui_pop_up.mp3",
     "name": "Ui pop up",
     "category": "SFX",
