@@ -18,6 +18,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Script_Number_Counter.jsxbin",
+    "name": "Number Counter",
+    "category": "Script",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Number_Counter.jsxbin",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Number_Counter.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Number_Counter_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T15:58:11.324Z",
+    "github_asset_ids": [
+      613015436,
+      613015465,
+      613015508
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Script_Proximity_Animation.jsxbin",
     "name": "Proximity Animation",
     "category": "Script",
