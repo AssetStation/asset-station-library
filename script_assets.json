@@ -1,5 +1,23 @@
 [
   {
+    "id": "Script_Liquid_Glass.jsxbin",
+    "name": "Liquid Glass",
+    "category": "Script",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Liquid_Glass.jsxbin",
+    "preview_video": "",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Script_Liquid_Glass_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T13:07:55.734Z",
+    "github_asset_ids": [
+      612606678,
+      612610932
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Script_Proximity_Animation.jsxbin",
     "name": "Proximity Animation",
     "category": "Script",
