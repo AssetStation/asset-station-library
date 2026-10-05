@@ -1802,6 +1802,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Shimmer_Shine_Riser_5.wav",
+    "name": "Shimmer Shine Riser 5",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Shimmer_Shine_Riser_5.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Shimmer_Shine_Riser_5_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-05T11:27:09.469Z",
+    "github_asset_ids": [
+      612371706,
+      612372566
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Short_Dramatic_Whoosh.wav",
     "name": "Short Dramatic Whoosh",
     "category": "SFX",
