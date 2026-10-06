@@ -16,6 +16,22 @@
     "resolution": "736x1631"
   },
   {
+    "id": "StockPhotos_AI_Person_Standing_Center_of_Crowd.jpg",
+    "name": "AI Person Standing Center of Crowd",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_AI_Person_Standing_Center_of_Crowd.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_AI_Person_Standing_Center_of_Crowd.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T08:11:41.732Z",
+    "github_asset_ids": [
+      614913467
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
+  },
+  {
     "id": "StockPhotos_Anime_girl_character_Cyber_theme.jpg",
     "name": "Anime girl character Cyber theme",
     "category": "StockPhotos",
