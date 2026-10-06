@@ -1751,6 +1751,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Run_sound_effect.mp3",
+    "name": "Run sound effect",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Run_sound_effect.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Run_sound_effect_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:21:48.412Z",
+    "github_asset_ids": [
+      616299683,
+      616299722
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Sci_Fi_Games_UI_Menu_Very_Short_Close_14.mp3",
     "name": "Sci Fi Games UI Menu Very Short Close 14",
     "category": "SFX",
