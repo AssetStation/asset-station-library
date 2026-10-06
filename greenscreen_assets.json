@@ -255,6 +255,23 @@
     "resolution": "2560x1440"
   },
   {
+    "id": "GreenScreen_Glitch_Transition_7.mp4",
+    "name": "Glitch Transition 7",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glitch_Transition_7.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Glitch_Transition_7_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:22:52.209Z",
+    "github_asset_ids": [
+      616302259,
+      616302359
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "GreenScreen_Glowing_particle_Overlay_2.mp4",
     "name": "Glowing particle Overlay 2",
     "category": "GreenScreen",
