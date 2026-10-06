@@ -49,6 +49,23 @@
     "resolution": "720x1280"
   },
   {
+    "id": "Background_Construction_Paper.mp4",
+    "name": "Construction Paper",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Construction_Paper.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Construction_Paper_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:22:03.835Z",
+    "github_asset_ids": [
+      616299988,
+      616300233
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Background_Mythical_Nature_AI_Wallpaper.jpg",
     "name": "Mythical Nature AI Wallpaper",
     "category": "Background",
