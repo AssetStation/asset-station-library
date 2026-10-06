@@ -64,6 +64,23 @@
     "resolution": "1280x768"
   },
   {
+    "id": "Video_Mr._Bean_Waiting_Meme.mp4",
+    "name": "Mr. Bean Waiting Meme",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Mr._Bean_Waiting_Meme.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Mr._Bean_Waiting_Meme_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T08:10:58.427Z",
+    "github_asset_ids": [
+      614911974,
+      614912023
+    ],
+    "width": 640,
+    "height": 352,
+    "resolution": "640x352"
+  },
+  {
     "id": "Video_Wormen_Meme.mp4",
     "name": "Wormen Meme",
     "category": "Video",
