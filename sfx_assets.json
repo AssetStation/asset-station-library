@@ -1479,6 +1479,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Pac-Man_Death.mp3",
+    "name": "Pac-Man Death",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Pac-Man_Death.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Pac-Man_Death_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:27:36.487Z",
+    "github_asset_ids": [
+      616312817,
+      616312847
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_paper_flutter_5933.mp3",
     "name": "paper flutter 5933",
     "category": "SFX",
