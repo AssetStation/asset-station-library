@@ -81,6 +81,23 @@
     "resolution": "736x414"
   },
   {
+    "id": "Video_Keyboard_Typing.mp4",
+    "name": "Keyboard Typing",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Keyboard_Typing.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Keyboard_Typing_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T08:11:20.631Z",
+    "github_asset_ids": [
+      614912736,
+      614912768
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
+  },
+  {
     "id": "Video_Money_Burning.mp4",
     "name": "Money Burning",
     "category": "Video",
