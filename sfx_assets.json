@@ -2684,5 +2684,22 @@
     "width": 320,
     "height": 180,
     "resolution": "320x180"
+  },
+  {
+    "id": "SFX_Window_Smash.mp3",
+    "name": "Window Smash",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Window_Smash.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Window_Smash_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:27:24.524Z",
+    "github_asset_ids": [
+      616312359,
+      616312388
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
   }
 ]
