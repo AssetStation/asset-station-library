@@ -49,5 +49,22 @@
     "width": 720,
     "height": 1000,
     "resolution": "720x1000"
+  },
+  {
+    "id": "Illustration_Tired_Boy_Sleep_on_Bed.mp4",
+    "name": "Tired Boy Sleep on Bed",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Tired_Boy_Sleep_on_Bed.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Tired_Boy_Sleep_on_Bed_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T08:11:35.405Z",
+    "github_asset_ids": [
+      614913211,
+      614913237
+    ],
+    "width": 1280,
+    "height": 720,
+    "resolution": "1280x720"
   }
 ]
