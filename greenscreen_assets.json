@@ -629,6 +629,23 @@
     "resolution": "2560x1440"
   },
   {
+    "id": "GreenScreen_Light_leak_overlay_12.mov",
+    "name": "Light leak overlay 12",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Light_leak_overlay_12.mov",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/GreenScreen_Light_leak_overlay_12_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:22:22.286Z",
+    "github_asset_ids": [
+      616300988,
+      616301095
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "GreenScreen_Light_leak_overlay_2.mp4",
     "name": "Light leak overlay 2",
     "category": "GreenScreen",
