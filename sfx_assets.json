@@ -2108,6 +2108,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Squeaky_door_opening.mp3",
+    "name": "Squeaky door opening",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Squeaky_door_opening.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Squeaky_door_opening_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:28:01.302Z",
+    "github_asset_ids": [
+      616313809,
+      616313831
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Suitcase_Close.wav",
     "name": "Suitcase Close",
     "category": "SFX",
