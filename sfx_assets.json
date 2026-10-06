@@ -2159,6 +2159,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Smokeballon_pop.mp3",
+    "name": "Smokeballon pop",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Smokeballon_pop.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Smokeballon_pop_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:29:14.250Z",
+    "github_asset_ids": [
+      616316493,
+      616316512
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Squeaky_door_opening.mp3",
     "name": "Squeaky door opening",
     "category": "SFX",
