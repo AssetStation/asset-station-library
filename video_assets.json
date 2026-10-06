@@ -1,5 +1,22 @@
 [
   {
+    "id": "Video_CJ_Oh_Shit_Reaction.mp4",
+    "name": "CJ Oh Shit Reaction",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_CJ_Oh_Shit_Reaction.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_CJ_Oh_Shit_Reaction_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T08:11:05.997Z",
+    "github_asset_ids": [
+      614912233,
+      614912257
+    ],
+    "width": 704,
+    "height": 608,
+    "resolution": "704x608"
+  },
+  {
     "id": "Video_Couple_illusion.mp4",
     "name": "Couple illusion",
     "category": "Video",
