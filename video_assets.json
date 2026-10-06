@@ -45,5 +45,22 @@
     "width": 1280,
     "height": 768,
     "resolution": "1280x768"
+  },
+  {
+    "id": "Video_Wormen_Meme.mp4",
+    "name": "Wormen Meme",
+    "category": "Video",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Wormen_Meme.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Video_Wormen_Meme_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T08:10:42.461Z",
+    "github_asset_ids": [
+      614911434,
+      614911465
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
   }
 ]
