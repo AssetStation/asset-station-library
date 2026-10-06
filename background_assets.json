@@ -166,6 +166,22 @@
     "resolution": "1080x1920"
   },
   {
+    "id": "Background_Shadowed_White_Background.jpg",
+    "name": "Shadowed White Background",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Shadowed_White_Background.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Shadowed_White_Background.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:27:42.041Z",
+    "github_asset_ids": [
+      616313012
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Background_Soft_morning_City_Scene_AI.jpg",
     "name": "Soft morning City Scene AI",
     "category": "Background",
