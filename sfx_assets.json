@@ -1836,6 +1836,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Sad_Trombone.mp3",
+    "name": "Sad Trombone",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sad_Trombone.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Sad_Trombone_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:28:08.854Z",
+    "github_asset_ids": [
+      616314054,
+      616314086
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Sci_Fi_Games_UI_Menu_Very_Short_Close_14.mp3",
     "name": "Sci Fi Games UI Menu Very Short Close 14",
     "category": "SFX",
