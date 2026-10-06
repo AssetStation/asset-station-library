@@ -1,24 +1,5 @@
 [
   {
-    "id": "QuickSub-Mogrt_Flickering_Text_1.mogrt",
-    "name": "Flickering Text 1",
-    "category": "QuickSub-Mogrt",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Flickering_Text_1.mogrt",
-    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Flickering_Text_1.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Flickering_Text_1_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-10-06T19:37:07.573Z",
-    "github_asset_ids": [
-      616469290,
-      616469329,
-      616469356
-    ],
-    "width": 1920,
-    "height": 1080,
-    "resolution": "1920x1080"
-  },
-  {
     "id": "QuickSub-Mogrt_Mrbeast_Style_Subtitles.mogrt",
     "name": "Mrbeast Style Subtitles",
     "category": "QuickSub-Mogrt",
