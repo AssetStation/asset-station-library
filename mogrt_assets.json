@@ -19,25 +19,6 @@
     "resolution": "1920x1080"
   },
   {
-    "id": "Mogrt_Gold_Text.mogrt",
-    "name": "Gold Text",
-    "category": "Mogrt",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Gold_Text.mogrt",
-    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Gold_Text.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Gold_Text_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-10-06T19:30:10.461Z",
-    "github_asset_ids": [
-      616453216,
-      616453254,
-      616453295
-    ],
-    "width": 1920,
-    "height": 1080,
-    "resolution": "1920x1080"
-  },
-  {
     "id": "Mogrt_Karaoke_Subtitles.mogrt",
     "name": "Karaoke Subtitles",
     "category": "Mogrt",
