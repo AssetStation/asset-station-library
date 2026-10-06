@@ -1173,6 +1173,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_GTA_San_Andreas_Mission_Passed.mp3",
+    "name": "GTA San Andreas Mission Passed",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_GTA_San_Andreas_Mission_Passed.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_GTA_San_Andreas_Mission_Passed_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:27:48.624Z",
+    "github_asset_ids": [
+      616313261,
+      616313293
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Hacking_-_Updating_System_Software_Data_Transfer.wav",
     "name": "Hacking - Updating System Software Data Transfer",
     "category": "SFX",
