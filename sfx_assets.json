@@ -1428,6 +1428,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Long_Typewriter.mp3",
+    "name": "Long Typewriter",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Long_Typewriter.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Long_Typewriter_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:28:16.935Z",
+    "github_asset_ids": [
+      616314349,
+      616314376
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_long_whoosh.mp3",
     "name": "long whoosh",
     "category": "SFX",
