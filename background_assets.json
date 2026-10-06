@@ -132,6 +132,23 @@
     "resolution": "1080x1920"
   },
   {
+    "id": "Background_Purple_Gradient_background.mp4",
+    "name": "Purple Gradient background",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Purple_Gradient_background.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Background_Purple_Gradient_background_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-06T18:22:34.824Z",
+    "github_asset_ids": [
+      616301430,
+      616301602
+    ],
+    "width": 1080,
+    "height": 1920,
+    "resolution": "1080x1920"
+  },
+  {
     "id": "Background_Soft_morning_City_Scene_AI.jpg",
     "name": "Soft morning City Scene AI",
     "category": "Background",
