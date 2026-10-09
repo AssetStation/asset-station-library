@@ -85,5 +85,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "Mogrt_Typewriter_Blur_In_Styled_Text.mogrt",
+    "name": "Typewriter Blur In Styled Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Typewriter_Blur_In_Styled_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Typewriter_Blur_In_Styled_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Typewriter_Blur_In_Styled_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-09T11:12:49.671Z",
+    "github_asset_ids": [
+      624739521,
+      624739550,
+      624739575
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
