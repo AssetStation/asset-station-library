@@ -114,6 +114,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-FFX_Typewriter_Blur_In_Styled_Text.ffx",
+    "name": "Typewriter Blur In Styled Text",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Typewriter_Blur_In_Styled_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Typewriter_Blur_In_Styled_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-FFX_Typewriter_Blur_In_Styled_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-09T11:11:59.911Z",
+    "github_asset_ids": [
+      624737834,
+      624737860,
+      624737874
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Word_Slide_Right.ffx",
     "name": "Word Slide Right",
     "category": "QuickSub-FFX",
