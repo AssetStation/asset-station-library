@@ -38,6 +38,25 @@
     "resolution": "1280x720"
   },
   {
+    "id": "QuickSub-Mogrt_Typewriter_Blur_In_Styled_Text.mogrt",
+    "name": "Typewriter Blur In Styled Text",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Typewriter_Blur_In_Styled_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Typewriter_Blur_In_Styled_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/QuickSub-Mogrt_Typewriter_Blur_In_Styled_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-09T11:13:13.508Z",
+    "github_asset_ids": [
+      624740317,
+      624740344,
+      624740351
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Typewriter_Subtitles.mogrt",
     "name": "Typewriter Subtitles",
     "category": "QuickSub-Mogrt",
