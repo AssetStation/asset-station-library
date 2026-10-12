@@ -208,6 +208,22 @@
     "resolution": "4439x2439"
   },
   {
+    "id": "Icon_Hand_Cursor.png",
+    "name": "Hand Cursor",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Hand_Cursor.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Hand_Cursor.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:51:03.951Z",
+    "github_asset_ids": [
+      633646171
+    ],
+    "width": 728,
+    "height": 636,
+    "resolution": "728x636"
+  },
+  {
     "id": "Icon_Hand_Pixel_Cursor.png",
     "name": "Hand Pixel Cursor",
     "category": "Icon",
