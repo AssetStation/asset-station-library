@@ -448,6 +448,22 @@
     "resolution": "1024x768"
   },
   {
+    "id": "Icon_Pixel_Crown.png",
+    "name": "Pixel Crown",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Pixel_Crown.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Pixel_Crown.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:51:20.903Z",
+    "github_asset_ids": [
+      633646737
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Icon_Premium_3D_Bullseye_Goal.png",
     "name": "Premium 3D Bullseye Goal",
     "category": "Icon",
