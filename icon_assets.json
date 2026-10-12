@@ -400,6 +400,22 @@
     "resolution": "736x736"
   },
   {
+    "id": "Icon_Realistic_Money_illustration.png",
+    "name": "Realistic Money illustration",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Realistic_Money_illustration.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Realistic_Money_illustration.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:40:09.267Z",
+    "github_asset_ids": [
+      633621349
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Icon_Rejected.png",
     "name": "Rejected",
     "category": "Icon",
