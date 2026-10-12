@@ -753,6 +753,23 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_Green_Cell_Binding.mp4",
+    "name": "Green Cell Binding",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Green_Cell_Binding.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Green_Cell_Binding_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:39:47.642Z",
+    "github_asset_ids": [
+      633620227,
+      633620287
+    ],
+    "width": 720,
+    "height": 720,
+    "resolution": "720x720"
+  },
+  {
     "id": "Texture_holographic_bright_white_panel_blurry_ultra_realistic.jpeg",
     "name": "holographic bright white panel blurry ultra realistic",
     "category": "Texture",
