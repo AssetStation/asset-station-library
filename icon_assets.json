@@ -1,5 +1,21 @@
 [
   {
+    "id": "Icon_3D_Warning_Icon.png",
+    "name": "3D Warning Icon",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_3D_Warning_Icon.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_3D_Warning_Icon.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:39:15.107Z",
+    "github_asset_ids": [
+      633618789
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Icon_Airplane_Illustration.png",
     "name": "Airplane Illustration",
     "category": "Icon",
