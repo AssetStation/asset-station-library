@@ -962,6 +962,23 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Texture_Overlay_Orange_Matrix_Calculation.mp4",
+    "name": "Overlay Orange Matrix Calculation",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Overlay_Orange_Matrix_Calculation.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Overlay_Orange_Matrix_Calculation_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:41:41.927Z",
+    "github_asset_ids": [
+      633625136,
+      633625168
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "Texture_phone_wallpaper.jpeg",
     "name": "phone wallpaper",
     "category": "Texture",
