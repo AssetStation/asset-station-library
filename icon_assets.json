@@ -448,6 +448,22 @@
     "resolution": "736x736"
   },
   {
+    "id": "Icon_Realistic_3D_Instagram_Icon.png",
+    "name": "Realistic 3D Instagram Icon",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Realistic_3D_Instagram_Icon.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Realistic_3D_Instagram_Icon.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:51:10.342Z",
+    "github_asset_ids": [
+      633646367
+    ],
+    "width": 500,
+    "height": 500,
+    "resolution": "500x500"
+  },
+  {
     "id": "Icon_Realistic_Money_illustration.png",
     "name": "Realistic Money illustration",
     "category": "Icon",
