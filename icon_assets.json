@@ -192,6 +192,22 @@
     "resolution": "4439x2439"
   },
   {
+    "id": "Icon_Human_Brain.png",
+    "name": "Human Brain",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Human_Brain.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Human_Brain.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:40:00.098Z",
+    "github_asset_ids": [
+      633620938
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Icon_Inner_strenght.png",
     "name": "Inner strenght",
     "category": "Icon",
