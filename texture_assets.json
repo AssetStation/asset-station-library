@@ -272,6 +272,23 @@
     "resolution": "736x1143"
   },
   {
+    "id": "Texture_Chromatic_Perlin.mp4",
+    "name": "Chromatic Perlin",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Chromatic_Perlin.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Chromatic_Perlin_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:39:28.758Z",
+    "github_asset_ids": [
+      633619232,
+      633619390
+    ],
+    "width": 720,
+    "height": 1080,
+    "resolution": "720x1080"
+  },
+  {
     "id": "Texture_Chromatic_Shattered_Crystal.jpeg",
     "name": "Chromatic Shattered Crystal",
     "category": "Texture",
