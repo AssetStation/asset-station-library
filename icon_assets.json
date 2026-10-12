@@ -304,6 +304,22 @@
     "resolution": "512x512"
   },
   {
+    "id": "Icon_Instagram_Verified_Badge.png",
+    "name": "Instagram Verified Badge",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Instagram_Verified_Badge.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Instagram_Verified_Badge.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:51:15.982Z",
+    "github_asset_ids": [
+      633646579
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Icon_Mirror_reflection.png",
     "name": "Mirror reflection",
     "category": "Icon",
