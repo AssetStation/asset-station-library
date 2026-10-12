@@ -1042,6 +1042,23 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Texture_Premium_Purple_Liquid.mp4",
+    "name": "Premium Purple Liquid",
+    "category": "Texture",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Premium_Purple_Liquid.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Texture_Premium_Purple_Liquid_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:39:55.071Z",
+    "github_asset_ids": [
+      633620617,
+      633620672
+    ],
+    "width": 1080,
+    "height": 1080,
+    "resolution": "1080x1080"
+  },
+  {
     "id": "Texture_Purple_Fractal_noise.jpeg",
     "name": "Purple Fractal noise",
     "category": "Texture",
