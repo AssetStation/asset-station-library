@@ -1,5 +1,21 @@
 [
   {
+    "id": "Icon_3D_Notebook_Pencil.png",
+    "name": "3D Notebook Pencil",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_3D_Notebook_Pencil.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_3D_Notebook_Pencil.png",
+    "source": "motionkit.",
+    "date": "2026-10-12T11:40:13.973Z",
+    "github_asset_ids": [
+      633621549
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "Icon_3D_Warning_Icon.png",
     "name": "3D Warning Icon",
     "category": "Icon",
