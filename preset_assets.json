@@ -375,6 +375,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Smooth_Bounce_UP.ffx",
+    "name": "Smooth Bounce UP",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Smooth_Bounce_UP.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Smooth_Bounce_UP.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Smooth_Bounce_UP_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-20T16:31:35.666Z",
+    "github_asset_ids": [
+      659861939,
+      659861971,
+      659862036
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Super_Smooth.ffx",
     "name": "Super Smooth",
     "category": "FFX-Text",
