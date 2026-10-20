@@ -87,6 +87,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Smooth_Bounce_UP.mogrt",
+    "name": "Smooth Bounce UP",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Smooth_Bounce_UP.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Smooth_Bounce_UP.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Smooth_Bounce_UP_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-20T16:29:17.799Z",
+    "github_asset_ids": [
+      659856800,
+      659856839,
+      659856899
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Super_Smooth.mogrt",
     "name": "Super Smooth",
     "category": "Mogrt",
