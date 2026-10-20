@@ -87,6 +87,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Super_Smooth.mogrt",
+    "name": "Super Smooth",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Super_Smooth.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Super_Smooth.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Super_Smooth_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-20T16:27:54.756Z",
+    "github_asset_ids": [
+      659853457,
+      659853508,
+      659853583
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Typewriter_Blur_In_Styled_Text.mogrt",
     "name": "Typewriter Blur In Styled Text",
     "category": "Mogrt",
