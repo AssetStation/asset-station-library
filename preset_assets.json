@@ -375,6 +375,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Super_Smooth.ffx",
+    "name": "Super Smooth",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Super_Smooth.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Super_Smooth.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/FFX-Text_Super_Smooth_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-20T16:31:26.146Z",
+    "github_asset_ids": [
+      659861537,
+      659861608,
+      659861684
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Type_IN_Right.ffx",
     "name": "Type IN Right",
     "category": "FFX-Text",
