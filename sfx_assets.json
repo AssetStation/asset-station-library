@@ -391,6 +391,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_CASH_REGISTER.mp3",
+    "name": "CASH REGISTER",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_CASH_REGISTER.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_CASH_REGISTER_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-21T09:53:18.656Z",
+    "github_asset_ids": [
+      662054311,
+      662054338
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Cinematic_Intro.mp3",
     "name": "Cinematic Intro",
     "category": "SFX",
