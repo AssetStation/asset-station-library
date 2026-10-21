@@ -2533,6 +2533,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Ui_Data_Fetch.wav",
+    "name": "Ui Data Fetch",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Data_Fetch.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Data_Fetch_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-21T09:51:55.146Z",
+    "github_asset_ids": [
+      662050644,
+      662050669
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_UI_Data_Loading_Sound_Effect.mp3",
     "name": "UI Data Loading Sound Effect",
     "category": "SFX",
