@@ -2567,6 +2567,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Ui_Glitch_Click.wav",
+    "name": "Ui Glitch Click",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Glitch_Click.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Glitch_Click_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-21T09:52:15.170Z",
+    "github_asset_ids": [
+      662051567,
+      662051636
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Ui_Glitch_Flicker_Text.wav",
     "name": "Ui Glitch Flicker Text",
     "category": "SFX",
