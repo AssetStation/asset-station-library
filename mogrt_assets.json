@@ -125,6 +125,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Round_Line.mogrt",
+    "name": "Round Line",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Round_Line.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Round_Line.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Round_Line_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-23T12:55:29.684Z",
+    "github_asset_ids": [
+      669127817,
+      669127856,
+      669127884
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Slide_Up_1.mogrt",
     "name": "Slide Up 1",
     "category": "Mogrt",
