@@ -106,6 +106,25 @@
     "date": "2026-08-13T10:20:17.467Z"
   },
   {
+    "id": "Mogrt_Premium_Ruby_Text.mogrt",
+    "name": "Premium Ruby Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Premium_Ruby_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Premium_Ruby_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Premium_Ruby_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-23T12:55:21.300Z",
+    "github_asset_ids": [
+      669127445,
+      669127552,
+      669127601
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Slide_Up_1.mogrt",
     "name": "Slide Up 1",
     "category": "Mogrt",
