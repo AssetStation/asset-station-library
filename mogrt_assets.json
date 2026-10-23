@@ -38,6 +38,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Flicker_Shine_Effect.mogrt",
+    "name": "Flicker Shine Effect",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Flicker_Shine_Effect.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Flicker_Shine_Effect.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Mogrt_Flicker_Shine_Effect_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-23T12:55:09.409Z",
+    "github_asset_ids": [
+      669127086,
+      669127113,
+      669127163
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Flickering_Text_1.mogrt",
     "name": "Flickering Text 1",
     "category": "Mogrt",
