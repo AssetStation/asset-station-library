@@ -17,5 +17,24 @@
     "width": 1280,
     "height": 720,
     "resolution": "1280x720"
+  },
+  {
+    "id": "Comp_Smooth_text_reveal_animation.zip",
+    "name": "Smooth text reveal animation",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Smooth_text_reveal_animation.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Smooth_text_reveal_animation.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Smooth_text_reveal_animation_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-25T08:15:42.356Z",
+    "github_asset_ids": [
+      674479319,
+      674479348,
+      674479377
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
