@@ -576,6 +576,22 @@
     "resolution": "5662x10675"
   },
   {
+    "id": "Icon_Sound_Enhancer_Speaker.png",
+    "name": "Sound Enhancer Speaker",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Sound_Enhancer_Speaker.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Sound_Enhancer_Speaker.png",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:54:57.861Z",
+    "github_asset_ids": [
+      678655267
+    ],
+    "width": 2944,
+    "height": 2944,
+    "resolution": "2944x2944"
+  },
+  {
     "id": "Icon_Surrender.png",
     "name": "Surrender",
     "category": "Icon",
