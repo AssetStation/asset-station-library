@@ -81,6 +81,22 @@
     "resolution": "720x1280"
   },
   {
+    "id": "Illustration_Galaxy_Sky.jpg",
+    "name": "Galaxy Sky",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Galaxy_Sky.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Galaxy_Sky.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:23.042Z",
+    "github_asset_ids": [
+      678650993
+    ],
+    "width": 600,
+    "height": 1200,
+    "resolution": "600x1200"
+  },
+  {
     "id": "Illustration_Night_View_in_the_City.jpg",
     "name": "Night View in the City",
     "category": "Illustration",
