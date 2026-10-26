@@ -36,5 +36,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "Comp_Text_Sketch_Animation.zip",
+    "name": "Text Sketch Animation",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Text_Sketch_Animation.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Text_Sketch_Animation.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Comp_Text_Sketch_Animation_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T12:13:38.428Z",
+    "github_asset_ids": [
+      678065433,
+      678065465,
+      678065484
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
