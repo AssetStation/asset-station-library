@@ -97,6 +97,22 @@
     "resolution": "600x1200"
   },
   {
+    "id": "Illustration_Lighthouse_Aurora_in_Sky.jpg",
+    "name": "Lighthouse Aurora in Sky",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Lighthouse_Aurora_in_Sky.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Lighthouse_Aurora_in_Sky.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:35.960Z",
+    "github_asset_ids": [
+      678651683
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Illustration_Lighthouse_in_Night_View.jpg",
     "name": "Lighthouse in Night View",
     "category": "Illustration",
