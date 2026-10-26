@@ -80,6 +80,22 @@
     "resolution": "736x1304"
   },
   {
+    "id": "StockPhotos_Boss_Ragdoll_Cat.jpg",
+    "name": "Boss Ragdoll Cat",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Boss_Ragdoll_Cat.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Boss_Ragdoll_Cat.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:55:14.381Z",
+    "github_asset_ids": [
+      678656063
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "StockPhotos_Fraustrated_Trader.jpg",
     "name": "Fraustrated Trader",
     "category": "StockPhotos",
