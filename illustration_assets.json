@@ -129,6 +129,22 @@
     "resolution": "736x1472"
   },
   {
+    "id": "Illustration_Lighthouse_Night_View_Ocean.jpg",
+    "name": "Lighthouse Night View Ocean",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Lighthouse_Night_View_Ocean.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Lighthouse_Night_View_Ocean.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:41.259Z",
+    "github_asset_ids": [
+      678651925
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Illustration_Night_View_in_the_City.jpg",
     "name": "Night View in the City",
     "category": "Illustration",
