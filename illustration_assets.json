@@ -32,6 +32,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Illustration_Desert_nights_starry_skies.jpg",
+    "name": "Desert nights starry skies",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Desert_nights_starry_skies.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Desert_nights_starry_skies.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:18.056Z",
+    "github_asset_ids": [
+      678650652
+    ],
+    "width": 504,
+    "height": 900,
+    "resolution": "504x900"
+  },
+  {
     "id": "Illustration_Easter_Island_Moai_Statues_Starry_Twilight_View.jpg",
     "name": "Easter Island Moai Statues Starry Twilight View",
     "category": "Illustration",
