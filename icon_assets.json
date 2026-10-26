@@ -128,6 +128,22 @@
     "resolution": "1080x1080"
   },
   {
+    "id": "Icon_Contacts_3_Person.png",
+    "name": "Contacts 3 Person",
+    "category": "Icon",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Contacts_3_Person.png",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Icon_Contacts_3_Person.png",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:55:27.725Z",
+    "github_asset_ids": [
+      678656672
+    ],
+    "width": 2944,
+    "height": 2944,
+    "resolution": "2944x2944"
+  },
+  {
     "id": "Icon_dollar_Coin.png",
     "name": "dollar Coin",
     "category": "Icon",
