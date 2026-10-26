@@ -112,6 +112,22 @@
     "resolution": "1280x745"
   },
   {
+    "id": "StockPhotos_Glowing_Jellyfish_in_ocean.jpg",
+    "name": "Glowing Jellyfish in ocean",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Glowing_Jellyfish_in_ocean.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/StockPhotos_Glowing_Jellyfish_in_ocean.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:55:20.560Z",
+    "github_asset_ids": [
+      678656403
+    ],
+    "width": 676,
+    "height": 1200,
+    "resolution": "676x1200"
+  },
+  {
     "id": "StockPhotos_Jeanswest_Poster.jpg",
     "name": "Jeanswest Poster",
     "category": "StockPhotos",
