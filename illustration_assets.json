@@ -227,6 +227,22 @@
     "resolution": "720x1000"
   },
   {
+    "id": "Illustration_Pirate_boat.jpg",
+    "name": "Pirate boat",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Pirate_boat.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Pirate_boat.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:55:03.155Z",
+    "github_asset_ids": [
+      678655532
+    ],
+    "width": 736,
+    "height": 1472,
+    "resolution": "736x1472"
+  },
+  {
     "id": "Illustration_Tired_Boy_Sleep_on_Bed.mp4",
     "name": "Tired Boy Sleep on Bed",
     "category": "Illustration",
