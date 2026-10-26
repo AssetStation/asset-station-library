@@ -145,6 +145,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Illustration_London_Eye_Ferris_Wheel.jpg",
+    "name": "London Eye Ferris Wheel",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_London_Eye_Ferris_Wheel.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_London_Eye_Ferris_Wheel.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:47.498Z",
+    "github_asset_ids": [
+      678652224
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Illustration_Night_View_in_the_City.jpg",
     "name": "Night View in the City",
     "category": "Illustration",
