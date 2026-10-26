@@ -16,6 +16,22 @@
     "resolution": "564x1002"
   },
   {
+    "id": "Illustration_Black_Panter_in_Jungle.jpg",
+    "name": "Black Panter in Jungle",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Black_Panter_in_Jungle.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Black_Panter_in_Jungle.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:12.337Z",
+    "github_asset_ids": [
+      678650396
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Illustration_Easter_Island_Moai_Statues_Starry_Twilight_View.jpg",
     "name": "Easter Island Moai Statues Starry Twilight View",
     "category": "Illustration",
