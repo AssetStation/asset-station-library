@@ -161,6 +161,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Illustration_Mountain_Night_View.jpg",
+    "name": "Mountain Night View",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Mountain_Night_View.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/Illustration_Mountain_Night_View.jpg",
+    "source": "motionkit.",
+    "date": "2026-10-26T15:53:53.271Z",
+    "github_asset_ids": [
+      678652529
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "Illustration_Night_View_in_the_City.jpg",
     "name": "Night View in the City",
     "category": "Illustration",
