@@ -1547,6 +1547,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Normal_Pop.wav",
+    "name": "Normal Pop",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Normal_Pop.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Normal_Pop_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:32:25.253Z",
+    "github_asset_ids": [
+      699014223,
+      699014276
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Numbers_Count.wav",
     "name": "Numbers Count",
     "category": "SFX",
