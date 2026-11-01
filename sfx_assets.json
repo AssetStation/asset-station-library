@@ -2669,6 +2669,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Ui_Enter.wav",
+    "name": "Ui Enter",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Enter.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Enter_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:31:16.218Z",
+    "github_asset_ids": [
+      699011271,
+      699011315
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Ui_Glitch_Click.wav",
     "name": "Ui Glitch Click",
     "category": "SFX",
