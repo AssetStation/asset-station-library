@@ -1343,6 +1343,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_High_Volume_Money.wav",
+    "name": "High Volume Money",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_High_Volume_Money.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_High_Volume_Money_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:35:53.015Z",
+    "github_asset_ids": [
+      699022488,
+      699022528
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_horror_body_drop_152091.mp3",
     "name": "horror body drop 152091",
     "category": "SFX",
