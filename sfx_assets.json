@@ -2890,6 +2890,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Ui_Typing.mp3",
+    "name": "Ui Typing",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Typing.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Ui_Typing_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:30:30.606Z",
+    "github_asset_ids": [
+      699008953,
+      699009060
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_UI_zoom_in_2618.wav",
     "name": "UI zoom in 2618",
     "category": "SFX",
