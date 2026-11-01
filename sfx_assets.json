@@ -2431,6 +2431,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Smooth_And_Premium_Gear.wav",
+    "name": "Smooth And Premium Gear",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Smooth_And_Premium_Gear.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Smooth_And_Premium_Gear_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:37:23.718Z",
+    "github_asset_ids": [
+      699026010,
+      699026692
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Smooth_Pop.wav",
     "name": "Smooth Pop",
     "category": "SFX",
