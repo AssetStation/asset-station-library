@@ -1938,6 +1938,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_RJD_Riser.wav",
+    "name": "RJD Riser",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_RJD_Riser.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_RJD_Riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:33:38.889Z",
+    "github_asset_ids": [
+      699017166,
+      699017191
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Run_sound_effect.mp3",
     "name": "Run sound effect",
     "category": "SFX",
