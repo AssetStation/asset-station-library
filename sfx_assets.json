@@ -1496,6 +1496,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_long_speed_gear.wav",
+    "name": "long speed gear",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_long_speed_gear.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_long_speed_gear_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:35:30.248Z",
+    "github_asset_ids": [
+      699021323,
+      699021362
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Long_Typewriter.mp3",
     "name": "Long Typewriter",
     "category": "SFX",
