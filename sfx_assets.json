@@ -2278,6 +2278,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "SFX_Smooth_Riser.wav",
+    "name": "Smooth Riser",
+    "category": "SFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Smooth_Riser.wav",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage/SFX_Smooth_Riser_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-01T17:33:26.473Z",
+    "github_asset_ids": [
+      699016705,
+      699016748
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "SFX_Squeaky_door_opening.mp3",
     "name": "Squeaky door opening",
     "category": "SFX",
