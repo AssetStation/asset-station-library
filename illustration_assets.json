@@ -49,6 +49,22 @@
     "resolution": "720x720"
   },
   {
+    "id": "Illustration_City_Skyscrapper_Evening_Scene.jpg",
+    "name": "City Skyscrapper Evening Scene",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_City_Skyscrapper_Evening_Scene.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_City_Skyscrapper_Evening_Scene.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:02:58.880Z",
+    "github_asset_ids": [
+      701459900
+    ],
+    "width": 736,
+    "height": 1472,
+    "resolution": "736x1472"
+  },
+  {
     "id": "Illustration_Desert_nights_starry_skies.jpg",
     "name": "Desert nights starry skies",
     "category": "Illustration",
