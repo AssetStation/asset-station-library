@@ -306,6 +306,22 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "GreenScreen_Headless_Standing_Man_Pointing.jpg",
+    "name": "Headless Standing Man Pointing",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Headless_Standing_Man_Pointing.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Headless_Standing_Man_Pointing.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:50:43.935Z",
+    "github_asset_ids": [
+      701427095
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "GreenScreen_Ink_Transition_1.mov",
     "name": "Ink Transition 1",
     "category": "GreenScreen",
