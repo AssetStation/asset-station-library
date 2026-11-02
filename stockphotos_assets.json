@@ -272,6 +272,22 @@
     "resolution": "676x1200"
   },
   {
+    "id": "StockPhotos_Grass_Sky_nature.jpg",
+    "name": "Grass Sky nature",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Grass_Sky_nature.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Grass_Sky_nature.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:12:33.494Z",
+    "github_asset_ids": [
+      701483807
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
+  },
+  {
     "id": "StockPhotos_Jeanswest_Poster.jpg",
     "name": "Jeanswest Poster",
     "category": "StockPhotos",
