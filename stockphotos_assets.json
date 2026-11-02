@@ -368,6 +368,22 @@
     "resolution": "474x948"
   },
   {
+    "id": "StockPhotos_Scenic_Mountain_Landscape_Wallpaper.jpg",
+    "name": "Scenic Mountain Landscape Wallpaper",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Scenic_Mountain_Landscape_Wallpaper.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Scenic_Mountain_Landscape_Wallpaper.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:12:37.504Z",
+    "github_asset_ids": [
+      701484008
+    ],
+    "width": 735,
+    "height": 420,
+    "resolution": "735x420"
+  },
+  {
     "id": "StockPhotos_SPIDER_GWEN.jpg",
     "name": "SPIDER GWEN",
     "category": "StockPhotos",
