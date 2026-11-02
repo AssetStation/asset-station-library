@@ -68,6 +68,23 @@
     "resolution": "1280x720"
   },
   {
+    "id": "GreenScreen_Fire_overlay.mp4",
+    "name": "Fire overlay",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Fire_overlay.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Fire_overlay_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:50:56.577Z",
+    "github_asset_ids": [
+      701427745,
+      701427768
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "GreenScreen_Fire_Particle.mp4",
     "name": "Fire Particle",
     "category": "GreenScreen",
