@@ -16,6 +16,22 @@
     "resolution": "736x1631"
   },
   {
+    "id": "StockPhotos_Aesthetic_Nature_Grass.jpg",
+    "name": "Aesthetic Nature Grass",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Aesthetic_Nature_Grass.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Aesthetic_Nature_Grass.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:12:15.896Z",
+    "github_asset_ids": [
+      701483040
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "StockPhotos_Aesthetic_Premium_Flower_valley_nature.jpg",
     "name": "Aesthetic Premium Flower valley nature",
     "category": "StockPhotos",
