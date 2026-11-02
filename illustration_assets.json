@@ -276,6 +276,22 @@
     "resolution": "380x800"
   },
   {
+    "id": "Illustration_Sunset_View_from_city.jpg",
+    "name": "Sunset View from city",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_Sunset_View_from_city.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_Sunset_View_from_city.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:02:53.062Z",
+    "github_asset_ids": [
+      701459647
+    ],
+    "width": 673,
+    "height": 1200,
+    "resolution": "673x1200"
+  },
+  {
     "id": "Illustration_Tired_Boy_Sleep_on_Bed.mp4",
     "name": "Tired Boy Sleep on Bed",
     "category": "Illustration",
