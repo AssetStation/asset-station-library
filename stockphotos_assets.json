@@ -272,6 +272,22 @@
     "resolution": "735x1193"
   },
   {
+    "id": "StockPhotos_Purple_Mountains_row.jpg",
+    "name": "Purple Mountains row",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Purple_Mountains_row.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Purple_Mountains_row.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:03:16.852Z",
+    "github_asset_ids": [
+      701460723
+    ],
+    "width": 474,
+    "height": 948,
+    "resolution": "474x948"
+  },
+  {
     "id": "StockPhotos_SPIDER_GWEN.jpg",
     "name": "SPIDER GWEN",
     "category": "StockPhotos",
