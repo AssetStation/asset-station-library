@@ -34,6 +34,23 @@
     "resolution": "288x352"
   },
   {
+    "id": "GreenScreen_Comment_CTA.mp4",
+    "name": "Comment CTA",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Comment_CTA.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Comment_CTA_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:51:01.910Z",
+    "github_asset_ids": [
+      701427965,
+      701427998
+    ],
+    "width": 720,
+    "height": 720,
+    "resolution": "720x720"
+  },
+  {
     "id": "GreenScreen_Creeper_Explosion.mp4",
     "name": "Creeper Explosion",
     "category": "GreenScreen",
