@@ -132,6 +132,22 @@
     "resolution": "1024x1024"
   },
   {
+    "id": "Background_Neon_Blue_color_Dash_paste.jpg",
+    "name": "Neon Blue color Dash paste",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Background_Neon_Blue_color_Dash_paste.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Background_Neon_Blue_color_Dash_paste.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:03:07.450Z",
+    "github_asset_ids": [
+      701460296
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Background_Purple_Gradient_01.mp4",
     "name": "Purple Gradient 01",
     "category": "Background",
