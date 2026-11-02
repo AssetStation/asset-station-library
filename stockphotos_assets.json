@@ -48,6 +48,22 @@
     "resolution": "675x1200"
   },
   {
+    "id": "StockPhotos_AI_Blue_shinny_Beach_Blue_Water.jpg",
+    "name": "AI Blue shinny Beach Blue Water",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_AI_Blue_shinny_Beach_Blue_Water.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_AI_Blue_shinny_Beach_Blue_Water.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:03:12.522Z",
+    "github_asset_ids": [
+      701460489
+    ],
+    "width": 736,
+    "height": 1313,
+    "resolution": "736x1313"
+  },
+  {
     "id": "StockPhotos_AI_Person_Standing_Center_of_Crowd.jpg",
     "name": "AI Person Standing Center of Crowd",
     "category": "StockPhotos",
