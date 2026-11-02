@@ -816,6 +816,22 @@
     "resolution": "1280x720"
   },
   {
+    "id": "GreenScreen_Magnifying_Glass.jpg",
+    "name": "Magnifying Glass",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Magnifying_Glass.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Magnifying_Glass.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:50:39.444Z",
+    "github_asset_ids": [
+      701426857
+    ],
+    "width": 736,
+    "height": 736,
+    "resolution": "736x736"
+  },
+  {
     "id": "GreenScreen_Minecraft_Subscribed.mp4",
     "name": "Minecraft Subscribed",
     "category": "GreenScreen",
