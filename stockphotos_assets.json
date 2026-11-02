@@ -176,6 +176,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "StockPhotos_Dreamy_aesthetic_Nature_view_Pink_blossom.jpg",
+    "name": "Dreamy aesthetic Nature view Pink blossom",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Dreamy_aesthetic_Nature_view_Pink_blossom.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Dreamy_aesthetic_Nature_view_Pink_blossom.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:12:29.321Z",
+    "github_asset_ids": [
+      701483647
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
+  },
+  {
     "id": "StockPhotos_Dreamy_Day_Nature_Grass.jpg",
     "name": "Dreamy Day Nature Grass",
     "category": "StockPhotos",
