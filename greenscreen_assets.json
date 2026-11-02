@@ -915,6 +915,23 @@
     "resolution": "854x480"
   },
   {
+    "id": "GreenScreen_Minecraft_TNT_Blast_Transition.mp4",
+    "name": "Minecraft TNT Blast Transition",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Minecraft_TNT_Blast_Transition.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Minecraft_TNT_Blast_Transition_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:51:14.583Z",
+    "github_asset_ids": [
+      701428495,
+      701428538
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
+  },
+  {
     "id": "GreenScreen_Money_Explosion_1.mp4",
     "name": "Money Explosion 1",
     "category": "GreenScreen",
