@@ -194,6 +194,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Illustration_Mount_Fuji_Art.jpg",
+    "name": "Mount Fuji Art",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_Mount_Fuji_Art.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_Mount_Fuji_Art.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:12:25.103Z",
+    "github_asset_ids": [
+      701483433
+    ],
+    "width": 736,
+    "height": 414,
+    "resolution": "736x414"
+  },
+  {
     "id": "Illustration_Mountain_Night_View.jpg",
     "name": "Mountain Night View",
     "category": "Illustration",
