@@ -166,6 +166,22 @@
     "resolution": "1080x1920"
   },
   {
+    "id": "Background_Purple_Neon_Abstract.jpg",
+    "name": "Purple Neon Abstract",
+    "category": "Background",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Background_Purple_Neon_Abstract.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Background_Purple_Neon_Abstract.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:03:03.209Z",
+    "github_asset_ids": [
+      701460066
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "Background_Shadowed_White_Background.jpg",
     "name": "Shadowed White Background",
     "category": "Background",
