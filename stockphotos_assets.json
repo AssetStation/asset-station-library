@@ -96,6 +96,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "StockPhotos_Dreamy_Purple_lake_Attractive_Nature.jpg",
+    "name": "Dreamy Purple lake Attractive Nature",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Dreamy_Purple_lake_Attractive_Nature.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Dreamy_Purple_lake_Attractive_Nature.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:50:34.676Z",
+    "github_asset_ids": [
+      701426566
+    ],
+    "width": 720,
+    "height": 1280,
+    "resolution": "720x1280"
+  },
+  {
     "id": "StockPhotos_Fraustrated_Trader.jpg",
     "name": "Fraustrated Trader",
     "category": "StockPhotos",
