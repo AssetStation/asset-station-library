@@ -32,6 +32,23 @@
     "resolution": "736x1308"
   },
   {
+    "id": "Illustration_Chasing_Money.mp4",
+    "name": "Chasing Money",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_Chasing_Money.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_Chasing_Money_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:51:08.693Z",
+    "github_asset_ids": [
+      701428228,
+      701428262
+    ],
+    "width": 720,
+    "height": 720,
+    "resolution": "720x720"
+  },
+  {
     "id": "Illustration_Desert_nights_starry_skies.jpg",
     "name": "Desert nights starry skies",
     "category": "Illustration",
