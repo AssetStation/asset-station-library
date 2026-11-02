@@ -291,5 +291,21 @@
     "width": 1280,
     "height": 720,
     "resolution": "1280x720"
+  },
+  {
+    "id": "Illustration_White_house_in_purple_Valley.jpg",
+    "name": "White house in purple Valley",
+    "category": "Illustration",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_White_house_in_purple_Valley.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Illustration_White_house_in_purple_Valley.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:02:35.385Z",
+    "github_asset_ids": [
+      701458845
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
   }
 ]
