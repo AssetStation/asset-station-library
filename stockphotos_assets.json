@@ -160,6 +160,22 @@
     "resolution": "736x1308"
   },
   {
+    "id": "StockPhotos_Dream_Nature_Shinny_day.jpg",
+    "name": "Dream Nature Shinny day",
+    "category": "StockPhotos",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Dream_Nature_Shinny_day.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/StockPhotos_Dream_Nature_Shinny_day.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T11:12:20.450Z",
+    "github_asset_ids": [
+      701483246
+    ],
+    "width": 736,
+    "height": 1308,
+    "resolution": "736x1308"
+  },
+  {
     "id": "StockPhotos_Dreamy_Day_Nature_Grass.jpg",
     "name": "Dreamy Day Nature Grass",
     "category": "StockPhotos",
