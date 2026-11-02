@@ -306,6 +306,22 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "GreenScreen_Headless_Standing_Man.jpg",
+    "name": "Headless Standing Man",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Headless_Standing_Man.jpg",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Headless_Standing_Man.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-02T10:50:48.530Z",
+    "github_asset_ids": [
+      701427345
+    ],
+    "width": 736,
+    "height": 981,
+    "resolution": "736x981"
+  },
+  {
     "id": "GreenScreen_Headless_Standing_Man_Pointing.jpg",
     "name": "Headless Standing Man Pointing",
     "category": "GreenScreen",
