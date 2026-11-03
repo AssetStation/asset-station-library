@@ -133,6 +133,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Smooth_Fade.zip",
+    "name": "Smooth Fade",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Smooth_Fade.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Smooth_Fade.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Smooth_Fade_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:47:05.454Z",
+    "github_asset_ids": [
+      706869452,
+      706869495,
+      706869520
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Smooth_slide.zip",
     "name": "Smooth slide",
     "category": "Comp",
