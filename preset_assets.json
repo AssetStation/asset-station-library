@@ -152,6 +152,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Broken.ffx",
+    "name": "Broken",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Broken.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Broken.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Broken_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:30:21.614Z",
+    "github_asset_ids": [
+      706820680,
+      706820726,
+      706820767
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Character_Bounce_Down.ffx",
     "name": "Character Bounce Down",
     "category": "FFX-Text",
