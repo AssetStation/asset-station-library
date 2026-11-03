@@ -315,6 +315,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Saas_Style_1.mogrt",
+    "name": "Saas Style 1",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Saas_Style_1.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Saas_Style_1.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Saas_Style_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:44:32.110Z",
+    "github_asset_ids": [
+      706861971,
+      706862010,
+      706862067
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Shadow_Text.mogrt",
     "name": "Shadow Text",
     "category": "Mogrt",
