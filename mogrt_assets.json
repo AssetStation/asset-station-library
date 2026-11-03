@@ -1,5 +1,24 @@
 [
   {
+    "id": "Mogrt_Blue_Shiny_Text.mogrt",
+    "name": "Blue Shiny Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Blue_Shiny_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Blue_Shiny_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Blue_Shiny_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:39:07.410Z",
+    "github_asset_ids": [
+      706845760,
+      706845801,
+      706845861
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Blur_Reveal.mogrt",
     "name": "Blur Reveal",
     "category": "Mogrt",
