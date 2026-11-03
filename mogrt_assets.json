@@ -258,6 +258,25 @@
     "date": "2026-08-13T10:20:17.467Z"
   },
   {
+    "id": "Mogrt_Metallic_Text.mogrt",
+    "name": "Metallic Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Metallic_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Metallic_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Metallic_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:39:29.811Z",
+    "github_asset_ids": [
+      706846934,
+      706846972,
+      706847031
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Premium_Ruby_Text.mogrt",
     "name": "Premium Ruby Text",
     "category": "Mogrt",
