@@ -1,5 +1,21 @@
 [
   {
+    "id": "GIF_Anime_Evil_Smile.gif",
+    "name": "Anime Evil Smile",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Anime_Evil_Smile.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Anime_Evil_Smile.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:21.165Z",
+    "github_asset_ids": [
+      705625103
+    ],
+    "width": 480,
+    "height": 480,
+    "resolution": "480x480"
+  },
+  {
     "id": "GIF_Aura_Black_Cat.gif",
     "name": "Aura Black Cat",
     "category": "GIF",
