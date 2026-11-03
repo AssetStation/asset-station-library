@@ -304,6 +304,22 @@
     "resolution": "480x270"
   },
   {
+    "id": "GIF_Robot_Staring_into_the_Soul.gif",
+    "name": "Robot Staring into the Soul",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Robot_Staring_into_the_Soul.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Robot_Staring_into_the_Soul.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:27.172Z",
+    "github_asset_ids": [
+      705625446
+    ],
+    "width": 480,
+    "height": 264,
+    "resolution": "480x264"
+  },
+  {
     "id": "GIF_Seabird_on_tube.gif",
     "name": "Seabird on tube",
     "category": "GIF",
