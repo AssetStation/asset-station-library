@@ -275,5 +275,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "Mogrt_Yellow_Shine_Text.mogrt",
+    "name": "Yellow Shine Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Yellow_Shine_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Yellow_Shine_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Yellow_Shine_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:36:36.097Z",
+    "github_asset_ids": [
+      706837701,
+      706837786,
+      706837832
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
