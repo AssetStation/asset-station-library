@@ -410,6 +410,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Smooth_Fade.mogrt",
+    "name": "Smooth Fade",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Fade.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Fade.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Fade_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:43:23.024Z",
+    "github_asset_ids": [
+      706858507,
+      706858544,
+      706858594
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Super_Smooth.mogrt",
     "name": "Super Smooth",
     "category": "Mogrt",
