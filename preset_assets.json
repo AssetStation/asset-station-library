@@ -304,6 +304,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Clean_Apply_Style.ffx",
+    "name": "Clean Apply Style",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Clean_Apply_Style.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Clean_Apply_Style.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Clean_Apply_Style_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:30:29.418Z",
+    "github_asset_ids": [
+      706821047,
+      706821097,
+      706821126
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Fade_IN_Left_to_Right.ffx",
     "name": "Fade IN Left to Right",
     "category": "FFX-Text",
