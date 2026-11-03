@@ -467,6 +467,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Super_Trendy.mogrt",
+    "name": "Super Trendy",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Super_Trendy.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Super_Trendy.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Super_Trendy_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:43:37.474Z",
+    "github_asset_ids": [
+      706859243,
+      706859296,
+      706859369
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Typewriter_Blur_In_Styled_Text.mogrt",
     "name": "Typewriter Blur In Styled Text",
     "category": "Mogrt",
