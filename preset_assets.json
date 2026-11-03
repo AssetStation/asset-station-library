@@ -394,6 +394,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Metallic_Text.ffx",
+    "name": "Metallic Text",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Metallic_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Metallic_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Metallic_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:32:21.997Z",
+    "github_asset_ids": [
+      706825959,
+      706826012,
+      706826055
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Orange_Gradient_Text.ffx",
     "name": "Orange Gradient Text",
     "category": "FFX-Text",
