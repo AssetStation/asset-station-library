@@ -128,6 +128,22 @@
     "resolution": "240x190"
   },
   {
+    "id": "GIF_Jack_Chilling_while_Watching_TV.gif",
+    "name": "Jack Chilling while Watching TV",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Jack_Chilling_while_Watching_TV.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Jack_Chilling_while_Watching_TV.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:55:20.193Z",
+    "github_asset_ids": [
+      705609530
+    ],
+    "width": 480,
+    "height": 480,
+    "resolution": "480x480"
+  },
+  {
     "id": "GIF_Kitten_on_Thorne.gif",
     "name": "Kitten on Thorne",
     "category": "GIF",
