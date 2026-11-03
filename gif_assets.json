@@ -46,5 +46,21 @@
     "width": 512,
     "height": 479,
     "resolution": "512x479"
+  },
+  {
+    "id": "GIF_Shinny_Sun_Digital_Art_Illustration.gif",
+    "name": "Shinny Sun Digital Art Illustration",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Shinny_Sun_Digital_Art_Illustration.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Shinny_Sun_Digital_Art_Illustration.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:50:44.104Z",
+    "github_asset_ids": [
+      705595951
+    ],
+    "width": 480,
+    "height": 480,
+    "resolution": "480x480"
   }
 ]
