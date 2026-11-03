@@ -1,5 +1,21 @@
 [
   {
+    "id": "GIF_Crying_Cat_Meme.gif",
+    "name": "Crying Cat Meme",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Crying_Cat_Meme.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Crying_Cat_Meme.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:50:56.212Z",
+    "github_asset_ids": [
+      705596542
+    ],
+    "width": 480,
+    "height": 476,
+    "resolution": "480x476"
+  },
+  {
     "id": "GIF_Head_Burst.gif",
     "name": "Head Burst",
     "category": "GIF",
