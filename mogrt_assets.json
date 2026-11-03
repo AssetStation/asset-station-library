@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Clean_Apple.mogrt",
+    "name": "Clean Apple",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Clean_Apple.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Clean_Apple.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Clean_Apple_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:36:20.597Z",
+    "github_asset_ids": [
+      706836930,
+      706836992,
+      706837026
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Devin_Jatho_Style_1.mogrt",
     "name": "Devin Jatho Style 1",
     "category": "Mogrt",
