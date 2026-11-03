@@ -1,5 +1,24 @@
 [
   {
+    "id": "Comp_Bounce_Text.zip",
+    "name": "Bounce Text",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Bounce_Text.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Bounce_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Bounce_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:14.748Z",
+    "github_asset_ids": [
+      706867157,
+      706867179,
+      706867201
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Glowing_Blocky_Wave_Animation.zip",
     "name": "Glowing Blocky Wave Animation",
     "category": "Comp",
