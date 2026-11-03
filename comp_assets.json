@@ -55,5 +55,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "Comp_Yellow_Shadow_Text.zip",
+    "name": "Yellow Shadow Text",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Yellow_Shadow_Text.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Yellow_Shadow_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Yellow_Shadow_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:07.923Z",
+    "github_asset_ids": [
+      706866832,
+      706866890,
+      706866931
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
