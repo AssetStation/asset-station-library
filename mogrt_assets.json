@@ -429,6 +429,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Smooth_Slide.mogrt",
+    "name": "Smooth Slide",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Slide.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Slide.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Slide_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:43:30.197Z",
+    "github_asset_ids": [
+      706858921,
+      706858963,
+      706859001
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Super_Smooth.mogrt",
     "name": "Super Smooth",
     "category": "Mogrt",
