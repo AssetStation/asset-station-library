@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Bounce_Text.mogrt",
+    "name": "Bounce Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Bounce_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Bounce_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Bounce_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:36:43.869Z",
+    "github_asset_ids": [
+      706838119,
+      706838151,
+      706838248
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Clean_Apple.mogrt",
     "name": "Clean Apple",
     "category": "Mogrt",
