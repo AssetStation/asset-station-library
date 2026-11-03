@@ -352,6 +352,22 @@
     "resolution": "480x480"
   },
   {
+    "id": "GIF_shut_up_and_take_my_money_GIF.gif",
+    "name": "shut up and take my money GIF",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_shut_up_and_take_my_money_GIF.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_shut_up_and_take_my_money_GIF.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:33.809Z",
+    "github_asset_ids": [
+      705625835
+    ],
+    "width": 500,
+    "height": 281,
+    "resolution": "500x281"
+  },
+  {
     "id": "GIF_Tom_Beating_Baby_Dog.gif",
     "name": "Tom Beating Baby Dog",
     "category": "GIF",
