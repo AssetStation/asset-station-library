@@ -208,6 +208,22 @@
     "resolution": "480x480"
   },
   {
+    "id": "GIF_Tom_Beating_Baby_Dog.gif",
+    "name": "Tom Beating Baby Dog",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Tom_Beating_Baby_Dog.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Tom_Beating_Baby_Dog.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:55:01.756Z",
+    "github_asset_ids": [
+      705608520
+    ],
+    "width": 500,
+    "height": 364,
+    "resolution": "500x364"
+  },
+  {
     "id": "GIF_Varun_Dhawan_Cat.gif",
     "name": "Varun Dhawan Cat",
     "category": "GIF",
