@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Devin_Jatho_Style.zip",
+    "name": "Devin Jatho Style",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Devin_Jatho_Style.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Devin_Jatho_Style.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Devin_Jatho_Style_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:21.996Z",
+    "github_asset_ids": [
+      706867419,
+      706867448,
+      706867473
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Glowing_Blocky_Wave_Animation.zip",
     "name": "Glowing Blocky Wave Animation",
     "category": "Comp",
