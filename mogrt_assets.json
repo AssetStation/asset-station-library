@@ -391,6 +391,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Smooth_Cross.mogrt",
+    "name": "Smooth Cross",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Cross.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Cross.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Smooth_Cross_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:43:13.925Z",
+    "github_asset_ids": [
+      706858204,
+      706858237,
+      706858284
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Super_Smooth.mogrt",
     "name": "Super Smooth",
     "category": "Mogrt",
