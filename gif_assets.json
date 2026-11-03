@@ -176,6 +176,22 @@
     "resolution": "480x270"
   },
   {
+    "id": "GIF_Oggy_Vibing_on_PC.gif",
+    "name": "Oggy Vibing on PC",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Oggy_Vibing_on_PC.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Oggy_Vibing_on_PC.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:55:12.057Z",
+    "github_asset_ids": [
+      705609133
+    ],
+    "width": 480,
+    "height": 270,
+    "resolution": "480x270"
+  },
+  {
     "id": "GIF_Pokemon_Anime_Open_Sky.gif",
     "name": "Pokemon Anime Open Sky",
     "category": "GIF",
