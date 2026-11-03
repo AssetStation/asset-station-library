@@ -320,6 +320,22 @@
     "resolution": "480x264"
   },
   {
+    "id": "GIF_Scared_Homer_Simpson.gif",
+    "name": "Scared Homer Simpson",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Scared_Homer_Simpson.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Scared_Homer_Simpson.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:39.285Z",
+    "github_asset_ids": [
+      705626128
+    ],
+    "width": 480,
+    "height": 360,
+    "resolution": "480x360"
+  },
+  {
     "id": "GIF_Seabird_on_tube.gif",
     "name": "Seabird on tube",
     "category": "GIF",
