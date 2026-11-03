@@ -563,5 +563,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "FFX-Text_Yellow_Flicker_Glowing_Text.ffx",
+    "name": "Yellow Flicker Glowing Text",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Yellow_Flicker_Glowing_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Yellow_Flicker_Glowing_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Yellow_Flicker_Glowing_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:30:38.665Z",
+    "github_asset_ids": [
+      706821443,
+      706821522,
+      706821604
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
