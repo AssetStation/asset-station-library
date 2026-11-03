@@ -57,6 +57,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Blue_Shiny_Text.ffx",
+    "name": "Blue Shiny Text",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Blue_Shiny_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Blue_Shiny_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Blue_Shiny_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:30:54.920Z",
+    "github_asset_ids": [
+      706822370,
+      706822407,
+      706822457
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Bounce_IN_Character.ffx",
     "name": "Bounce IN Character",
     "category": "FFX-Text",
