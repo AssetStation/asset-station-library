@@ -48,6 +48,22 @@
     "resolution": "480x476"
   },
   {
+    "id": "GIF_Freak_Cat_Meme.gif",
+    "name": "Freak Cat Meme",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Freak_Cat_Meme.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Freak_Cat_Meme.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:51:48.243Z",
+    "github_asset_ids": [
+      705598985
+    ],
+    "width": 364,
+    "height": 480,
+    "resolution": "364x480"
+  },
+  {
     "id": "GIF_Head_Burst.gif",
     "name": "Head Burst",
     "category": "GIF",
