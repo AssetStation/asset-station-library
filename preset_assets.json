@@ -603,6 +603,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_White_Text.ffx",
+    "name": "White Text",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_White_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_White_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_White_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:34:01.532Z",
+    "github_asset_ids": [
+      706830650,
+      706830711,
+      706830747
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Word_by_Word.ffx",
     "name": "Word by Word",
     "category": "FFX-Text",
