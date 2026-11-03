@@ -505,6 +505,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_White.mogrt",
+    "name": "White",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_White.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_White.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_White_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:44:23.618Z",
+    "github_asset_ids": [
+      706861585,
+      706861617,
+      706861655
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Yellow_Shine_Text.mogrt",
     "name": "Yellow Shine Text",
     "category": "Mogrt",
