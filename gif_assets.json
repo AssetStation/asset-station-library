@@ -368,6 +368,22 @@
     "resolution": "512x479"
   },
   {
+    "id": "GIF_Shinchan_Laughing_Meme.gif",
+    "name": "Shinchan Laughing Meme",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Shinchan_Laughing_Meme.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Shinchan_Laughing_Meme.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:50.599Z",
+    "github_asset_ids": [
+      705626884
+    ],
+    "width": 480,
+    "height": 270,
+    "resolution": "480x270"
+  },
+  {
     "id": "GIF_Shinny_Sun_Digital_Art_Illustration.gif",
     "name": "Shinny Sun Digital Art Illustration",
     "category": "GIF",
