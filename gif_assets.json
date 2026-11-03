@@ -176,6 +176,22 @@
     "resolution": "1400x1050"
   },
   {
+    "id": "GIF_Mrbeast_Lilbaby.gif",
+    "name": "Mrbeast Lilbaby",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Mrbeast_Lilbaby.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Mrbeast_Lilbaby.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:55:26.046Z",
+    "github_asset_ids": [
+      705609953
+    ],
+    "width": 360,
+    "height": 480,
+    "resolution": "360x480"
+  },
+  {
     "id": "GIF_Oggy_Mood_Swing.gif",
     "name": "Oggy Mood Swing",
     "category": "GIF",
