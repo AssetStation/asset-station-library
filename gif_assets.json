@@ -1,5 +1,21 @@
 [
   {
+    "id": "GIF_Aura_Black_Cat.gif",
+    "name": "Aura Black Cat",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Aura_Black_Cat.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Aura_Black_Cat.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:51:22.416Z",
+    "github_asset_ids": [
+      705598023
+    ],
+    "width": 200,
+    "height": 200,
+    "resolution": "200x200"
+  },
+  {
     "id": "GIF_Crying_Cat_Meme.gif",
     "name": "Crying Cat Meme",
     "category": "GIF",
