@@ -80,6 +80,22 @@
     "resolution": "500x281"
   },
   {
+    "id": "GIF_iron_man_destruction_on_waving_hand.gif",
+    "name": "iron man destruction on waving hand",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_iron_man_destruction_on_waving_hand.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_iron_man_destruction_on_waving_hand.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:54:42.382Z",
+    "github_asset_ids": [
+      705607334
+    ],
+    "width": 240,
+    "height": 190,
+    "resolution": "240x190"
+  },
+  {
     "id": "GIF_Kitten_on_Thorne.gif",
     "name": "Kitten on Thorne",
     "category": "GIF",
