@@ -114,6 +114,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Smooth_Cross.zip",
+    "name": "Smooth Cross",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Smooth_Cross.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Smooth_Cross.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Smooth_Cross_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:51.843Z",
+    "github_asset_ids": [
+      706868603,
+      706868651,
+      706868720
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Smooth_text_reveal_animation.zip",
     "name": "Smooth text reveal animation",
     "category": "Comp",
