@@ -57,6 +57,25 @@
     "resolution": "1280x720"
   },
   {
+    "id": "Comp_Green_Sliding_Text.zip",
+    "name": "Green Sliding Text",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Green_Sliding_Text.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Green_Sliding_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Green_Sliding_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:29.011Z",
+    "github_asset_ids": [
+      706867667,
+      706867700,
+      706867745
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Smooth_text_reveal_animation.zip",
     "name": "Smooth text reveal animation",
     "category": "Comp",
