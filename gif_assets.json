@@ -160,6 +160,22 @@
     "resolution": "1400x1050"
   },
   {
+    "id": "GIF_Oggy_Mood_Swing.gif",
+    "name": "Oggy Mood Swing",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Oggy_Mood_Swing.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Oggy_Mood_Swing.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:55:07.368Z",
+    "github_asset_ids": [
+      705608857
+    ],
+    "width": 480,
+    "height": 270,
+    "resolution": "480x270"
+  },
+  {
     "id": "GIF_Pokemon_Anime_Open_Sky.gif",
     "name": "Pokemon Anime Open Sky",
     "category": "GIF",
