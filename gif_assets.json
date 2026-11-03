@@ -112,6 +112,22 @@
     "resolution": "386x480"
   },
   {
+    "id": "GIF_Doremon_Rakoon_Robot_Sleeping.gif",
+    "name": "Doremon Rakoon Robot Sleeping",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Doremon_Rakoon_Robot_Sleeping.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Doremon_Rakoon_Robot_Sleeping.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:01:02.179Z",
+    "github_asset_ids": [
+      705627575
+    ],
+    "width": 480,
+    "height": 270,
+    "resolution": "480x270"
+  },
+  {
     "id": "GIF_Freak_Cat_Meme.gif",
     "name": "Freak Cat Meme",
     "category": "GIF",
