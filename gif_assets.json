@@ -80,6 +80,22 @@
     "resolution": "480x440"
   },
   {
+    "id": "GIF_Dance_Mrbeast_GIF.gif",
+    "name": "Dance Mrbeast GIF",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Dance_Mrbeast_GIF.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Dance_Mrbeast_GIF.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:55:34.967Z",
+    "github_asset_ids": [
+      705610331
+    ],
+    "width": 386,
+    "height": 480,
+    "resolution": "386x480"
+  },
+  {
     "id": "GIF_Freak_Cat_Meme.gif",
     "name": "Freak Cat Meme",
     "category": "GIF",
