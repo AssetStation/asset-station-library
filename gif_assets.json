@@ -94,5 +94,21 @@
     "width": 360,
     "height": 480,
     "resolution": "360x480"
+  },
+  {
+    "id": "GIF_Warrior_Animated_Cat.gif",
+    "name": "Warrior Animated Cat",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Warrior_Animated_Cat.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Warrior_Animated_Cat.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:51:01.171Z",
+    "github_asset_ids": [
+      705596948
+    ],
+    "width": 480,
+    "height": 314,
+    "resolution": "480x314"
   }
 ]
