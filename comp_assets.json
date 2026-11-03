@@ -76,6 +76,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Purple_Hero_Text.zip",
+    "name": "Purple Hero Text",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Purple_Hero_Text.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Purple_Hero_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Purple_Hero_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:36.593Z",
+    "github_asset_ids": [
+      706867952,
+      706867989,
+      706868024
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Smooth_text_reveal_animation.zip",
     "name": "Smooth text reveal animation",
     "category": "Comp",
