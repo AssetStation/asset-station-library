@@ -95,6 +95,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Sliding_Right_To_Left.zip",
+    "name": "Sliding Right To Left",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Sliding_Right_To_Left.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Sliding_Right_To_Left.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Sliding_Right_To_Left_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:46:43.874Z",
+    "github_asset_ids": [
+      706868234,
+      706868261,
+      706868280
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Smooth_text_reveal_animation.zip",
     "name": "Smooth text reveal animation",
     "category": "Comp",
