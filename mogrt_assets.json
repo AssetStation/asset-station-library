@@ -209,6 +209,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Gradient_Text.mogrt",
+    "name": "Gradient Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Gradient_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Gradient_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Gradient_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:39:15.575Z",
+    "github_asset_ids": [
+      706846145,
+      706846193,
+      706846246
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Karaoke_Subtitles.mogrt",
     "name": "Karaoke Subtitles",
     "category": "Mogrt",
