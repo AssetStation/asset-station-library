@@ -239,6 +239,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Shadow_Text.mogrt",
+    "name": "Shadow Text",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Shadow_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Shadow_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Shadow_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:38:59.392Z",
+    "github_asset_ids": [
+      706845432,
+      706845482,
+      706845549
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Slide_Up_1.mogrt",
     "name": "Slide Up 1",
     "category": "Mogrt",
