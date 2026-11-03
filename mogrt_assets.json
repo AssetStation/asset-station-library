@@ -38,6 +38,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Broken.mogrt",
+    "name": "Broken",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Broken.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Broken.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Broken_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:36:53.441Z",
+    "github_asset_ids": [
+      706838699,
+      706838751,
+      706838850
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Clean_Apple.mogrt",
     "name": "Clean Apple",
     "category": "Mogrt",
