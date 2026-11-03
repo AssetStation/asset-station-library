@@ -48,6 +48,22 @@
     "resolution": "500x281"
   },
   {
+    "id": "GIF_Kitten_on_Thorne.gif",
+    "name": "Kitten on Thorne",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Kitten_on_Thorne.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Kitten_on_Thorne.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:51:31.448Z",
+    "github_asset_ids": [
+      705598277
+    ],
+    "width": 480,
+    "height": 344,
+    "resolution": "480x344"
+  },
+  {
     "id": "GIF_Mobile_Scrolling.gif",
     "name": "Mobile Scrolling",
     "category": "GIF",
