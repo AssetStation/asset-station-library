@@ -176,6 +176,22 @@
     "resolution": "480x480"
   },
   {
+    "id": "GIF_Kaguya_Greet.gif",
+    "name": "Kaguya Greet",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Kaguya_Greet.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Kaguya_Greet.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:13.077Z",
+    "github_asset_ids": [
+      705624765
+    ],
+    "width": 480,
+    "height": 270,
+    "resolution": "480x270"
+  },
+  {
     "id": "GIF_Kitten_on_Thorne.gif",
     "name": "Kitten on Thorne",
     "category": "GIF",
