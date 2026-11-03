@@ -190,6 +190,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Super_Trendy.zip",
+    "name": "Super Trendy",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Super_Trendy.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Super_Trendy.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Super_Trendy_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:47:12.523Z",
+    "github_asset_ids": [
+      706870031,
+      706870067,
+      706870101
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Text_Sketch_Animation.zip",
     "name": "Text Sketch Animation",
     "category": "Comp",
