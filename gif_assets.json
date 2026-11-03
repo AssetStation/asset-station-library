@@ -48,6 +48,22 @@
     "resolution": "480x476"
   },
   {
+    "id": "GIF_Cute_Anime_Girl_Dance.gif",
+    "name": "Cute Anime Girl Dance",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Cute_Anime_Girl_Dance.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Cute_Anime_Girl_Dance.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:54:50.440Z",
+    "github_asset_ids": [
+      705607739
+    ],
+    "width": 480,
+    "height": 440,
+    "resolution": "480x440"
+  },
+  {
     "id": "GIF_Freak_Cat_Meme.gif",
     "name": "Freak Cat Meme",
     "category": "GIF",
