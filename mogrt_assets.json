@@ -228,6 +228,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Hero.mogrt",
+    "name": "Hero",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Hero.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Hero.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Hero_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:39:22.844Z",
+    "github_asset_ids": [
+      706846529,
+      706846567,
+      706846660
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Karaoke_Subtitles.mogrt",
     "name": "Karaoke Subtitles",
     "category": "Mogrt",
