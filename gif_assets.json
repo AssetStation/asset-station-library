@@ -62,5 +62,21 @@
     "width": 480,
     "height": 480,
     "resolution": "480x480"
+  },
+  {
+    "id": "GIF_Varun_Dhawan_Cat.gif",
+    "name": "Varun Dhawan Cat",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Varun_Dhawan_Cat.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Varun_Dhawan_Cat.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T12:50:48.380Z",
+    "github_asset_ids": [
+      705596189
+    ],
+    "width": 360,
+    "height": 480,
+    "resolution": "360x480"
   }
 ]
