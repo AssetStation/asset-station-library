@@ -400,6 +400,22 @@
     "resolution": "480x480"
   },
   {
+    "id": "GIF_Shizuka_San_Crying.gif",
+    "name": "Shizuka San Crying",
+    "category": "GIF",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Shizuka_San_Crying.gif",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GIF_Shizuka_San_Crying.gif",
+    "source": "motionkit.",
+    "date": "2026-11-03T13:00:55.860Z",
+    "github_asset_ids": [
+      705627179
+    ],
+    "width": 480,
+    "height": 272,
+    "resolution": "480x272"
+  },
+  {
     "id": "GIF_shut_up_and_take_my_money_GIF.gif",
     "name": "shut up and take my money GIF",
     "category": "GIF",
