@@ -451,6 +451,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "FFX-Text_Saas_Style_1.ffx",
+    "name": "Saas Style 1",
+    "category": "FFX-Text",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Saas_Style_1.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Saas_Style_1.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/FFX-Text_Saas_Style_1_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-03T19:32:31.744Z",
+    "github_asset_ids": [
+      706826309,
+      706826339,
+      706826404
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "FFX-Text_Slide_Left.ffx",
     "name": "Slide Left",
     "category": "FFX-Text",
