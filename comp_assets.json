@@ -228,6 +228,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Comp_Thermal_Gradient.zip",
+    "name": "Thermal Gradient",
+    "category": "Comp",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Thermal_Gradient.zip",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Thermal_Gradient.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Comp_Thermal_Gradient_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-13T12:34:35.275Z",
+    "github_asset_ids": [
+      743597730,
+      743597756,
+      743597838
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Comp_Yellow_Shadow_Text.zip",
     "name": "Yellow Shadow Text",
     "category": "Comp",
