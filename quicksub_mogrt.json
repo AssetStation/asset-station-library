@@ -74,5 +74,24 @@
     "width": 1280,
     "height": 720,
     "resolution": "1280x720"
+  },
+  {
+    "id": "QuickSub-Mogrt_White.mogrt",
+    "name": "White",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_White.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_White.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_White_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T07:47:37.900Z",
+    "github_asset_ids": [
+      746735922,
+      746735945,
+      746735975
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
