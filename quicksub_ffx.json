@@ -190,6 +190,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-FFX_White_Text.ffx",
+    "name": "White Text",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-FFX_White_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-FFX_White_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-FFX_White_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T08:34:34.417Z",
+    "github_asset_ids": [
+      746846764,
+      746846785,
+      746846811
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Word_Slide_Right.ffx",
     "name": "Word Slide Right",
     "category": "QuickSub-FFX",
