@@ -207,5 +207,24 @@
     "width": 1920,
     "height": 1080,
     "resolution": "1920x1080"
+  },
+  {
+    "id": "QuickSub-Mogrt_Yellow_Shine_Text.mogrt",
+    "name": "Yellow Shine Text",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Yellow_Shine_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Yellow_Shine_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Yellow_Shine_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T08:24:52.159Z",
+    "github_asset_ids": [
+      746823459,
+      746823498,
+      746823528
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
   }
 ]
