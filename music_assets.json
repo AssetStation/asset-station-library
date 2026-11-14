@@ -51,6 +51,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "Music_Groove_-_Dyalla.mp3",
+    "name": "Groove - Dyalla",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Groove_-_Dyalla.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Groove_-_Dyalla_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T19:51:28.039Z",
+    "github_asset_ids": [
+      748596939,
+      748597029
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "Music_Modern_classical_instrumental_piano.mp3",
     "name": "Modern classical instrumental piano",
     "category": "Music",
