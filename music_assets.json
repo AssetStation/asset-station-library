@@ -102,5 +102,22 @@
     "width": 320,
     "height": 180,
     "resolution": "320x180"
+  },
+  {
+    "id": "Music_Wutif_-_Lauren_Duski.mp3",
+    "name": "Wutif - Lauren Duski",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Wutif_-_Lauren_Duski.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Wutif_-_Lauren_Duski_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T19:51:12.295Z",
+    "github_asset_ids": [
+      748596302,
+      748596403
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
   }
 ]
