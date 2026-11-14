@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-Mogrt_Metallic_Text.mogrt",
+    "name": "Metallic Text",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Metallic_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Metallic_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Metallic_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T07:51:57.901Z",
+    "github_asset_ids": [
+      746745640,
+      746745671,
+      746745684
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Mrbeast_Style_Subtitles.mogrt",
     "name": "Mrbeast Style Subtitles",
     "category": "QuickSub-Mogrt",
