@@ -114,6 +114,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-FFX_Metallic_Text.ffx",
+    "name": "Metallic Text",
+    "category": "QuickSub-FFX",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-FFX_Metallic_Text.ffx",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-FFX_Metallic_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-FFX_Metallic_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T08:34:21.750Z",
+    "github_asset_ids": [
+      746846225,
+      746846257,
+      746846300
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-FFX_Orange_Gradient_Text.ffx",
     "name": "Orange Gradient Text",
     "category": "QuickSub-FFX",
