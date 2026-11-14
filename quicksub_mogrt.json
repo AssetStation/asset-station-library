@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-Mogrt_Clean_Apple.mogrt",
+    "name": "Clean Apple",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Clean_Apple.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Clean_Apple.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Clean_Apple_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T08:24:45.661Z",
+    "github_asset_ids": [
+      746823168,
+      746823192,
+      746823219
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Flickering_Text_1.mogrt",
     "name": "Flickering Text 1",
     "category": "QuickSub-Mogrt",
