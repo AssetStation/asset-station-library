@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-Mogrt_Gradient_Text.mogrt",
+    "name": "Gradient Text",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Gradient_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Gradient_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Gradient_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T07:52:10.959Z",
+    "github_asset_ids": [
+      746746171,
+      746746219,
+      746746251
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Metallic_Text.mogrt",
     "name": "Metallic Text",
     "category": "QuickSub-Mogrt",
