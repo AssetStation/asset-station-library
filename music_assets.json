@@ -17,6 +17,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "Music_Drone_Shot_-_Dyalla.mp3",
+    "name": "Drone Shot - Dyalla",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Drone_Shot_-_Dyalla.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Drone_Shot_-_Dyalla_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T19:51:21.126Z",
+    "github_asset_ids": [
+      748596656,
+      748596749
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "Music_Fluffing_a_Duck_-_Kevin_MacLeod.mp3",
     "name": "Fluffing a Duck - Kevin MacLeod",
     "category": "Music",
