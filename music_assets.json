@@ -85,6 +85,23 @@
     "resolution": "320x180"
   },
   {
+    "id": "Music_Rollin_-_Lauren_Duski.mp3",
+    "name": "Rollin - Lauren Duski",
+    "category": "Music",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Rollin_-_Lauren_Duski.mp3",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Music_Rollin_-_Lauren_Duski_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-14T19:51:36.458Z",
+    "github_asset_ids": [
+      748597396,
+      748597480
+    ],
+    "width": 320,
+    "height": 180,
+    "resolution": "320x180"
+  },
+  {
     "id": "Music_Scheming_Weasel_faster_Version_by_Kevin_MacLeod_-_Chosic.mp3",
     "name": "Scheming Weasel faster Version by Kevin MacLeod - Chosic",
     "category": "Music",
