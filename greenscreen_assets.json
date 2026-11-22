@@ -118,6 +118,23 @@
     "resolution": "1280x720"
   },
   {
+    "id": "GreenScreen_Dot_Grid_Wipe_9.16.mp4",
+    "name": "Dot Grid Wipe 9.16",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Dot_Grid_Wipe_9.16.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Dot_Grid_Wipe_9.16_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-22T07:27:44.336Z",
+    "github_asset_ids": [
+      778261218,
+      778261277
+    ],
+    "width": 1080,
+    "height": 1920,
+    "resolution": "1080x1920"
+  },
+  {
     "id": "GreenScreen_Fire_overlay.mp4",
     "name": "Fire overlay",
     "category": "GreenScreen",
