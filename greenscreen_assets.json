@@ -34,6 +34,23 @@
     "resolution": "288x352"
   },
   {
+    "id": "GreenScreen_Blocky_Pixel_Wipe_16.9.mp4",
+    "name": "Blocky Pixel Wipe 16.9",
+    "category": "GreenScreen",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Blocky_Pixel_Wipe_16.9.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/GreenScreen_Blocky_Pixel_Wipe_16.9_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-22T07:27:51.022Z",
+    "github_asset_ids": [
+      778261400,
+      778261439
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "GreenScreen_Blocky_Pixel_Wipe_9.16.mp4",
     "name": "Blocky Pixel Wipe 9.16",
     "category": "GreenScreen",
