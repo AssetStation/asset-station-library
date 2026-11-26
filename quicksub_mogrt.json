@@ -114,6 +114,25 @@
     "resolution": "1280x720"
   },
   {
+    "id": "QuickSub-Mogrt_Shadow_Text.mogrt",
+    "name": "Shadow Text",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Shadow_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Shadow_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Shadow_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-26T20:27:50.168Z",
+    "github_asset_ids": [
+      797580763,
+      797580806,
+      797580875
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Sliding_Text.mogrt",
     "name": "Sliding Text",
     "category": "QuickSub-Mogrt",
