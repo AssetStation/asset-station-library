@@ -171,6 +171,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-Mogrt_Smooth_Slide.mogrt",
+    "name": "Smooth Slide",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Smooth_Slide.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Smooth_Slide.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Smooth_Slide_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-26T10:08:53.870Z",
+    "github_asset_ids": [
+      795299005,
+      795299033,
+      795299078
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Super_Trendy.mogrt",
     "name": "Super Trendy",
     "category": "QuickSub-Mogrt",
