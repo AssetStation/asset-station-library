@@ -133,6 +133,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-Mogrt_Smooth_Cross.mogrt",
+    "name": "Smooth Cross",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Smooth_Cross.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Smooth_Cross.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Smooth_Cross_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-26T10:08:39.238Z",
+    "github_asset_ids": [
+      795298160,
+      795298189,
+      795298245
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Super_Trendy.mogrt",
     "name": "Super Trendy",
     "category": "QuickSub-Mogrt",
