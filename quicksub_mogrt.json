@@ -19,6 +19,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "QuickSub-Mogrt_Bounce_Text.mogrt",
+    "name": "Bounce Text",
+    "category": "QuickSub-Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Bounce_Text.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Bounce_Text.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Bounce_Text_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-26T20:28:06.740Z",
+    "github_asset_ids": [
+      797581546,
+      797581589,
+      797581630
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "QuickSub-Mogrt_Clean_Apple.mogrt",
     "name": "Clean Apple",
     "category": "QuickSub-Mogrt",
