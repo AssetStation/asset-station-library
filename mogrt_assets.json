@@ -95,6 +95,25 @@
     "resolution": "1920x1080"
   },
   {
+    "id": "Mogrt_Devin_Jatho_Style.mogrt",
+    "name": "Devin Jatho Style",
+    "category": "Mogrt",
+    "description": "",
+    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Devin_Jatho_Style.mogrt",
+    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Devin_Jatho_Style.mp4",
+    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/Mogrt_Devin_Jatho_Style_thumb.jpg",
+    "source": "motionkit.",
+    "date": "2026-11-28T10:39:04.805Z",
+    "github_asset_ids": [
+      804187569,
+      804187617,
+      804187666
+    ],
+    "width": 1920,
+    "height": 1080,
+    "resolution": "1920x1080"
+  },
+  {
     "id": "Mogrt_Devin_Jatho_Style_1.mogrt",
     "name": "Devin Jatho Style 1",
     "category": "Mogrt",
