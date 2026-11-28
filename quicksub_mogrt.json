@@ -57,25 +57,6 @@
     "resolution": "1920x1080"
   },
   {
-    "id": "QuickSub-Mogrt_Devin_Jatho_Style.mogrt",
-    "name": "Devin Jatho Style",
-    "category": "QuickSub-Mogrt",
-    "description": "",
-    "download_url": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Devin_Jatho_Style.mogrt",
-    "preview_video": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Devin_Jatho_Style.mp4",
-    "thumb": "https://github.com/AssetStation/asset-station-library/releases/download/storage_2/QuickSub-Mogrt_Devin_Jatho_Style_thumb.jpg",
-    "source": "motionkit.",
-    "date": "2026-11-28T13:34:10.360Z",
-    "github_asset_ids": [
-      804685621,
-      804685670,
-      804685719
-    ],
-    "width": 1920,
-    "height": 1080,
-    "resolution": "1920x1080"
-  },
-  {
     "id": "QuickSub-Mogrt_Flickering_Text_1.mogrt",
     "name": "Flickering Text 1",
     "category": "QuickSub-Mogrt",
